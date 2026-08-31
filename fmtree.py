@@ -19,6 +19,7 @@ from pathlib import Path
 from typing import Iterable
 
 ROOT = Path(__file__).resolve().parent
+
 SKIP_DIRECTORIES = {
     ".git",
     ".venv",
@@ -27,8 +28,19 @@ SKIP_DIRECTORIES = {
     ".mypy_cache",
     ".ruff_cache",
     "node_modules",
+    ".github",
+    ".vscode"
 }
-SKIP_FILES = {".DS_Store", "files.json"}
+SKIP_FILES = {
+    ".DS_Store", 
+    "files.json",
+    ".nojekyll",
+    "index.html",
+    "app.js",
+    "styles.css",
+    "fallback.html",
+    "favicon.png"
+}
 
 
 def run_git(*arguments: str) -> str:
