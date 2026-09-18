@@ -1,4 +1,4 @@
-# POLITICAL-THEORY07-NATIONALISM — Nationalism | Glossary
+# Subject | Chapter 07 | Nationalism Glossary | GLOSSARY
 
 | Term | Definition |
 |------|------------|

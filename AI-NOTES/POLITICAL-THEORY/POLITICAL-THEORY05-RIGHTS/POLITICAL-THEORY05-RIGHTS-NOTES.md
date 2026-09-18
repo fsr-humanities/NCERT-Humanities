@@ -1,4 +1,4 @@
-# POLITICAL-THEORY05-RIGHTS — Rights
+# Subject | Chapter 05 | Rights Notes | NOTES
 
 ## Overview
 

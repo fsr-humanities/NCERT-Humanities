@@ -1,4 +1,4 @@
-# POLITICAL-THEORY02-FREEDOM — Freedom
+# Subject | Chapter 02 | Freedom Notes | NOTES
 
 ## Overview
 

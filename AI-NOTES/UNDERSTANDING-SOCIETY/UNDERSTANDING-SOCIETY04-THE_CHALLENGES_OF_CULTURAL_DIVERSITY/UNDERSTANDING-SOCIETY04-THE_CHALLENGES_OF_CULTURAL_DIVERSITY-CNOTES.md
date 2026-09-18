@@ -1,4 +1,4 @@
-# UNDERSTANDING-SOCIETY04-THE_CHALLENGES_OF_CULTURAL_DIVERSITY — The Challenges Of Cultural Diversity | Revision Mindmaps
+# Subject | Chapter 04 | THE Challenges OF Cultural Diversity Cnotes | CNOTES
 
 ## Central Topic: The Challenges Of Cultural Diversity
 

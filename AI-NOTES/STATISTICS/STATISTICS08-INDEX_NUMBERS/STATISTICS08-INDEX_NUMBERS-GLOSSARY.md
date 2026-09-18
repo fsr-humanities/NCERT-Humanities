@@ -1,4 +1,4 @@
-# STATISTICS08-INDEX_NUMBERS — Index Numbers | Glossary
+# Subject | Chapter 08 | Index Numbers Glossary | GLOSSARY
 
 | Term | Definition |
 |------|------------|

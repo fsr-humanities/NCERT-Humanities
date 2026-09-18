@@ -1,4 +1,4 @@
-# POLITICAL-THEORY08-SECULARISM — Secularism
+# Subject | Chapter 08 | Secularism Notes | NOTES
 
 ## Overview
 

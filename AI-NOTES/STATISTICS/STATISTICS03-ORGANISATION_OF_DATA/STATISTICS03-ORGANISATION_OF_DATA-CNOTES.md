@@ -1,4 +1,4 @@
-# STATISTICS03-ORGANISATION_OF_DATA — Organisation Of Data | Revision Mindmaps
+# Subject | Chapter 03 | Organisation OF DATA Cnotes | CNOTES
 
 ## Central Topic: Organisation Of Data
 

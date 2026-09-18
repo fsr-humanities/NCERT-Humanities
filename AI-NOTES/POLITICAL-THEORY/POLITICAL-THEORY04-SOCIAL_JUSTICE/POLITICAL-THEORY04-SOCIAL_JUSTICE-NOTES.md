@@ -1,4 +1,4 @@
-# POLITICAL-THEORY04-SOCIAL_JUSTICE — Social Justice
+# Subject | Chapter 04 | Social Justice Notes | NOTES
 
 ## Overview
 

@@ -1,4 +1,4 @@
-# MICROECONOMICS05-MARKET_EQUILIBRIUM — Market Equilibrium | Glossary
+# Subject | Chapter 05 | Market Equilibrium Glossary | GLOSSARY
 
 | Term | Definition |
 |------|------------|

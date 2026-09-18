@@ -1,4 +1,4 @@
-# MICROECONOMICS05-MARKET_EQUILIBRIUM — Market Equilibrium | Revision Mindmaps
+# Subject | Chapter 05 | Market Equilibrium Cnotes | CNOTES
 
 ## Central Topic: Market Equilibrium
 

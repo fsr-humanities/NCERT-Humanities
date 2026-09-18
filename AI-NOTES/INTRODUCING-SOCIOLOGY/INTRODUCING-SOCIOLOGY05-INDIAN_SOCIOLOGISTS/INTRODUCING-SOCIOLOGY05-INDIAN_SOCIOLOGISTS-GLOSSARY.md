@@ -1,4 +1,4 @@
-# INTRODUCING-SOCIOLOGY05-INDIAN_SOCIOLOGISTS — Indian Sociologists | Glossary
+# Subject | Chapter 05 | Indian Sociologists Glossary | GLOSSARY
 
 | Term | Definition |
 |------|------------|

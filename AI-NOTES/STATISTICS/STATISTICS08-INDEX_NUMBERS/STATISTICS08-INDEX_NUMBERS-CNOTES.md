@@ -1,4 +1,4 @@
-# STATISTICS08-INDEX_NUMBERS — Index Numbers | Revision Mindmaps
+# Subject | Chapter 08 | Index Numbers Cnotes | CNOTES
 
 ## Central Topic: Index Numbers
 

@@ -1,4 +1,4 @@
-# THEMES-IN-WORLD-HISTORY06-THE_THREE_ORDERS — The Three Orders | Glossary
+# Subject | Chapter 06 | THE Three Orders Glossary | GLOSSARY
 
 | Term | Definition |
 |------|------------|

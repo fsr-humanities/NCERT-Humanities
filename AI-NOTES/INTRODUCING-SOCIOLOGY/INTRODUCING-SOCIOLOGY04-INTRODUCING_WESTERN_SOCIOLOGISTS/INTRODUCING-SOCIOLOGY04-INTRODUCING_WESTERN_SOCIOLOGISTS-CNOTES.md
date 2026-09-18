@@ -1,4 +1,4 @@
-# INTRODUCING-SOCIOLOGY04-INTRODUCING_WESTERN_SOCIOLOGISTS — Introducing Western Sociologists | Revision Mindmaps
+# Subject | Chapter 04 | Introducing Western Sociologists Cnotes | CNOTES
 
 ## Central Topic: Introducing Western Sociologists
 

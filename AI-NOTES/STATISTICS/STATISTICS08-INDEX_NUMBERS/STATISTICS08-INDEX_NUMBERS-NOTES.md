@@ -1,4 +1,4 @@
-# STATISTICS08-INDEX_NUMBERS — Index Numbers
+# Subject | Chapter 08 | Index Numbers Notes | NOTES
 
 ## Overview
 

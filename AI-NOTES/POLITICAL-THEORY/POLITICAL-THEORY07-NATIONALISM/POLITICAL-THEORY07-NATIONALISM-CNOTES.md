@@ -1,4 +1,4 @@
-# POLITICAL-THEORY07-NATIONALISM — Nationalism | Revision Mindmaps
+# Subject | Chapter 07 | Nationalism Cnotes | CNOTES
 
 ## Central Topic: Nationalism
 

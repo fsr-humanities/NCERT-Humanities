@@ -1,4 +1,4 @@
-# INDIAN-CONSTITUTION-AT-WORK03-ELECTION_AND_REPRESENTATION — Election And Representation | Glossary
+# Indian Constitution at Work | Chapter 03 | Election AND Representation Glossary | GLOSSARY
 
 | Term | Definition |
 |------|------------|

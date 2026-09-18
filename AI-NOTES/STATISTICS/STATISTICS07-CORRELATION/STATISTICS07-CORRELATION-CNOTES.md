@@ -1,4 +1,4 @@
-# STATISTICS07-CORRELATION — Correlation | Revision Mindmaps
+# Subject | Chapter 07 | Correlation Cnotes | CNOTES
 
 ## Central Topic: Correlation
 

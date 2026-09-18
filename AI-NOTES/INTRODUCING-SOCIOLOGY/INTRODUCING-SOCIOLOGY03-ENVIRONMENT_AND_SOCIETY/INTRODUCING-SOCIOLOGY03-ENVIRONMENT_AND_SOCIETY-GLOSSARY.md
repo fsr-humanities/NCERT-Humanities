@@ -1,4 +1,4 @@
-# INTRODUCING-SOCIOLOGY03-ENVIRONMENT_AND_SOCIETY — Environment And Society | Glossary
+# Subject | Chapter 03 | Environment AND Society Glossary | GLOSSARY
 
 | Term | Definition |
 |------|------------|

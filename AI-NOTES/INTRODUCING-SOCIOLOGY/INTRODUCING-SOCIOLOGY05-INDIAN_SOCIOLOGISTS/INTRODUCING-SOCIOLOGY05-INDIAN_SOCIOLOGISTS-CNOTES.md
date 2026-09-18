@@ -1,4 +1,4 @@
-# INTRODUCING-SOCIOLOGY05-INDIAN_SOCIOLOGISTS — Indian Sociologists | Revision Mindmaps
+# Subject | Chapter 05 | Indian Sociologists Cnotes | CNOTES
 
 ## Central Topic: Indian Sociologists
 

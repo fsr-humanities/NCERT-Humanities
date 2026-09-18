@@ -1,4 +1,4 @@
-# MICROECONOMICS02-THEORY_OF_CONSUMER_BEHAVIOUR — Theory Of Consumer Behaviour | Glossary
+# Subject | Chapter 02 | Theory OF Consumer Behaviour Glossary | GLOSSARY
 
 | Term | Definition |
 |------|------------|

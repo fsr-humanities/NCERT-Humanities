@@ -1,4 +1,4 @@
-# POLITICAL-THEORY04-SOCIAL_JUSTICE — Social Justice | Glossary
+# Subject | Chapter 04 | Social Justice Glossary | GLOSSARY
 
 | Term | Definition |
 |------|------------|

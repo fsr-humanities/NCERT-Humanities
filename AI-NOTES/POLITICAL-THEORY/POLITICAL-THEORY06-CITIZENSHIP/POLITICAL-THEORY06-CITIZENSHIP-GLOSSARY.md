@@ -1,4 +1,4 @@
-# POLITICAL-THEORY06-CITIZENSHIP — Citizenship | Glossary
+# Subject | Chapter 06 | Citizenship Glossary | GLOSSARY
 
 | Term | Definition |
 |------|------------|

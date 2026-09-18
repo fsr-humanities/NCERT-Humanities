@@ -1,4 +1,4 @@
-# UNDERSTANDING-SOCIETY05-CHANGE_AND_DEVELOPMENT_IN_RURAL_SOCIETY — Change And Development In Rural Society | Revision Mindmaps
+# Subject | Chapter 05 | Change AND Development IN Rural Society Cnotes | CNOTES
 
 ## Central Topic: Change And Development In Rural Society
 

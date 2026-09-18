@@ -1,4 +1,4 @@
-# THEMES-IN-WORLD-HISTORY06-THE_THREE_ORDERS — The Three Orders | Revision Mindmaps
+# Subject | Chapter 06 | THE Three Orders Cnotes | CNOTES
 
 ## Central Topic: The Three Orders
 

@@ -1,4 +1,4 @@
-# INTRODUCING-SOCIOLOGY04-INTRODUCING_WESTERN_SOCIOLOGISTS — Introducing Western Sociologists | Glossary
+# Subject | Chapter 04 | Introducing Western Sociologists Glossary | GLOSSARY
 
 | Term | Definition |
 |------|------------|

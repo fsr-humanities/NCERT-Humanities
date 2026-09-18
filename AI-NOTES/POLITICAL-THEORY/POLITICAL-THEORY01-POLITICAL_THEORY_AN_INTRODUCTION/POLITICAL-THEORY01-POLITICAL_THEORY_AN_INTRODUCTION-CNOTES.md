@@ -1,4 +1,4 @@
-# POLITICAL-THEORY01-POLITICAL_THEORY_AN_INTRODUCTION — Political Theory An Introduction | Revision Mindmaps
+# Subject | Chapter 01 | Political Theory AN Introduction Cnotes | CNOTES
 
 ## Central Topic: Political Theory An Introduction
 

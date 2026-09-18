@@ -1,4 +1,4 @@
-# STATISTICS07-CORRELATION — Correlation | Glossary
+# Subject | Chapter 07 | Correlation Glossary | GLOSSARY
 
 | Term | Definition |
 |------|------------|

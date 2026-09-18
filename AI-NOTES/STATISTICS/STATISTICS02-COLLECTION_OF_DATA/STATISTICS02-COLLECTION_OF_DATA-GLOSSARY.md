@@ -1,4 +1,4 @@
-# STATISTICS02-COLLECTION_OF_DATA — Collection Of Data | Glossary
+# Subject | Chapter 02 | Collection OF DATA Glossary | GLOSSARY
 
 | Term | Definition |
 |------|------------|

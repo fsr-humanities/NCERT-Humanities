@@ -1,4 +1,4 @@
-# INTRODUCING-SOCIOLOGY01-SOCIETY_AND_SOCIOLOGY — Society And Sociology | Revision Mindmaps
+# Subject | Chapter 01 | Society AND Sociology Cnotes | CNOTES
 
 ## Central Topic: Society And Sociology
 

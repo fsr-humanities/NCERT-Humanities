@@ -1,4 +1,4 @@
-# POLITICAL-THEORY03-EQUALITY — Equality
+# Subject | Chapter 03 | Equality Notes | NOTES
 
 ## Overview
 

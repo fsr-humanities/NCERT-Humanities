@@ -1,4 +1,4 @@
-# THEMES-IN-WORLD-HISTORY03-AN_EMPIRE_ACROSS_THREE_CONTINENTS — An Empire Across Three Continents | Revision Mindmaps
+# Subject | Chapter 03 | AN Empire Across Three Continents Cnotes | CNOTES
 
 ## Central Topic: An Empire Across Three Continents
 

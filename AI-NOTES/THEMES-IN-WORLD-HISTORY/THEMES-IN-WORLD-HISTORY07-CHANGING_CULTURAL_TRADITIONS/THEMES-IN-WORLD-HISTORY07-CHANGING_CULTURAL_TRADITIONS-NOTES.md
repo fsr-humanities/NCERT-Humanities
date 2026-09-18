@@ -1,4 +1,4 @@
-# THEMES-IN-WORLD-HISTORY07-CHANGING_CULTURAL_TRADITIONS — Changing Cultural Traditions
+# Subject | Chapter 07 | Changing Cultural Traditions Notes | NOTES
 
 ## Overview
 

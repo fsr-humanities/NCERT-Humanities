@@ -1,4 +1,4 @@
-# STATISTICS01-INTRODUCTION — Introduction | Glossary
+# Subject | Chapter 01 | Introduction Glossary | GLOSSARY
 
 | Term | Definition |
 |------|------------|

@@ -1,4 +1,4 @@
-# INDIAN-CONSTITUTION-AT-WORK06-JUDICIARY — Judiciary | Glossary
+# Indian Constitution at Work | Chapter 06 | Judiciary Glossary | GLOSSARY
 
 | Term | Definition |
 |------|------------|

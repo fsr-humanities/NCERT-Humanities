@@ -1,4 +1,4 @@
-# STATISTICS02-COLLECTION_OF_DATA — Collection Of Data | Revision Mindmaps
+# Subject | Chapter 02 | Collection OF DATA Cnotes | CNOTES
 
 ## Central Topic: Collection Of Data
 

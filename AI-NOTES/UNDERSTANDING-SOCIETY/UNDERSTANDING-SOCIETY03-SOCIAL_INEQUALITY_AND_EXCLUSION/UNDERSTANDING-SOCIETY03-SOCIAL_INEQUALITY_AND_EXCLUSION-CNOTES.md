@@ -1,4 +1,4 @@
-# UNDERSTANDING-SOCIETY03-SOCIAL_INEQUALITY_AND_EXCLUSION — Social Inequality And Exclusion | Revision Mindmaps
+# Subject | Chapter 03 | Social Inequality AND Exclusion Cnotes | CNOTES
 
 ## Central Topic: Social Inequality And Exclusion
 

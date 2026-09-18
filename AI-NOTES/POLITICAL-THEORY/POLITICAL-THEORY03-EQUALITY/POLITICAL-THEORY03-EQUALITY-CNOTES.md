@@ -1,4 +1,4 @@
-# POLITICAL-THEORY03-EQUALITY — Equality | Revision Mindmaps
+# Subject | Chapter 03 | Equality Cnotes | CNOTES
 
 ## Central Topic: Equality
 

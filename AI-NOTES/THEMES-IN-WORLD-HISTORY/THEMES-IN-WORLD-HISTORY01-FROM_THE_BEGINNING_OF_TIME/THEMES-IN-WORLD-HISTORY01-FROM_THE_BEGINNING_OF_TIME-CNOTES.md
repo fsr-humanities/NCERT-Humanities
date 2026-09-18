@@ -1,4 +1,4 @@
-# THEMES-IN-WORLD-HISTORY01-FROM_THE_BEGINNING_OF_TIME — From The Beginning Of Time | Revision Mindmaps
+# Subject | Chapter 01 | FROM THE Beginning OF TIME Cnotes | CNOTES
 
 ## Central Topic: From The Beginning Of Time
 

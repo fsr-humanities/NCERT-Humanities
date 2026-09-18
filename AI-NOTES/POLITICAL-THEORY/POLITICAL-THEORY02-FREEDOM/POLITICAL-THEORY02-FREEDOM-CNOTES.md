@@ -1,4 +1,4 @@
-# POLITICAL-THEORY02-FREEDOM — Freedom | Revision Mindmaps
+# Subject | Chapter 02 | Freedom Cnotes | CNOTES
 
 ## Central Topic: Freedom
 

@@ -1,4 +1,4 @@
-# UNDERSTANDING-SOCIETY01-STRUCTURES_OF_SOCIETY — Structures Of Society | Glossary
+# Subject | Chapter 01 | Structures OF Society Glossary | GLOSSARY
 
 | Term | Definition |
 |------|------------|

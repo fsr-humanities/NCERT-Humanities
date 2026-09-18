@@ -1,4 +1,4 @@
-# THEMES-IN-WORLD-HISTORY04-THE_CENTRAL_ISLAMIC_LANDS — The Central Islamic Lands | Revision Mindmaps
+# Subject | Chapter 04 | THE Central Islamic Lands Cnotes | CNOTES
 
 ## Central Topic: The Central Islamic Lands
 

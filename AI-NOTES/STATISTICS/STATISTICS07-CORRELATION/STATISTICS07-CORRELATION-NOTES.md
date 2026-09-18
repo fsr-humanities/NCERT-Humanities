@@ -1,4 +1,4 @@
-# STATISTICS07-CORRELATION — Correlation
+# Subject | Chapter 07 | Correlation Notes | NOTES
 
 ## Overview
 

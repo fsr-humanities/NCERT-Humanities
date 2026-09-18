@@ -1,4 +1,4 @@
-# STATISTICS06-MEASURES_OF_DISPERSION — Measures Of Dispersion | Glossary
+# Subject | Chapter 06 | Measures OF Dispersion Glossary | GLOSSARY
 
 | Term | Definition |
 |------|------------|

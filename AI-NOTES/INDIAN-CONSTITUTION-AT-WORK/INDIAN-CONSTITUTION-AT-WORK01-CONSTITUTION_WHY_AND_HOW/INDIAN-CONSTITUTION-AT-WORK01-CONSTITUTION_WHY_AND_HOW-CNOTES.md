@@ -1,4 +1,4 @@
-# Chapter 1: Constitution: Why and How? — Revision MindMaps
+# Indian Constitution at Work | Chapter 01 | Constitution WHY AND HOW Cnotes | CNOTES
 **Subject:** Indian Constitution at Work · Class XI Political Science (NCERT)
 
 > 🧠 Render with: Obsidian (Mermaid plugin) · Logseq · VS Code + Mermaid extension

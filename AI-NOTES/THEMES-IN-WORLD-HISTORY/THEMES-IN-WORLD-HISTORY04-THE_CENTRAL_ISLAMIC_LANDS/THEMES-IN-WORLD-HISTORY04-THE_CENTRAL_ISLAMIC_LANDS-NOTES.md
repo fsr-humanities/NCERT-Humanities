@@ -1,4 +1,4 @@
-# THEMES-IN-WORLD-HISTORY04-THE_CENTRAL_ISLAMIC_LANDS — The Central Islamic Lands
+# Subject | Chapter 04 | THE Central Islamic Lands Notes | NOTES
 
 ## Overview
 

@@ -1,4 +1,4 @@
-# INTRODUCING-SOCIOLOGY02-SOCIAL_CHANGE_AND_SOCIAL_ORDER — Social Change And Social Order | Revision Mindmaps
+# Subject | Chapter 02 | Social Change AND Social Order Cnotes | CNOTES
 
 ## Central Topic: Social Change And Social Order
 

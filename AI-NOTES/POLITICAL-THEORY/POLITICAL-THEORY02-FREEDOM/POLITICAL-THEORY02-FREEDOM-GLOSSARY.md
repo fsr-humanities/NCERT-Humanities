@@ -1,4 +1,4 @@
-# POLITICAL-THEORY02-FREEDOM — Freedom | Glossary
+# Subject | Chapter 02 | Freedom Glossary | GLOSSARY
 
 | Term | Definition |
 |------|------------|

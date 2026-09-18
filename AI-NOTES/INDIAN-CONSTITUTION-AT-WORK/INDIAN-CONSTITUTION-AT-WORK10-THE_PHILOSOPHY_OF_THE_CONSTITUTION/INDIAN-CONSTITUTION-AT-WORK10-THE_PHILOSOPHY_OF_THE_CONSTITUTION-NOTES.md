@@ -1,4 +1,4 @@
-# INDIAN-CONSTITUTION-AT-WORK10-THE_PHILOSOPHY_OF_THE_CONSTITUTION — The Philosophy Of The Constitution
+# Indian Constitution at Work | Chapter 10 | THE Philosophy OF THE Constitution Notes | NOTES
 
 ## Overview
 

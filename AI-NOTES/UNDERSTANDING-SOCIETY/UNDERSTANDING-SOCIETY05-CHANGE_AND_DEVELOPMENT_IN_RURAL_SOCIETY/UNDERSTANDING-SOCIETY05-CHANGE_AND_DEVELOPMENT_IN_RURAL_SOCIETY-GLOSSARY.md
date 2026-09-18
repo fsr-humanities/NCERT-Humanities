@@ -1,4 +1,4 @@
-# UNDERSTANDING-SOCIETY05-CHANGE_AND_DEVELOPMENT_IN_RURAL_SOCIETY — Change And Development In Rural Society | Glossary
+# Subject | Chapter 05 | Change AND Development IN Rural Society Glossary | GLOSSARY
 
 | Term | Definition |
 |------|------------|

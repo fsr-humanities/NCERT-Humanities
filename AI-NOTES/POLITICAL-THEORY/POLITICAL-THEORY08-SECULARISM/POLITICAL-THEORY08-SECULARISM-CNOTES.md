@@ -1,4 +1,4 @@
-# POLITICAL-THEORY08-SECULARISM — Secularism | Revision Mindmaps
+# Subject | Chapter 08 | Secularism Cnotes | CNOTES
 
 ## Central Topic: Secularism
 

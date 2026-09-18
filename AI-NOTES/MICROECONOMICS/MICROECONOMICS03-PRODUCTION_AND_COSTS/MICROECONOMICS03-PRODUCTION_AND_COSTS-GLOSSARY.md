@@ -1,4 +1,4 @@
-# MICROECONOMICS03-PRODUCTION_AND_COSTS — Production And Costs | Glossary
+# Subject | Chapter 03 | Production AND Costs Glossary | GLOSSARY
 
 | Term | Definition |
 |------|------------|

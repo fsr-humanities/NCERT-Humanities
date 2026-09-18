@@ -1,4 +1,4 @@
-# UNDERSTANDING-SOCIETY04-THE_CHALLENGES_OF_CULTURAL_DIVERSITY — The Challenges Of Cultural Diversity
+# Subject | Chapter 04 | THE Challenges OF Cultural Diversity Notes | NOTES
 
 ## Overview
 

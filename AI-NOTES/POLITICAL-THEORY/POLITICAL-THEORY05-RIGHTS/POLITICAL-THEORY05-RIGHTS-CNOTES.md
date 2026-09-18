@@ -1,4 +1,4 @@
-# POLITICAL-THEORY05-RIGHTS — Rights | Revision Mindmaps
+# Subject | Chapter 05 | Rights Cnotes | CNOTES
 
 ## Central Topic: Rights
 

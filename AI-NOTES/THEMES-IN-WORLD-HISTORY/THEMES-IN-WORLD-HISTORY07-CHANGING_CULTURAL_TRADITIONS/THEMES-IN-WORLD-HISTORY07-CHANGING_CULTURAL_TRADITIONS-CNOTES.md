@@ -1,4 +1,4 @@
-# THEMES-IN-WORLD-HISTORY07-CHANGING_CULTURAL_TRADITIONS — Changing Cultural Traditions | Revision Mindmaps
+# Subject | Chapter 07 | Changing Cultural Traditions Cnotes | CNOTES
 
 ## Central Topic: Changing Cultural Traditions
 

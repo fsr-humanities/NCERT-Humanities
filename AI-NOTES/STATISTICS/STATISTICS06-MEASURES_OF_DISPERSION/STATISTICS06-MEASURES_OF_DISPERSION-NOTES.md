@@ -1,4 +1,4 @@
-# STATISTICS06-MEASURES_OF_DISPERSION — Measures Of Dispersion
+# Subject | Chapter 06 | Measures OF Dispersion Notes | NOTES
 
 ## Overview
 

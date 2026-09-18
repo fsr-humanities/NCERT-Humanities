@@ -1,4 +1,4 @@
-# POLITICAL-THEORY04-SOCIAL_JUSTICE — Social Justice | Revision Mindmaps
+# Subject | Chapter 04 | Social Justice Cnotes | CNOTES
 
 ## Central Topic: Social Justice
 

@@ -1,4 +1,4 @@
-# POLITICAL-THEORY08-SECULARISM — Secularism | Glossary
+# Subject | Chapter 08 | Secularism Glossary | GLOSSARY
 
 | Term | Definition |
 |------|------------|

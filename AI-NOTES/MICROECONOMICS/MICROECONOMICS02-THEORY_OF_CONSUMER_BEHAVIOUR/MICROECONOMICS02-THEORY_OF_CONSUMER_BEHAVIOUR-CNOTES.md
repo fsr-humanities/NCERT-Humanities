@@ -1,4 +1,4 @@
-# MICROECONOMICS02-THEORY_OF_CONSUMER_BEHAVIOUR — Theory Of Consumer Behaviour | Revision Mindmaps
+# Subject | Chapter 02 | Theory OF Consumer Behaviour Cnotes | CNOTES
 
 ## Central Topic: Theory Of Consumer Behaviour
 

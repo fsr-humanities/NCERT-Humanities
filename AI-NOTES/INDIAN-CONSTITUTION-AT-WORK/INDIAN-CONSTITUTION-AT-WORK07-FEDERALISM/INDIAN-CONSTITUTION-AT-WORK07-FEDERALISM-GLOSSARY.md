@@ -1,4 +1,4 @@
-# INDIAN-CONSTITUTION-AT-WORK07-FEDERALISM — Federalism | Glossary
+# Indian Constitution at Work | Chapter 07 | Federalism Glossary | GLOSSARY
 
 | Term | Definition |
 |------|------------|

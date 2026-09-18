@@ -1,4 +1,4 @@
-# UNDERSTANDING-SOCIETY01-STRUCTURES_OF_SOCIETY — Structures Of Society | Revision Mindmaps
+# Subject | Chapter 01 | Structures OF Society Cnotes | CNOTES
 
 ## Central Topic: Structures Of Society
 

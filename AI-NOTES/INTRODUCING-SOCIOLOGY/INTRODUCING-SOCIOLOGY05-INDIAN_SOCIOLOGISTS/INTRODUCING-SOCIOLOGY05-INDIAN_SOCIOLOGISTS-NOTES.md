@@ -1,4 +1,4 @@
-# INTRODUCING-SOCIOLOGY05-INDIAN_SOCIOLOGISTS — Indian Sociologists
+# Subject | Chapter 05 | Indian Sociologists Notes | NOTES
 
 ## Overview
 

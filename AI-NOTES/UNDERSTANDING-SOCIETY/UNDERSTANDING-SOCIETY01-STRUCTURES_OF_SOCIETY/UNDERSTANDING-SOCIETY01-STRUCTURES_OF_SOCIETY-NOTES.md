@@ -1,4 +1,4 @@
-# UNDERSTANDING-SOCIETY01-STRUCTURES_OF_SOCIETY — Structures Of Society
+# Subject | Chapter 01 | Structures OF Society Notes | NOTES
 
 ## Overview
 

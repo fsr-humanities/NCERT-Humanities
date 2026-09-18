@@ -1,4 +1,4 @@
-# STATISTICS05-MEASURES_OF_CENTRAL_TENDENCY — Measures Of Central Tendency | Revision Mindmaps
+# Subject | Chapter 05 | Measures OF Central Tendency Cnotes | CNOTES
 
 ## Central Topic: Measures Of Central Tendency
 

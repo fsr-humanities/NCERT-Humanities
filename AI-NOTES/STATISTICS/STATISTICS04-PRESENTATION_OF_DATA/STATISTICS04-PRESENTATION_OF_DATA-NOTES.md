@@ -1,4 +1,4 @@
-# STATISTICS04-PRESENTATION_OF_DATA — Presentation Of Data
+# Subject | Chapter 04 | Presentation OF DATA Notes | NOTES
 
 ## Overview
 

@@ -1,4 +1,4 @@
-# INTRODUCING-SOCIOLOGY03-ENVIRONMENT_AND_SOCIETY — Environment And Society | Revision Mindmaps
+# Subject | Chapter 03 | Environment AND Society Cnotes | CNOTES
 
 ## Central Topic: Environment And Society
 

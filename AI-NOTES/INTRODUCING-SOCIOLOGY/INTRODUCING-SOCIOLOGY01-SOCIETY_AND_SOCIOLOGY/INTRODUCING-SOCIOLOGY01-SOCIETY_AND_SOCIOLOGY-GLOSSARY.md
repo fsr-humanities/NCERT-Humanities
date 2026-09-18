@@ -1,4 +1,4 @@
-# INTRODUCING-SOCIOLOGY01-SOCIETY_AND_SOCIOLOGY — Society And Sociology | Glossary
+# Subject | Chapter 01 | Society AND Sociology Glossary | GLOSSARY
 
 | Term | Definition |
 |------|------------|

@@ -1,4 +1,4 @@
-# THEMES-IN-WORLD-HISTORY02-EARLY_SOCIETIES — Early Societies
+# Subject | Chapter 02 | Early Societies Notes | NOTES
 
 ## Overview
 

@@ -1,4 +1,4 @@
-# INTRODUCING-SOCIOLOGY03-ENVIRONMENT_AND_SOCIETY — Environment And Society
+# Subject | Chapter 03 | Environment AND Society Notes | NOTES
 
 ## Overview
 

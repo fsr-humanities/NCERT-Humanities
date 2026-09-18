@@ -1,4 +1,4 @@
-# POLITICAL-THEORY07-NATIONALISM — Nationalism
+# Subject | Chapter 07 | Nationalism Notes | NOTES
 
 ## Overview
 

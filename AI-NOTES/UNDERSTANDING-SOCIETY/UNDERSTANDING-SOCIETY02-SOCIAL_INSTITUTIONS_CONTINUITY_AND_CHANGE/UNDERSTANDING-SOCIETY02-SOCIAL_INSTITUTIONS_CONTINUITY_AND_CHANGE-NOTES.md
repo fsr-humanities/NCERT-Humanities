@@ -1,4 +1,4 @@
-# UNDERSTANDING-SOCIETY02-SOCIAL_INSTITUTIONS_CONTINUITY_AND_CHANGE — Social Institutions Continuity And Change
+# Subject | Chapter 02 | Social Institutions Continuity AND Change Notes | NOTES
 
 ## Overview
 

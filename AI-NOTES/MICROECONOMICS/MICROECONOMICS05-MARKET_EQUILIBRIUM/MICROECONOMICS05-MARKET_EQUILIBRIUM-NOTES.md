@@ -1,4 +1,4 @@
-# MICROECONOMICS05-MARKET_EQUILIBRIUM — Market Equilibrium
+# Subject | Chapter 05 | Market Equilibrium Notes | NOTES
 
 ## Overview
 

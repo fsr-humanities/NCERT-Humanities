@@ -1,4 +1,4 @@
-# STATISTICS05-MEASURES_OF_CENTRAL_TENDENCY — Measures Of Central Tendency
+# Subject | Chapter 05 | Measures OF Central Tendency Notes | NOTES
 
 ## Overview
 

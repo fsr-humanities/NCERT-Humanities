@@ -1,4 +1,4 @@
-# STATISTICS04-PRESENTATION_OF_DATA — Presentation Of Data | Revision Mindmaps
+# Subject | Chapter 04 | Presentation OF DATA Cnotes | CNOTES
 
 ## Central Topic: Presentation Of Data
 

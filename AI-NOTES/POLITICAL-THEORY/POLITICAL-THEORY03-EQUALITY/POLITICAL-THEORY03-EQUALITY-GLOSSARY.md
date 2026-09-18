@@ -1,4 +1,4 @@
-# POLITICAL-THEORY03-EQUALITY — Equality | Glossary
+# Subject | Chapter 03 | Equality Glossary | GLOSSARY
 
 | Term | Definition |
 |------|------------|

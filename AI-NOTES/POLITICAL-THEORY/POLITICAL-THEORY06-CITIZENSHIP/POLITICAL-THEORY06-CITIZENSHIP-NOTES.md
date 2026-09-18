@@ -1,4 +1,4 @@
-# POLITICAL-THEORY06-CITIZENSHIP — Citizenship
+# Subject | Chapter 06 | Citizenship Notes | NOTES
 
 ## Overview
 

@@ -1,4 +1,4 @@
-# INTRODUCING-SOCIOLOGY04-INTRODUCING_WESTERN_SOCIOLOGISTS — Introducing Western Sociologists
+# Subject | Chapter 04 | Introducing Western Sociologists Notes | NOTES
 
 ## Overview
 

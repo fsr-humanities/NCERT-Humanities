@@ -1,4 +1,4 @@
-# INDIAN-CONSTITUTION-AT-WORK06-JUDICIARY — Judiciary | Revision Mindmaps
+# Indian Constitution at Work | Chapter 06 | Judiciary Cnotes | CNOTES
 
 ## Central Topic: Judiciary
 

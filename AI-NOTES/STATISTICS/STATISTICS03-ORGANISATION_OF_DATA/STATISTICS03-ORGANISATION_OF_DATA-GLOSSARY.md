@@ -1,4 +1,4 @@
-# STATISTICS03-ORGANISATION_OF_DATA — Organisation Of Data | Glossary
+# Subject | Chapter 03 | Organisation OF DATA Glossary | GLOSSARY
 
 | Term | Definition |
 |------|------------|

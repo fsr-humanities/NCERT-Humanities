@@ -1,4 +1,4 @@
-# STATISTICS01-INTRODUCTION — Introduction
+# Subject | Chapter 01 | Introduction Notes | NOTES
 
 ## Overview
 

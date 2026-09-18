@@ -1,4 +1,4 @@
-# MICROECONOMICS04-THE_THEORY_OF_THE_FIRM_UNDER_PERFECT_COMPETITION — The Theory Of The Firm Under Perfect Competition
+# Subject | Chapter 04 | THE Theory OF THE FIRM Under Perfect Competition Notes | NOTES
 
 ## Overview
 

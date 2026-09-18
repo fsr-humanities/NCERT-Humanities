@@ -1,4 +1,4 @@
-# THEMES-IN-WORLD-HISTORY06-THE_THREE_ORDERS — The Three Orders
+# Subject | Chapter 06 | THE Three Orders Notes | NOTES
 
 ## Overview
 

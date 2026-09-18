@@ -1,4 +1,4 @@
-# THEMES-IN-WORLD-HISTORY05-NOMADIC_EMPIRES — Nomadic Empires | Glossary
+# Subject | Chapter 05 | Nomadic Empires Glossary | GLOSSARY
 
 | Term | Definition |
 |------|------------|

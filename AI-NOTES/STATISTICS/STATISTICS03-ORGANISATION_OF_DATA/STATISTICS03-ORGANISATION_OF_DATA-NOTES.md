@@ -1,4 +1,4 @@
-# STATISTICS03-ORGANISATION_OF_DATA — Organisation Of Data
+# Subject | Chapter 03 | Organisation OF DATA Notes | NOTES
 
 ## Overview
 

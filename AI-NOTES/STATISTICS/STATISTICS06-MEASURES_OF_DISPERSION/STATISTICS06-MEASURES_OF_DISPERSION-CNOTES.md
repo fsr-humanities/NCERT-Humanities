@@ -1,4 +1,4 @@
-# STATISTICS06-MEASURES_OF_DISPERSION — Measures Of Dispersion | Revision Mindmaps
+# Subject | Chapter 06 | Measures OF Dispersion Cnotes | CNOTES
 
 ## Central Topic: Measures Of Dispersion
 

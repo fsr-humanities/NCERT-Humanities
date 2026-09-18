@@ -1,4 +1,4 @@
-# POLITICAL-THEORY06-CITIZENSHIP — Citizenship | Revision Mindmaps
+# Subject | Chapter 06 | Citizenship Cnotes | CNOTES
 
 ## Central Topic: Citizenship
 
