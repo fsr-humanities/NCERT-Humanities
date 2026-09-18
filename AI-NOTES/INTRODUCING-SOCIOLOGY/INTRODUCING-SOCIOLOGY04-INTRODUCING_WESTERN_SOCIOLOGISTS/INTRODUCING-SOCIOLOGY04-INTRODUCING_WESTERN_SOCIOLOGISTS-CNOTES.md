@@ -1,4 +1,4 @@
-# Humanities | Chapter EX | Sociology04 INTRODUCING WESTERN SOCIOLOGISTS | CNOTES
+# Subject | Chapter 04 | Introducing Western Sociologists | CNOTES
 
 ## Central Topic: Introducing Western Sociologists
 

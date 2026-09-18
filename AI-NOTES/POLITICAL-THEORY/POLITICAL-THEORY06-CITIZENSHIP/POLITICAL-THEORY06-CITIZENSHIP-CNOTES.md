@@ -1,4 +1,4 @@
-# Humanities | Chapter EX | Theory06 CITIZENSHIP | CNOTES
+# Subject | Chapter 06 | Citizenship | CNOTES
 
 ## Central Topic: Citizenship
 

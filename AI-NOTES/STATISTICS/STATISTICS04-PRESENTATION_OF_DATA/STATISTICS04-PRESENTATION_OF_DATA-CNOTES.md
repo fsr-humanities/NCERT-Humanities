@@ -1,4 +1,4 @@
-# Humanities | Chapter 04 | PRESENTATION of DATA | CNOTES
+# Subject | Chapter 04 | Presentation of Data | CNOTES
 
 ## Central Topic: Presentation Of Data
 

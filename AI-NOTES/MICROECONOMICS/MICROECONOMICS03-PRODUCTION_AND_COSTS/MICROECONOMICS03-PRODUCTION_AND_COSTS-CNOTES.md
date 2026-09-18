@@ -1,4 +1,4 @@
-# Humanities | Chapter 03 | PRODUCTION and COSTS | CNOTES
+# Subject | Chapter 03 | Production and Costs | CNOTES
 
 ## Central Topic: Production And Costs
 

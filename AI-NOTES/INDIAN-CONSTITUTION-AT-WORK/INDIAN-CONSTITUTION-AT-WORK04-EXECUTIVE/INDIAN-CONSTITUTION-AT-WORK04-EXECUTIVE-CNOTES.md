@@ -1,4 +1,4 @@
-# Humanities | Chapter EX | CONSTITUTION at Work04 EXECUTIVE | CNOTES
+# Indian Constitution at Work | Chapter 04 | Executive | CNOTES
 
 ## Central Topic: Executive
 

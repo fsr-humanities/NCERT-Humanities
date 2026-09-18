@@ -1,4 +1,4 @@
-# Humanities | Chapter EX | CONSTITUTION at Work08 LOCAL GOVERNMENTS | CNOTES
+# Indian Constitution at Work | Chapter 08 | Local Governments | CNOTES
 
 ## Central Topic: Local Governments
 

@@ -1,4 +1,4 @@
-# Humanities | Chapter EX | Society02 SOCIAL INSTITUTIONS CONTINUITY and CHANGE | CNOTES
+# Subject | Chapter 02 | Social Institutions Continuity and Change | CNOTES
 
 ## Central Topic: Social Institutions Continuity And Change
 

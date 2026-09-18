@@ -1,4 +1,4 @@
-# Humanities | Chapter EX | CONSTITUTION at Work05 LEGISLATURE | NOTES
+# Indian Constitution at Work | Chapter 05 | Legislature | NOTES
 
 ## Overview
 

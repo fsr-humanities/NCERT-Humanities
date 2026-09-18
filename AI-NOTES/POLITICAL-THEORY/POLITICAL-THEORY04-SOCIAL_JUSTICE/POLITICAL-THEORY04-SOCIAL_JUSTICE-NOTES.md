@@ -1,4 +1,4 @@
-# Humanities | Chapter EX | Theory04 SOCIAL JUSTICE | NOTES
+# Subject | Chapter 04 | Social Justice | NOTES
 
 ## Overview
 

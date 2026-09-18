@@ -1,4 +1,4 @@
-# Humanities | Chapter EX | Theory05 RIGHTS | CNOTES
+# Subject | Chapter 05 | Rights | CNOTES
 
 ## Central Topic: Rights
 

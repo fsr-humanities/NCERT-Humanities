@@ -1,4 +1,4 @@
-# Humanities | Chapter EX | CONSTITUTION at Work09 CONSTITUTION as a LIVING DOCUMENT | GLOSSARY
+# Indian Constitution at Work | Chapter 09 | Constitution as a Living Document | GLOSSARY
 
 | Term | Definition |
 |------|------------|

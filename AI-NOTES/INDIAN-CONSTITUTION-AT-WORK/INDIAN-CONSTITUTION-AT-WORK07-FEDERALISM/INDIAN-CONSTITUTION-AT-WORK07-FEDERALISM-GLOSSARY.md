@@ -1,4 +1,4 @@
-# Humanities | Chapter EX | CONSTITUTION at Work07 FEDERALISM | GLOSSARY
+# Indian Constitution at Work | Chapter 07 | Federalism | GLOSSARY
 
 | Term | Definition |
 |------|------------|

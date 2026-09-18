@@ -1,4 +1,4 @@
-# Humanities | Chapter EX | IN WORLD History01 from the BEGINNING of TIME | NOTES
+# Subject | Chapter 01 | From the Beginning of Time | NOTES
 
 ## Overview
 

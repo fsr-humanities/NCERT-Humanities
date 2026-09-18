@@ -1,4 +1,4 @@
-# Humanities | Chapter EX | IN WORLD History02 EARLY SOCIETIES | CNOTES
+# Subject | Chapter 02 | Early Societies | CNOTES
 
 ## Central Topic: Early Societies
 

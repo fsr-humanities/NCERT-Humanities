@@ -1,4 +1,4 @@
-# Humanities | Chapter EX | Theory07 NATIONALISM | CNOTES
+# Subject | Chapter 07 | Nationalism | CNOTES
 
 ## Central Topic: Nationalism
 

@@ -1,4 +1,4 @@
-# Humanities | Chapter EX | IN WORLD History05 NOMADIC EMPIRES | CNOTES
+# Subject | Chapter 05 | Nomadic Empires | CNOTES
 
 ## Central Topic: Nomadic Empires
 

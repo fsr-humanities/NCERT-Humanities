@@ -1,4 +1,4 @@
-# Humanities | Chapter 01 | INTRODUCTION | NOTES
+# Subject | Chapter 01 | Introduction | NOTES
 
 ## Overview
 

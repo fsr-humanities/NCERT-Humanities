@@ -1,4 +1,4 @@
-# Humanities | Chapter EX | Sociology03 ENVIRONMENT and SOCIETY | CNOTES
+# Subject | Chapter 03 | Environment and Society | CNOTES
 
 ## Central Topic: Environment And Society
 

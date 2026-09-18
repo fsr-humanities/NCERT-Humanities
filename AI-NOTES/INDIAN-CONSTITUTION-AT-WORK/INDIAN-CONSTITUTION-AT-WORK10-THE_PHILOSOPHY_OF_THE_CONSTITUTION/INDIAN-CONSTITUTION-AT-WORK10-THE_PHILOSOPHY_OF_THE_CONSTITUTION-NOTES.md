@@ -1,4 +1,4 @@
-# Humanities | Chapter EX | CONSTITUTION at Work10 the PHILOSOPHY of the CONSTITUTION | NOTES
+# Indian Constitution at Work | Chapter 10 | The Philosophy of the Constitution | NOTES
 
 ## Overview
 

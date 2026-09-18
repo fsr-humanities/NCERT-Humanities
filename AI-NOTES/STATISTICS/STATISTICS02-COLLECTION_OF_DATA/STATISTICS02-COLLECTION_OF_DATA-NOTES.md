@@ -1,4 +1,4 @@
-# Humanities | Chapter 02 | COLLECTION of DATA | NOTES
+# Subject | Chapter 02 | Collection of Data | NOTES
 
 ## Overview
 

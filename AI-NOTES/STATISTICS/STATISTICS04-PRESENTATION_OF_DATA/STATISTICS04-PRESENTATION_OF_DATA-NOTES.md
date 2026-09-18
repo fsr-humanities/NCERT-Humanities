@@ -1,4 +1,4 @@
-# Humanities | Chapter 04 | PRESENTATION of DATA | NOTES
+# Subject | Chapter 04 | Presentation of Data | NOTES
 
 ## Overview
 

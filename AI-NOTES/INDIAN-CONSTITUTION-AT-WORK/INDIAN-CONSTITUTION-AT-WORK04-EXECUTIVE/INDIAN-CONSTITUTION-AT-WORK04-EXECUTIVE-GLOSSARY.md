@@ -1,4 +1,4 @@
-# Humanities | Chapter EX | CONSTITUTION at Work04 EXECUTIVE | GLOSSARY
+# Indian Constitution at Work | Chapter 04 | Executive | GLOSSARY
 
 | Term | Definition |
 |------|------------|

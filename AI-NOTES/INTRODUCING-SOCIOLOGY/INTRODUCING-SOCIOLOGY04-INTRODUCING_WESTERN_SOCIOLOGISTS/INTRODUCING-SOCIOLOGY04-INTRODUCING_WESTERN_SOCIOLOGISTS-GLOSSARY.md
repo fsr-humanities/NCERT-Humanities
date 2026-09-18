@@ -1,4 +1,4 @@
-# Humanities | Chapter EX | Sociology04 INTRODUCING WESTERN SOCIOLOGISTS | GLOSSARY
+# Subject | Chapter 04 | Introducing Western Sociologists | GLOSSARY
 
 | Term | Definition |
 |------|------------|

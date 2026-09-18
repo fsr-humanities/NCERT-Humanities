@@ -1,4 +1,4 @@
-# Humanities | Chapter EX | Theory08 SECULARISM | CNOTES
+# Subject | Chapter 08 | Secularism | CNOTES
 
 ## Central Topic: Secularism
 

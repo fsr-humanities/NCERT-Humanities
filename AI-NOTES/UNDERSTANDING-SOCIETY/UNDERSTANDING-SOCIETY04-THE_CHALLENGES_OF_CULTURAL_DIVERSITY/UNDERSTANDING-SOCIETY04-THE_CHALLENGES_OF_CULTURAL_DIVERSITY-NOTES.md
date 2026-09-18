@@ -1,4 +1,4 @@
-# Humanities | Chapter EX | Society04 the CHALLENGES of CULTURAL DIVERSITY | NOTES
+# Subject | Chapter 04 | The Challenges of Cultural Diversity | NOTES
 
 ## Overview
 

@@ -1,4 +1,4 @@
-# Humanities | Chapter 01 | INTRODUCTION | CNOTES
+# Subject | Chapter 01 | Introduction | CNOTES
 
 ## Central Topic: Introduction
 

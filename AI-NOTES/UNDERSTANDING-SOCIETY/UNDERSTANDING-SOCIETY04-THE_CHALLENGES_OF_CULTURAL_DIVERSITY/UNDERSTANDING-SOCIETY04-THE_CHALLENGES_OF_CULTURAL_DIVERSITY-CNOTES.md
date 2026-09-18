@@ -1,4 +1,4 @@
-# Humanities | Chapter EX | Society04 the CHALLENGES of CULTURAL DIVERSITY | CNOTES
+# Subject | Chapter 04 | The Challenges of Cultural Diversity | CNOTES
 
 ## Central Topic: The Challenges Of Cultural Diversity
 

@@ -1,4 +1,4 @@
-# Humanities | Chapter EX | Society01 STRUCTURES of SOCIETY | NOTES
+# Subject | Chapter 01 | Structures of Society | NOTES
 
 ## Overview
 

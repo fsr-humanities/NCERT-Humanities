@@ -1,4 +1,4 @@
-# Humanities | Chapter EX | IN WORLD History05 NOMADIC EMPIRES | NOTES
+# Subject | Chapter 05 | Nomadic Empires | NOTES
 
 ## Overview
 

@@ -1,4 +1,4 @@
-# Humanities | Chapter EX | Sociology02 SOCIAL CHANGE and SOCIAL ORDER | NOTES
+# Subject | Chapter 02 | Social Change and Social Order | NOTES
 
 ## Overview
 

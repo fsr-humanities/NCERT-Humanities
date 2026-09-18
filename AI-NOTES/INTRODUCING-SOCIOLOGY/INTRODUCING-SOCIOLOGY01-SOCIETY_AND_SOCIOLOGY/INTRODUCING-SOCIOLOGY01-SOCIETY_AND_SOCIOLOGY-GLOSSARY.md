@@ -1,4 +1,4 @@
-# Humanities | Chapter EX | Sociology01 SOCIETY and SOCIOLOGY | GLOSSARY
+# Subject | Chapter 01 | Society and Sociology | GLOSSARY
 
 | Term | Definition |
 |------|------------|

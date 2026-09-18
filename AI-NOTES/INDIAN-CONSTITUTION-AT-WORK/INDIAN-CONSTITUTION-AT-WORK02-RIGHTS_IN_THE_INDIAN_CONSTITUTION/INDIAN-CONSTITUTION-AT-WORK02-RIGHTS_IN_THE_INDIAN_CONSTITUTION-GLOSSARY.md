@@ -1,4 +1,4 @@
-# Humanities | Chapter EX | CONSTITUTION at Work02 RIGHTS in the INDIAN CONSTITUTION | GLOSSARY
+# Indian Constitution at Work | Chapter 02 | Rights in the Indian Constitution | GLOSSARY
 
 | Term | Definition |
 |------|------------|

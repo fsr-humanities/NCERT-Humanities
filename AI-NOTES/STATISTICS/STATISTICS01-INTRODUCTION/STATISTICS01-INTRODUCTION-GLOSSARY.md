@@ -1,4 +1,4 @@
-# Humanities | Chapter 01 | INTRODUCTION | GLOSSARY
+# Subject | Chapter 01 | Introduction | GLOSSARY
 
 | Term | Definition |
 |------|------------|

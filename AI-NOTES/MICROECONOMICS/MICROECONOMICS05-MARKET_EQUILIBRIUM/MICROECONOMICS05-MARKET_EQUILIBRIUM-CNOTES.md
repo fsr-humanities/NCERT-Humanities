@@ -1,4 +1,4 @@
-# Humanities | Chapter 05 | MARKET EQUILIBRIUM | CNOTES
+# Subject | Chapter 05 | Market Equilibrium | CNOTES
 
 ## Central Topic: Market Equilibrium
 

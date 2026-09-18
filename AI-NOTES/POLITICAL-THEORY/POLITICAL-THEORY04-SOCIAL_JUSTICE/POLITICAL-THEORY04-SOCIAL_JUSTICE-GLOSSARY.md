@@ -1,4 +1,4 @@
-# Humanities | Chapter EX | Theory04 SOCIAL JUSTICE | GLOSSARY
+# Subject | Chapter 04 | Social Justice | GLOSSARY
 
 | Term | Definition |
 |------|------------|

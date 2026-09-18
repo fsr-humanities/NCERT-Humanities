@@ -1,4 +1,4 @@
-# Humanities | Chapter EX | CONSTITUTION at Work08 LOCAL GOVERNMENTS | NOTES
+# Indian Constitution at Work | Chapter 08 | Local Governments | NOTES
 
 ## Overview
 

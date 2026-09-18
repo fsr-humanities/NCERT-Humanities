@@ -1,4 +1,4 @@
-# Humanities | Chapter EX | Theory07 NATIONALISM | NOTES
+# Subject | Chapter 07 | Nationalism | NOTES
 
 ## Overview
 

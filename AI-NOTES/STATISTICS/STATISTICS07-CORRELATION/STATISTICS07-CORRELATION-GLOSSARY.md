@@ -1,4 +1,4 @@
-# Humanities | Chapter 07 | CORRELATION | GLOSSARY
+# Subject | Chapter 07 | Correlation | GLOSSARY
 
 | Term | Definition |
 |------|------------|

@@ -1,4 +1,4 @@
-# Humanities | Chapter EX | CONSTITUTION at Work03 ELECTION and REPRESENTATION | CNOTES
+# Indian Constitution at Work | Chapter 03 | Election and Representation | CNOTES
 
 ## Central Topic: Election And Representation
 

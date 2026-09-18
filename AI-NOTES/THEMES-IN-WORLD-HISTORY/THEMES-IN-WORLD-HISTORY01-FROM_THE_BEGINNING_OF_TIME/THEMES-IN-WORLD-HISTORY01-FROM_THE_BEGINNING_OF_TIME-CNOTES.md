@@ -1,4 +1,4 @@
-# Humanities | Chapter EX | IN WORLD History01 from the BEGINNING of TIME | CNOTES
+# Subject | Chapter 01 | From the Beginning of Time | CNOTES
 
 ## Central Topic: From The Beginning Of Time
 

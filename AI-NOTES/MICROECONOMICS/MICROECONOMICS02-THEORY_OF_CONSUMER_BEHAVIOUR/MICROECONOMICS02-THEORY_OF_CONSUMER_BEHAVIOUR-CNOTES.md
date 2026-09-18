@@ -1,4 +1,4 @@
-# Humanities | Chapter 02 | THEORY of CONSUMER BEHAVIOUR | CNOTES
+# Subject | Chapter 02 | Theory of Consumer Behaviour | CNOTES
 
 ## Central Topic: Theory Of Consumer Behaviour
 

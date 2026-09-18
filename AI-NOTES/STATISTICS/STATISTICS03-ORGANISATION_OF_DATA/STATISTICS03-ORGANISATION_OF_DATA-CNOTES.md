@@ -1,4 +1,4 @@
-# Humanities | Chapter 03 | ORGANISATION of DATA | CNOTES
+# Subject | Chapter 03 | Organisation of Data | CNOTES
 
 ## Central Topic: Organisation Of Data
 

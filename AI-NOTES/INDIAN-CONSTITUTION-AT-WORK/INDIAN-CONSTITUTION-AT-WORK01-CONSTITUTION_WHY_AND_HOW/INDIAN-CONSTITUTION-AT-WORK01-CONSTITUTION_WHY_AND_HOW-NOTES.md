@@ -1,4 +1,4 @@
-# Humanities | Chapter EX | CONSTITUTION at Work01 CONSTITUTION WHY and HOW | NOTES
+# Indian Constitution at Work | Chapter 01 | Constitution Why and How | NOTES
 
 **Subject:** Indian Constitution at Work · Class XI Political Science (NCERT)
 **Board:** CBSE · Reprint 2026–27

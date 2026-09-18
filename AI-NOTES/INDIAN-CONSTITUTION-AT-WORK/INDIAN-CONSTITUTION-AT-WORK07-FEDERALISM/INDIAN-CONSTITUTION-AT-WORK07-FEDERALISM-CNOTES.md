@@ -1,4 +1,4 @@
-# Humanities | Chapter EX | CONSTITUTION at Work07 FEDERALISM | CNOTES
+# Indian Constitution at Work | Chapter 07 | Federalism | CNOTES
 
 ## Central Topic: Federalism
 

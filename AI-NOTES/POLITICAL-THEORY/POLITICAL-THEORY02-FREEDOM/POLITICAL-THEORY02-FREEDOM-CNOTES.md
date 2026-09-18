@@ -1,4 +1,4 @@
-# Humanities | Chapter EX | Theory02 FREEDOM | CNOTES
+# Subject | Chapter 02 | Freedom | CNOTES
 
 ## Central Topic: Freedom
 

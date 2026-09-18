@@ -1,4 +1,4 @@
-# Humanities | Chapter 05 | MEASURES of CENTRAL TENDENCY | GLOSSARY
+# Subject | Chapter 05 | Measures of Central Tendency | GLOSSARY
 
 | Term | Definition |
 |------|------------|

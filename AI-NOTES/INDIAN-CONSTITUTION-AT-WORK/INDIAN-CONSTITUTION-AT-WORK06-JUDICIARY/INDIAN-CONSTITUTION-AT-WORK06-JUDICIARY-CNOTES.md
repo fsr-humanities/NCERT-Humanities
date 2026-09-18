@@ -1,4 +1,4 @@
-# Humanities | Chapter EX | CONSTITUTION at Work06 JUDICIARY | CNOTES
+# Indian Constitution at Work | Chapter 06 | Judiciary | CNOTES
 
 ## Central Topic: Judiciary
 

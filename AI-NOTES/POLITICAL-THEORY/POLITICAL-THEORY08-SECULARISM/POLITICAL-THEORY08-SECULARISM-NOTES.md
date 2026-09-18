@@ -1,4 +1,4 @@
-# Humanities | Chapter EX | Theory08 SECULARISM | NOTES
+# Subject | Chapter 08 | Secularism | NOTES
 
 ## Overview
 

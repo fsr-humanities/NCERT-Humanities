@@ -1,4 +1,4 @@
-# Humanities | Chapter EX | Society05 CHANGE and DEVELOPMENT in RURAL SOCIETY | CNOTES
+# Subject | Chapter 05 | Change and Development in Rural Society | CNOTES
 
 ## Central Topic: Change And Development In Rural Society
 

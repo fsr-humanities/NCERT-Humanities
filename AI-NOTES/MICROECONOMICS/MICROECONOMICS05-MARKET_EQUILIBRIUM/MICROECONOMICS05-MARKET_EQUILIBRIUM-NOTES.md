@@ -1,4 +1,4 @@
-# Humanities | Chapter 05 | MARKET EQUILIBRIUM | NOTES
+# Subject | Chapter 05 | Market Equilibrium | NOTES
 
 ## Overview
 

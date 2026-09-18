@@ -1,4 +1,4 @@
-# Humanities | Chapter 02 | COLLECTION of DATA | CNOTES
+# Subject | Chapter 02 | Collection of Data | CNOTES
 
 ## Central Topic: Collection Of Data
 

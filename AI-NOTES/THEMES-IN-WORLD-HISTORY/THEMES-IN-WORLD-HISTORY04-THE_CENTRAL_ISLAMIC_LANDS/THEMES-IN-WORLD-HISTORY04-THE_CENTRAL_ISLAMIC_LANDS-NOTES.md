@@ -1,4 +1,4 @@
-# Humanities | Chapter EX | IN WORLD History04 the CENTRAL ISLAMIC LANDS | NOTES
+# Subject | Chapter 04 | The Central Islamic Lands | NOTES
 
 ## Overview
 

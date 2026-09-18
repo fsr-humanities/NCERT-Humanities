@@ -1,4 +1,4 @@
-# Humanities | Chapter EX | CONSTITUTION at Work05 LEGISLATURE | GLOSSARY
+# Indian Constitution at Work | Chapter 05 | Legislature | GLOSSARY
 
 | Term | Definition |
 |------|------------|

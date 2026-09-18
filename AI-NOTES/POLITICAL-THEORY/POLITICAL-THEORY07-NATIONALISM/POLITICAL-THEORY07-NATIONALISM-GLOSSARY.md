@@ -1,4 +1,4 @@
-# Humanities | Chapter EX | Theory07 NATIONALISM | GLOSSARY
+# Subject | Chapter 07 | Nationalism | GLOSSARY
 
 | Term | Definition |
 |------|------------|

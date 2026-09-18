@@ -1,4 +1,4 @@
-# Humanities | Chapter 05 | MARKET EQUILIBRIUM | GLOSSARY
+# Subject | Chapter 05 | Market Equilibrium | GLOSSARY
 
 | Term | Definition |
 |------|------------|

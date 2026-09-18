@@ -1,4 +1,4 @@
-# Humanities | Chapter 02 | COLLECTION of DATA | GLOSSARY
+# Subject | Chapter 02 | Collection of Data | GLOSSARY
 
 | Term | Definition |
 |------|------------|

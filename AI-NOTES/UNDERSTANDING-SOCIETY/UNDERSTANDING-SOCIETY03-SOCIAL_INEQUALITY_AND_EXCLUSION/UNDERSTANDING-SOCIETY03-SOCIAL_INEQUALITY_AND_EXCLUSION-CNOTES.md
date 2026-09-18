@@ -1,4 +1,4 @@
-# Humanities | Chapter EX | Society03 SOCIAL INEQUALITY and EXCLUSION | CNOTES
+# Subject | Chapter 03 | Social Inequality and Exclusion | CNOTES
 
 ## Central Topic: Social Inequality And Exclusion
 

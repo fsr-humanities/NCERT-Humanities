@@ -1,4 +1,4 @@
-# Humanities | Chapter EX | CONSTITUTION at Work03 ELECTION and REPRESENTATION | GLOSSARY
+# Indian Constitution at Work | Chapter 03 | Election and Representation | GLOSSARY
 
 | Term | Definition |
 |------|------------|

@@ -1,4 +1,4 @@
-# Humanities | Chapter EX | IN WORLD History07 CHANGING CULTURAL TRADITIONS | GLOSSARY
+# Subject | Chapter 07 | Changing Cultural Traditions | GLOSSARY
 
 | Term | Definition |
 |------|------------|

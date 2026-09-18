@@ -1,4 +1,4 @@
-# Humanities | Chapter EX | Theory05 RIGHTS | NOTES
+# Subject | Chapter 05 | Rights | NOTES
 
 ## Overview
 

@@ -1,4 +1,4 @@
-# Humanities | Chapter EX | Society03 SOCIAL INEQUALITY and EXCLUSION | GLOSSARY
+# Subject | Chapter 03 | Social Inequality and Exclusion | GLOSSARY
 
 | Term | Definition |
 |------|------------|

@@ -1,4 +1,4 @@
-# Humanities | Chapter EX | Society04 the CHALLENGES of CULTURAL DIVERSITY | GLOSSARY
+# Subject | Chapter 04 | The Challenges of Cultural Diversity | GLOSSARY
 
 | Term | Definition |
 |------|------------|

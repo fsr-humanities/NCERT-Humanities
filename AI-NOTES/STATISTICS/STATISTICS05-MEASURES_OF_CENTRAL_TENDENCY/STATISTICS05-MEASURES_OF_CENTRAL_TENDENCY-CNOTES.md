@@ -1,4 +1,4 @@
-# Humanities | Chapter 05 | MEASURES of CENTRAL TENDENCY | CNOTES
+# Subject | Chapter 05 | Measures of Central Tendency | CNOTES
 
 ## Central Topic: Measures Of Central Tendency
 

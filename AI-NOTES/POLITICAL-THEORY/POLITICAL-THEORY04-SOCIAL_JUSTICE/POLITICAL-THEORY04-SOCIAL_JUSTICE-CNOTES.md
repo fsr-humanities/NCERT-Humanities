@@ -1,4 +1,4 @@
-# Humanities | Chapter EX | Theory04 SOCIAL JUSTICE | CNOTES
+# Subject | Chapter 04 | Social Justice | CNOTES
 
 ## Central Topic: Social Justice
 

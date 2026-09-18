@@ -1,4 +1,4 @@
-# Humanities | Chapter EX | Sociology05 INDIAN SOCIOLOGISTS | CNOTES
+# Subject | Chapter 05 | Indian Sociologists | CNOTES
 
 ## Central Topic: Indian Sociologists
 

@@ -1,4 +1,4 @@
-# Humanities | Chapter EX | Sociology02 SOCIAL CHANGE and SOCIAL ORDER | CNOTES
+# Subject | Chapter 02 | Social Change and Social Order | CNOTES
 
 ## Central Topic: Social Change And Social Order
 

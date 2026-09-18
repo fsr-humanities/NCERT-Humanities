@@ -1,4 +1,4 @@
-# Humanities | Chapter EX | Theory08 SECULARISM | GLOSSARY
+# Subject | Chapter 08 | Secularism | GLOSSARY
 
 | Term | Definition |
 |------|------------|

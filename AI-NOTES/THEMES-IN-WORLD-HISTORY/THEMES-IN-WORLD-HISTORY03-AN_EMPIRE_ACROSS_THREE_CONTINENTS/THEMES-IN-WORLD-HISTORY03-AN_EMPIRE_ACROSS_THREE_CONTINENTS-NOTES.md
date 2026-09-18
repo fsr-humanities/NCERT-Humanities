@@ -1,4 +1,4 @@
-# Humanities | Chapter EX | IN WORLD History03 an EMPIRE ACROSS THREE CONTINENTS | NOTES
+# Subject | Chapter 03 | An Empire Across Three Continents | NOTES
 
 ## Overview
 

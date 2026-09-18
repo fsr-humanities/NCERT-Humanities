@@ -1,4 +1,4 @@
-# Humanities | Chapter EX | IN WORLD History01 from the BEGINNING of TIME | GLOSSARY
+# Subject | Chapter 01 | From the Beginning of Time | GLOSSARY
 
 | Term | Definition |
 |------|------------|

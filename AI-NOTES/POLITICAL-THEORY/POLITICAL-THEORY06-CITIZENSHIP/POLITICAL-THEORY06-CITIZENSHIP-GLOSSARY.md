@@ -1,4 +1,4 @@
-# Humanities | Chapter EX | Theory06 CITIZENSHIP | GLOSSARY
+# Subject | Chapter 06 | Citizenship | GLOSSARY
 
 | Term | Definition |
 |------|------------|

@@ -1,4 +1,4 @@
-# Humanities | Chapter EX | Theory03 EQUALITY | CNOTES
+# Subject | Chapter 03 | Equality | CNOTES
 
 ## Central Topic: Equality
 

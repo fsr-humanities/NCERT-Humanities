@@ -1,4 +1,4 @@
-# Humanities | Chapter EX | Sociology04 INTRODUCING WESTERN SOCIOLOGISTS | NOTES
+# Subject | Chapter 04 | Introducing Western Sociologists | NOTES
 
 ## Overview
 

@@ -1,4 +1,4 @@
-# Humanities | Chapter 03 | PRODUCTION and COSTS | NOTES
+# Subject | Chapter 03 | Production and Costs | NOTES
 
 ## Overview
 

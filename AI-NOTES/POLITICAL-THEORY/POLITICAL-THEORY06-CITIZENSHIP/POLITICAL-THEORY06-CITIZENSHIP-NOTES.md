@@ -1,4 +1,4 @@
-# Humanities | Chapter EX | Theory06 CITIZENSHIP | NOTES
+# Subject | Chapter 06 | Citizenship | NOTES
 
 ## Overview
 

@@ -1,4 +1,4 @@
-# Humanities | Chapter EX | IN WORLD History06 the THREE ORDERS | GLOSSARY
+# Subject | Chapter 06 | The Three Orders | GLOSSARY
 
 | Term | Definition |
 |------|------------|

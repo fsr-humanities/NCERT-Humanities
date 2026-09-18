@@ -1,4 +1,4 @@
-# Humanities | Chapter 06 | MEASURES of DISPERSION | CNOTES
+# Subject | Chapter 06 | Measures of Dispersion | CNOTES
 
 ## Central Topic: Measures Of Dispersion
 

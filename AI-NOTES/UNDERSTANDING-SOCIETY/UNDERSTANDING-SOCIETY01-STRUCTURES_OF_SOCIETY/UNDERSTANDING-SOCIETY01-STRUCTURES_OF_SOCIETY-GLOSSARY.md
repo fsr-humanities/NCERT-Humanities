@@ -1,4 +1,4 @@
-# Humanities | Chapter EX | Society01 STRUCTURES of SOCIETY | GLOSSARY
+# Subject | Chapter 01 | Structures of Society | GLOSSARY
 
 | Term | Definition |
 |------|------------|

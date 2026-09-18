@@ -1,4 +1,4 @@
-# Humanities | Chapter EX | Sociology01 SOCIETY and SOCIOLOGY | CNOTES
+# Subject | Chapter 01 | Society and Sociology | CNOTES
 
 ## Central Topic: Society And Sociology
 

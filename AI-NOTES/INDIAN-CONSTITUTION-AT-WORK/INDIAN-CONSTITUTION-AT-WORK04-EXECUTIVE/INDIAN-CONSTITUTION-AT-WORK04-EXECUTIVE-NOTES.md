@@ -1,4 +1,4 @@
-# Humanities | Chapter EX | CONSTITUTION at Work04 EXECUTIVE | NOTES
+# Indian Constitution at Work | Chapter 04 | Executive | NOTES
 
 ## Overview
 

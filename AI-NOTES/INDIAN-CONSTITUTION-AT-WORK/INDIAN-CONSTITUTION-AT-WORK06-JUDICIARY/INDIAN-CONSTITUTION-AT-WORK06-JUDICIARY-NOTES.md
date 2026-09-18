@@ -1,4 +1,4 @@
-# Humanities | Chapter EX | CONSTITUTION at Work06 JUDICIARY | NOTES
+# Indian Constitution at Work | Chapter 06 | Judiciary | NOTES
 
 ## Overview
 

@@ -1,4 +1,4 @@
-# Humanities | Chapter EX | IN WORLD History02 EARLY SOCIETIES | GLOSSARY
+# Subject | Chapter 02 | Early Societies | GLOSSARY
 
 | Term | Definition |
 |------|------------|

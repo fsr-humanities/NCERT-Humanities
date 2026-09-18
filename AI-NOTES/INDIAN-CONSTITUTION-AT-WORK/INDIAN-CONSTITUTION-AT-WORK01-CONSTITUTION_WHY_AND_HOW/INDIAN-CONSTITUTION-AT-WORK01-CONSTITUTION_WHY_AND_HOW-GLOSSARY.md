@@ -1,4 +1,4 @@
-# Humanities | Chapter EX | CONSTITUTION at Work01 CONSTITUTION WHY and HOW | GLOSSARY
+# Indian Constitution at Work | Chapter 01 | Constitution Why and How | GLOSSARY
 
 **Subject:** Indian Constitution at Work · Class XI Political Science (NCERT)
 
