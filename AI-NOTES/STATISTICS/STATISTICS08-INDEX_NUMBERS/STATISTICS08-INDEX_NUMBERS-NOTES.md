@@ -1,4 +1,4 @@
-# Subject | Chapter 08 | Index Numbers Notes | NOTES
+# Humanities | Chapter 08 | INDEX NUMBERS | NOTES
 
 ## Overview
 
@@ -23,4 +23,3 @@
 ---
 
 ## Summary
-

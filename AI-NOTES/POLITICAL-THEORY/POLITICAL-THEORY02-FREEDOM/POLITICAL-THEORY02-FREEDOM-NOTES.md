@@ -1,4 +1,4 @@
-# Subject | Chapter 02 | Freedom Notes | NOTES
+# Humanities | Chapter EX | Theory02 FREEDOM | NOTES
 
 ## Overview
 
@@ -23,4 +23,3 @@
 ---
 
 ## Summary
-

@@ -1,4 +1,4 @@
-# Indian Constitution at Work | Chapter 03 | Election AND Representation Notes | NOTES
+# Humanities | Chapter EX | CONSTITUTION at Work03 ELECTION and REPRESENTATION | NOTES
 
 ## Overview
 
@@ -23,4 +23,3 @@
 ---
 
 ## Summary
-

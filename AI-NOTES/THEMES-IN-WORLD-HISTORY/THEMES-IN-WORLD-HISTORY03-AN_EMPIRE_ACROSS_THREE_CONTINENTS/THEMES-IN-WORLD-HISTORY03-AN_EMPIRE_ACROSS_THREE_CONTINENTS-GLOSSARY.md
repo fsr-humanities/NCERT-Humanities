@@ -1,6 +1,5 @@
-# Subject | Chapter 03 | AN Empire Across Three Continents Glossary | GLOSSARY
+# Humanities | Chapter EX | IN WORLD History03 an EMPIRE ACROSS THREE CONTINENTS | GLOSSARY
 
 | Term | Definition |
 |------|------------|
 |      |            |
-

@@ -1,4 +1,4 @@
-# Indian Constitution at Work | Chapter 09 | Constitution AS A Living Document Notes | NOTES
+# Humanities | Chapter EX | CONSTITUTION at Work09 CONSTITUTION as a LIVING DOCUMENT | NOTES
 
 ## Overview
 
@@ -23,4 +23,3 @@
 ---
 
 ## Summary
-

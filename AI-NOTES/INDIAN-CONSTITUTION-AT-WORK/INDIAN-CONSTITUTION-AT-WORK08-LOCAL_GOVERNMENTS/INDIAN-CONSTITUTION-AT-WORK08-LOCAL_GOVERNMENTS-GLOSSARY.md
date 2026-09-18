@@ -1,6 +1,5 @@
-# Indian Constitution at Work | Chapter 08 | Local Governments Glossary | GLOSSARY
+# Humanities | Chapter EX | CONSTITUTION at Work08 LOCAL GOVERNMENTS | GLOSSARY
 
 | Term | Definition |
 |------|------------|
 |      |            |
-

@@ -1,4 +1,4 @@
-# Subject | Chapter 02 | Theory OF Consumer Behaviour Notes | NOTES
+# Humanities | Chapter 02 | THEORY of CONSUMER BEHAVIOUR | NOTES
 
 ## Overview
 
@@ -23,4 +23,3 @@
 ---
 
 ## Summary
-

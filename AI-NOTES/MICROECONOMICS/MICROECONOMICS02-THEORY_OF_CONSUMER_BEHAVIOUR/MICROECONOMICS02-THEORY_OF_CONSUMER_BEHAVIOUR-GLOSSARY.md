@@ -1,6 +1,5 @@
-# Subject | Chapter 02 | Theory OF Consumer Behaviour Glossary | GLOSSARY
+# Humanities | Chapter 02 | THEORY of CONSUMER BEHAVIOUR | GLOSSARY
 
 | Term | Definition |
 |------|------------|
 |      |            |
-

@@ -1,4 +1,4 @@
-# Subject | Chapter 03 | Environment AND Society Notes | NOTES
+# Humanities | Chapter EX | Sociology03 ENVIRONMENT and SOCIETY | NOTES
 
 ## Overview
 
@@ -23,4 +23,3 @@
 ---
 
 ## Summary
-

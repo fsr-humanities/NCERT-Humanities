@@ -1,6 +1,5 @@
-# Subject | Chapter 02 | Social Institutions Continuity AND Change Glossary | GLOSSARY
+# Humanities | Chapter EX | Society02 SOCIAL INSTITUTIONS CONTINUITY and CHANGE | GLOSSARY
 
 | Term | Definition |
 |------|------------|
 |      |            |
-

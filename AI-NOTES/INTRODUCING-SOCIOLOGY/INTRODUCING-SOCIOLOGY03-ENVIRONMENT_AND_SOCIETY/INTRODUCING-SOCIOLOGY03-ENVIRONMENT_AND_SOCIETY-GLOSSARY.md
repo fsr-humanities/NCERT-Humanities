@@ -1,6 +1,5 @@
-# Subject | Chapter 03 | Environment AND Society Glossary | GLOSSARY
+# Humanities | Chapter EX | Sociology03 ENVIRONMENT and SOCIETY | GLOSSARY
 
 | Term | Definition |
 |------|------------|
 |      |            |
-

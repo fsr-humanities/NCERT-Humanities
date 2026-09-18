@@ -1,4 +1,4 @@
-# Indian Constitution at Work | Chapter 09 | Constitution AS A Living Document Cnotes | CNOTES
+# Humanities | Chapter EX | CONSTITUTION at Work09 CONSTITUTION as a LIVING DOCUMENT | CNOTES
 
 ## Central Topic: Constitution As A Living Document
 
@@ -13,5 +13,4 @@ Constitution As A Living Document
 
 ## Quick Revision Points
 
-- 
-
+-

@@ -1,4 +1,4 @@
-# Subject | Chapter 03 | Social Inequality AND Exclusion Notes | NOTES
+# Humanities | Chapter EX | Society03 SOCIAL INEQUALITY and EXCLUSION | NOTES
 
 ## Overview
 
@@ -23,4 +23,3 @@
 ---
 
 ## Summary
-

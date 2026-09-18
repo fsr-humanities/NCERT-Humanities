@@ -1,4 +1,4 @@
-# Subject | Chapter 08 | Index Numbers Cnotes | CNOTES
+# Humanities | Chapter 08 | INDEX NUMBERS | CNOTES
 
 ## Central Topic: Index Numbers
 
@@ -13,5 +13,4 @@ Index Numbers
 
 ## Quick Revision Points
 
-- 
-
+-

@@ -1,6 +1,5 @@
-# Indian Constitution at Work | Chapter 10 | THE Philosophy OF THE Constitution Glossary | GLOSSARY
+# Humanities | Chapter EX | CONSTITUTION at Work10 the PHILOSOPHY of the CONSTITUTION | GLOSSARY
 
 | Term | Definition |
 |------|------------|
 |      |            |
-

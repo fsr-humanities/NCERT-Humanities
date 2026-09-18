@@ -1,6 +1,5 @@
-# Subject | Chapter 05 | Nomadic Empires Glossary | GLOSSARY
+# Humanities | Chapter EX | IN WORLD History05 NOMADIC EMPIRES | GLOSSARY
 
 | Term | Definition |
 |------|------------|
 |      |            |
-

@@ -1,6 +1,5 @@
-# Subject | Chapter 02 | Social Change AND Social Order Glossary | GLOSSARY
+# Humanities | Chapter EX | Sociology02 SOCIAL CHANGE and SOCIAL ORDER | GLOSSARY
 
 | Term | Definition |
 |------|------------|
 |      |            |
-

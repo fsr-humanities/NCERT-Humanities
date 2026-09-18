@@ -1,4 +1,4 @@
-# Subject | Chapter 01 | Society AND Sociology Notes | NOTES
+# Humanities | Chapter EX | Sociology01 SOCIETY and SOCIOLOGY | NOTES
 
 ## Overview
 
@@ -23,4 +23,3 @@
 ---
 
 ## Summary
-

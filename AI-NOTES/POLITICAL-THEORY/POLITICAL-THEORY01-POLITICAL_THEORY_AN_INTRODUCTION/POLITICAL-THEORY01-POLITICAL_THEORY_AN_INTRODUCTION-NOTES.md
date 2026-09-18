@@ -1,4 +1,4 @@
-# Subject | Chapter 01 | Political Theory AN Introduction Notes | NOTES
+# Humanities | Chapter EX | Theory01 POLITICAL THEORY an INTRODUCTION | NOTES
 
 ## Overview
 
@@ -23,4 +23,3 @@
 ---
 
 ## Summary
-

@@ -1,6 +1,5 @@
-# Subject | Chapter 05 | Market Equilibrium Glossary | GLOSSARY
+# Humanities | Chapter 05 | MARKET EQUILIBRIUM | GLOSSARY
 
 | Term | Definition |
 |------|------------|
 |      |            |
-

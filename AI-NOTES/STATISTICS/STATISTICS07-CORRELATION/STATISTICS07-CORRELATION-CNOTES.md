@@ -1,4 +1,4 @@
-# Subject | Chapter 07 | Correlation Cnotes | CNOTES
+# Humanities | Chapter 07 | CORRELATION | CNOTES
 
 ## Central Topic: Correlation
 
@@ -13,5 +13,4 @@ Correlation
 
 ## Quick Revision Points
 
-- 
-
+-

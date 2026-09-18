@@ -1,4 +1,4 @@
-# Indian Constitution at Work | Chapter 07 | Federalism Notes | NOTES
+# Humanities | Chapter EX | CONSTITUTION at Work07 FEDERALISM | NOTES
 
 ## Overview
 
@@ -23,4 +23,3 @@
 ---
 
 ## Summary
-

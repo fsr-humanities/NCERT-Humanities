@@ -1,4 +1,4 @@
-# Subject | Chapter 07 | Changing Cultural Traditions Notes | NOTES
+# Humanities | Chapter EX | IN WORLD History07 CHANGING CULTURAL TRADITIONS | NOTES
 
 ## Overview
 
@@ -23,4 +23,3 @@
 ---
 
 ## Summary
-

@@ -1,4 +1,4 @@
-# Subject | Chapter 05 | Change AND Development IN Rural Society Notes | NOTES
+# Humanities | Chapter EX | Society05 CHANGE and DEVELOPMENT in RURAL SOCIETY | NOTES
 
 ## Overview
 
@@ -23,4 +23,3 @@
 ---
 
 ## Summary
-

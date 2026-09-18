@@ -1,4 +1,4 @@
-# Subject | Chapter 03 | Equality Notes | NOTES
+# Humanities | Chapter EX | Theory03 EQUALITY | NOTES
 
 ## Overview
 
@@ -23,4 +23,3 @@
 ---
 
 ## Summary
-

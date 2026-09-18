@@ -1,6 +1,5 @@
-# Subject | Chapter 04 | THE Theory OF THE FIRM Under Perfect Competition Glossary | GLOSSARY
+# Humanities | Chapter 04 | THE THEORY of the FIRM UNDER PERFECT COMPETITION | GLOSSARY
 
 | Term | Definition |
 |------|------------|
 |      |            |
-

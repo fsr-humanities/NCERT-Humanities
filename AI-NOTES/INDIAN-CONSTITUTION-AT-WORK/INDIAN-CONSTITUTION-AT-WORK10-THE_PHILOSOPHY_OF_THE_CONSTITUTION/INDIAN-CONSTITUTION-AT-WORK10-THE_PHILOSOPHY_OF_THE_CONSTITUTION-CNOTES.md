@@ -1,4 +1,4 @@
-# Indian Constitution at Work | Chapter 10 | THE Philosophy OF THE Constitution Cnotes | CNOTES
+# Humanities | Chapter EX | CONSTITUTION at Work10 the PHILOSOPHY of the CONSTITUTION | CNOTES
 
 ## Central Topic: The Philosophy Of The Constitution
 
@@ -13,5 +13,4 @@ The Philosophy Of The Constitution
 
 ## Quick Revision Points
 
-- 
-
+-

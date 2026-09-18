@@ -1,6 +1,5 @@
-# Subject | Chapter 04 | THE Central Islamic Lands Glossary | GLOSSARY
+# Humanities | Chapter EX | IN WORLD History04 the CENTRAL ISLAMIC LANDS | GLOSSARY
 
 | Term | Definition |
 |------|------------|
 |      |            |
-

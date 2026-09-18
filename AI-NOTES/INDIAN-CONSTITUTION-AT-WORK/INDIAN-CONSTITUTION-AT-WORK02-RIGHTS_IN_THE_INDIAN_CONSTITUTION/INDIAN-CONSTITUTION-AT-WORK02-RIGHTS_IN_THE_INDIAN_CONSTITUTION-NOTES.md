@@ -1,4 +1,4 @@
-# Indian Constitution at Work | Chapter 02 | Rights IN THE Indian Constitution Notes | NOTES
+# Humanities | Chapter EX | CONSTITUTION at Work02 RIGHTS in the INDIAN CONSTITUTION | NOTES
 
 ## Overview
 
@@ -23,4 +23,3 @@
 ---
 
 ## Summary
-

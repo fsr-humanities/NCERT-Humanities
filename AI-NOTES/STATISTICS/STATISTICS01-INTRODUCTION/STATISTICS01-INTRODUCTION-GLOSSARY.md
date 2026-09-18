@@ -1,6 +1,5 @@
-# Subject | Chapter 01 | Introduction Glossary | GLOSSARY
+# Humanities | Chapter 01 | INTRODUCTION | GLOSSARY
 
 | Term | Definition |
 |------|------------|
 |      |            |
-

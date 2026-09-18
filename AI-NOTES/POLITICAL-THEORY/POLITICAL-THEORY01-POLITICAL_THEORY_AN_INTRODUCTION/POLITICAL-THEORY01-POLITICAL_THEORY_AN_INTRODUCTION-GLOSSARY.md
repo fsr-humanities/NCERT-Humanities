@@ -1,6 +1,5 @@
-# Subject | Chapter 01 | Political Theory AN Introduction Glossary | GLOSSARY
+# Humanities | Chapter EX | Theory01 POLITICAL THEORY an INTRODUCTION | GLOSSARY
 
 | Term | Definition |
 |------|------------|
 |      |            |
-

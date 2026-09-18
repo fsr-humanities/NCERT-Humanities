@@ -1,4 +1,4 @@
-# Subject | Chapter 03 | Organisation OF DATA Notes | NOTES
+# Humanities | Chapter 03 | ORGANISATION of DATA | NOTES
 
 ## Overview
 
@@ -23,4 +23,3 @@
 ---
 
 ## Summary
-

@@ -1,6 +1,5 @@
-# Subject | Chapter 03 | Production AND Costs Glossary | GLOSSARY
+# Humanities | Chapter 03 | PRODUCTION and COSTS | GLOSSARY
 
 | Term | Definition |
 |------|------------|
 |      |            |
-

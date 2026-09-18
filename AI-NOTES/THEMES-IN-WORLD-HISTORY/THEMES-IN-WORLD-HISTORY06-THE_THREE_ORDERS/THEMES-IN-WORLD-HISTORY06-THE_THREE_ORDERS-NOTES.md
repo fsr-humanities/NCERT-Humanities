@@ -1,4 +1,4 @@
-# Subject | Chapter 06 | THE Three Orders Notes | NOTES
+# Humanities | Chapter EX | IN WORLD History06 the THREE ORDERS | NOTES
 
 ## Overview
 
@@ -23,4 +23,3 @@
 ---
 
 ## Summary
-

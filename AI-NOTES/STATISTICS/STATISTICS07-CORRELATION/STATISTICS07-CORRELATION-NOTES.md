@@ -1,4 +1,4 @@
-# Subject | Chapter 07 | Correlation Notes | NOTES
+# Humanities | Chapter 07 | CORRELATION | NOTES
 
 ## Overview
 
@@ -23,4 +23,3 @@
 ---
 
 ## Summary
-

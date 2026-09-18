@@ -1,6 +1,5 @@
-# Subject | Chapter 02 | Freedom Glossary | GLOSSARY
+# Humanities | Chapter EX | Theory02 FREEDOM | GLOSSARY
 
 | Term | Definition |
 |------|------------|
 |      |            |
-

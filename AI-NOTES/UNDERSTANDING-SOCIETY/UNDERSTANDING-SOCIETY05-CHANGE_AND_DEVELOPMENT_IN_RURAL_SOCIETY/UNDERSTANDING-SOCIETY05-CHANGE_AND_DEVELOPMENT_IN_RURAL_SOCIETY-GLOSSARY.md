@@ -1,6 +1,5 @@
-# Subject | Chapter 05 | Change AND Development IN Rural Society Glossary | GLOSSARY
+# Humanities | Chapter EX | Society05 CHANGE and DEVELOPMENT in RURAL SOCIETY | GLOSSARY
 
 | Term | Definition |
 |------|------------|
 |      |            |
-

@@ -1,6 +1,5 @@
-# Indian Constitution at Work | Chapter 06 | Judiciary Glossary | GLOSSARY
+# Humanities | Chapter EX | CONSTITUTION at Work06 JUDICIARY | GLOSSARY
 
 | Term | Definition |
 |------|------------|
 |      |            |
-

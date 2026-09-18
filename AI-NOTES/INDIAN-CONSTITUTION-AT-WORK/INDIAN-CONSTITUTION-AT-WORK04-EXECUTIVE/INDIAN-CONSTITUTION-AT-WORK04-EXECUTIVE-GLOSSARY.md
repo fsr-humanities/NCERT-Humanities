@@ -1,6 +1,5 @@
-# Indian Constitution at Work | Chapter 04 | Executive Glossary | GLOSSARY
+# Humanities | Chapter EX | CONSTITUTION at Work04 EXECUTIVE | GLOSSARY
 
 | Term | Definition |
 |------|------------|
 |      |            |
-

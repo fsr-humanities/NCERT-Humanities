@@ -1,6 +1,5 @@
-# Subject | Chapter 05 | Rights Glossary | GLOSSARY
+# Humanities | Chapter EX | Theory05 RIGHTS | GLOSSARY
 
 | Term | Definition |
 |------|------------|
 |      |            |
-

@@ -1,4 +1,4 @@
-# Indian Constitution at Work | Chapter 05 | Legislature Cnotes | CNOTES
+# Humanities | Chapter EX | CONSTITUTION at Work05 LEGISLATURE | CNOTES
 
 ## Central Topic: Legislature
 
@@ -13,5 +13,4 @@ Legislature
 
 ## Quick Revision Points
 
-- 
-
+-

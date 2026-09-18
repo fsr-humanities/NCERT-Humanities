@@ -1,6 +1,5 @@
-# Subject | Chapter 01 | Structures OF Society Glossary | GLOSSARY
+# Humanities | Chapter EX | Society01 STRUCTURES of SOCIETY | GLOSSARY
 
 | Term | Definition |
 |------|------------|
 |      |            |
-

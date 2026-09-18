@@ -1,4 +1,4 @@
-# Subject | Chapter 02 | Social Institutions Continuity AND Change Notes | NOTES
+# Humanities | Chapter EX | Society02 SOCIAL INSTITUTIONS CONTINUITY and CHANGE | NOTES
 
 ## Overview
 
@@ -23,4 +23,3 @@
 ---
 
 ## Summary
-

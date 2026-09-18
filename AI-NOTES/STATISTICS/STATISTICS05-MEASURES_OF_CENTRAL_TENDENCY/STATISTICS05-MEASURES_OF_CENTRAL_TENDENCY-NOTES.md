@@ -1,4 +1,4 @@
-# Subject | Chapter 05 | Measures OF Central Tendency Notes | NOTES
+# Humanities | Chapter 05 | MEASURES of CENTRAL TENDENCY | NOTES
 
 ## Overview
 
@@ -23,4 +23,3 @@
 ---
 
 ## Summary
-

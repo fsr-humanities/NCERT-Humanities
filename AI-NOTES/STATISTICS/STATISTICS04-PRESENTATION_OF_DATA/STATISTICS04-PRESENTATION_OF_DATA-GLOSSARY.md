@@ -1,6 +1,5 @@
-# Subject | Chapter 04 | Presentation OF DATA Glossary | GLOSSARY
+# Humanities | Chapter 04 | PRESENTATION of DATA | GLOSSARY
 
 | Term | Definition |
 |------|------------|
 |      |            |
-

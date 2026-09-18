@@ -1,6 +1,5 @@
-# Subject | Chapter 07 | Correlation Glossary | GLOSSARY
+# Humanities | Chapter 07 | CORRELATION | GLOSSARY
 
 | Term | Definition |
 |------|------------|
 |      |            |
-

@@ -1,4 +1,4 @@
-# Indian Constitution at Work | Chapter 01 | Constitution WHY AND HOW Cnotes | CNOTES
+# Humanities | Chapter EX | CONSTITUTION at Work01 CONSTITUTION WHY and HOW | CNOTES
 **Subject:** Indian Constitution at Work · Class XI Political Science (NCERT)
 
 > 🧠 Render with: Obsidian (Mermaid plugin) · Logseq · VS Code + Mermaid extension

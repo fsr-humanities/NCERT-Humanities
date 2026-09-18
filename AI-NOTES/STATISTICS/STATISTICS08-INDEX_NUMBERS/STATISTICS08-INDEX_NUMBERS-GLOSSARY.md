@@ -1,6 +1,5 @@
-# Subject | Chapter 08 | Index Numbers Glossary | GLOSSARY
+# Humanities | Chapter 08 | INDEX NUMBERS | GLOSSARY
 
 | Term | Definition |
 |------|------------|
 |      |            |
-

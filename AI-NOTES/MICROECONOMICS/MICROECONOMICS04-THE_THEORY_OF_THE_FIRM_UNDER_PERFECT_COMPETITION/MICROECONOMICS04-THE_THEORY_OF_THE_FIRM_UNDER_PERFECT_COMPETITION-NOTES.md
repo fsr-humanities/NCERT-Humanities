@@ -1,4 +1,4 @@
-# Subject | Chapter 04 | THE Theory OF THE FIRM Under Perfect Competition Notes | NOTES
+# Humanities | Chapter 04 | THE THEORY of the FIRM UNDER PERFECT COMPETITION | NOTES
 
 ## Overview
 
@@ -23,4 +23,3 @@
 ---
 
 ## Summary
-

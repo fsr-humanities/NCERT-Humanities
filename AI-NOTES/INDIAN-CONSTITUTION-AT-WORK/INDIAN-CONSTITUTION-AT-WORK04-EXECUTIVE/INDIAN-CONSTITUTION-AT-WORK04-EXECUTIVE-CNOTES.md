@@ -1,4 +1,4 @@
-# Indian Constitution at Work | Chapter 04 | Executive Cnotes | CNOTES
+# Humanities | Chapter EX | CONSTITUTION at Work04 EXECUTIVE | CNOTES
 
 ## Central Topic: Executive
 
@@ -13,5 +13,4 @@ Executive
 
 ## Quick Revision Points
 
-- 
-
+-

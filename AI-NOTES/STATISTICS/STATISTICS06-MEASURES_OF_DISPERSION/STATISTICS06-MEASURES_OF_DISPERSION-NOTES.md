@@ -1,4 +1,4 @@
-# Subject | Chapter 06 | Measures OF Dispersion Notes | NOTES
+# Humanities | Chapter 06 | MEASURES of DISPERSION | NOTES
 
 ## Overview
 
@@ -23,4 +23,3 @@
 ---
 
 ## Summary
-

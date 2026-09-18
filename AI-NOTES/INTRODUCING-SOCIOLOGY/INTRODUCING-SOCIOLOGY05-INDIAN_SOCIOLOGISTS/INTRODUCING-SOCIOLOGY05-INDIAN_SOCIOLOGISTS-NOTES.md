@@ -1,4 +1,4 @@
-# Subject | Chapter 05 | Indian Sociologists Notes | NOTES
+# Humanities | Chapter EX | Sociology05 INDIAN SOCIOLOGISTS | NOTES
 
 ## Overview
 
@@ -23,4 +23,3 @@
 ---
 
 ## Summary
-

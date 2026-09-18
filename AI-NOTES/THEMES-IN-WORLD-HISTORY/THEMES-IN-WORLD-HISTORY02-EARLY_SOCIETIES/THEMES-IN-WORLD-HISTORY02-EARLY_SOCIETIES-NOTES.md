@@ -1,4 +1,4 @@
-# Subject | Chapter 02 | Early Societies Notes | NOTES
+# Humanities | Chapter EX | IN WORLD History02 EARLY SOCIETIES | NOTES
 
 ## Overview
 
@@ -23,4 +23,3 @@
 ---
 
 ## Summary
-

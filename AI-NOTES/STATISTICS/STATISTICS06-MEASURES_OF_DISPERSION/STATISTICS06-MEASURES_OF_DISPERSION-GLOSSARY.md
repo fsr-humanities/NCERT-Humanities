@@ -1,6 +1,5 @@
-# Subject | Chapter 06 | Measures OF Dispersion Glossary | GLOSSARY
+# Humanities | Chapter 06 | MEASURES of DISPERSION | GLOSSARY
 
 | Term | Definition |
 |------|------------|
 |      |            |
-

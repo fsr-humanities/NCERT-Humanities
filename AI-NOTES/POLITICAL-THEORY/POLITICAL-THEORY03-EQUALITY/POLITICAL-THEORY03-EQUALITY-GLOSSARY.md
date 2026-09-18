@@ -1,6 +1,5 @@
-# Subject | Chapter 03 | Equality Glossary | GLOSSARY
+# Humanities | Chapter EX | Theory03 EQUALITY | GLOSSARY
 
 | Term | Definition |
 |------|------------|
 |      |            |
-

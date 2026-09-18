@@ -1,6 +1,5 @@
-# Subject | Chapter 03 | Organisation OF DATA Glossary | GLOSSARY
+# Humanities | Chapter 03 | ORGANISATION of DATA | GLOSSARY
 
 | Term | Definition |
 |------|------------|
 |      |            |
-
