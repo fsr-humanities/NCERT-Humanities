@@ -8,9 +8,16 @@
       "children": [
         {
           "type": "file",
-          "name": "GLOSSARY.md",
+          "name": "📒 GLOSSARY.md",
           "path": "AI-NOTES/GLOSSARY.md",
           "sha": "dcd10eff2fd3444b2d532ef6f608a9e29d2c1ea2",
+          "mime": "text/markdown"
+        },
+        {
+          "type": "file",
+          "name": "📓 NOTES.md",
+          "path": "AI-NOTES/NOTES.md",
+          "sha": "66a4f25b0abc2dc9aed055438e3f5c3b8f50fbc7",
           "mime": "text/markdown"
         },
         {
@@ -23,23 +30,23 @@
               "children": [
                 {
                   "type": "file",
-                  "name": "INDIAN-CONSTITUTION-AT-WORK01-CONSTITUTION_WHY_AND_HOW-CNOTES.md",
-                  "path": "AI-NOTES/INDIAN-CONSTITUTION-AT-WORK/INDIAN-CONSTITUTION-AT-WORK01-CONSTITUTION_WHY_AND_HOW/INDIAN-CONSTITUTION-AT-WORK01-CONSTITUTION_WHY_AND_HOW-CNOTES.md",
-                  "sha": "37ce5aecf55c7446c5f2f59b8a616aa0e6f82088",
-                  "mime": "text/markdown"
-                },
-                {
-                  "type": "file",
-                  "name": "INDIAN-CONSTITUTION-AT-WORK01-CONSTITUTION_WHY_AND_HOW-GLOSSARY.md",
+                  "name": "📒 INDIAN-CONSTITUTION-AT-WORK01-CONSTITUTION_WHY_AND_HOW-GLOSSARY.md",
                   "path": "AI-NOTES/INDIAN-CONSTITUTION-AT-WORK/INDIAN-CONSTITUTION-AT-WORK01-CONSTITUTION_WHY_AND_HOW/INDIAN-CONSTITUTION-AT-WORK01-CONSTITUTION_WHY_AND_HOW-GLOSSARY.md",
                   "sha": "f0d5961e994c43ca3295798837b66430fa9a0f62",
                   "mime": "text/markdown"
                 },
                 {
                   "type": "file",
-                  "name": "INDIAN-CONSTITUTION-AT-WORK01-CONSTITUTION_WHY_AND_HOW-NOTES.md",
+                  "name": "📓 INDIAN-CONSTITUTION-AT-WORK01-CONSTITUTION_WHY_AND_HOW-NOTES.md",
                   "path": "AI-NOTES/INDIAN-CONSTITUTION-AT-WORK/INDIAN-CONSTITUTION-AT-WORK01-CONSTITUTION_WHY_AND_HOW/INDIAN-CONSTITUTION-AT-WORK01-CONSTITUTION_WHY_AND_HOW-NOTES.md",
                   "sha": "076af6fdb800c4cb55876278ed9758cdfafad7fa",
+                  "mime": "text/markdown"
+                },
+                {
+                  "type": "file",
+                  "name": "📔 INDIAN-CONSTITUTION-AT-WORK01-CONSTITUTION_WHY_AND_HOW-CNOTES.md",
+                  "path": "AI-NOTES/INDIAN-CONSTITUTION-AT-WORK/INDIAN-CONSTITUTION-AT-WORK01-CONSTITUTION_WHY_AND_HOW/INDIAN-CONSTITUTION-AT-WORK01-CONSTITUTION_WHY_AND_HOW-CNOTES.md",
+                  "sha": "37ce5aecf55c7446c5f2f59b8a616aa0e6f82088",
                   "mime": "text/markdown"
                 }
               ]
@@ -50,23 +57,23 @@
               "children": [
                 {
                   "type": "file",
-                  "name": "INDIAN-CONSTITUTION-AT-WORK02-RIGHTS_IN_THE_INDIAN_CONSTITUTION-CNOTES.md",
-                  "path": "AI-NOTES/INDIAN-CONSTITUTION-AT-WORK/INDIAN-CONSTITUTION-AT-WORK02-RIGHTS_IN_THE_INDIAN_CONSTITUTION/INDIAN-CONSTITUTION-AT-WORK02-RIGHTS_IN_THE_INDIAN_CONSTITUTION-CNOTES.md",
-                  "sha": "134bf9edd907b09b581da311e271edc8f553eabe",
-                  "mime": "text/markdown"
-                },
-                {
-                  "type": "file",
-                  "name": "INDIAN-CONSTITUTION-AT-WORK02-RIGHTS_IN_THE_INDIAN_CONSTITUTION-GLOSSARY.md",
+                  "name": "📒 INDIAN-CONSTITUTION-AT-WORK02-RIGHTS_IN_THE_INDIAN_CONSTITUTION-GLOSSARY.md",
                   "path": "AI-NOTES/INDIAN-CONSTITUTION-AT-WORK/INDIAN-CONSTITUTION-AT-WORK02-RIGHTS_IN_THE_INDIAN_CONSTITUTION/INDIAN-CONSTITUTION-AT-WORK02-RIGHTS_IN_THE_INDIAN_CONSTITUTION-GLOSSARY.md",
                   "sha": "f3dbf4170b316c0b3c37a97355ea5eee0ad7ee10",
                   "mime": "text/markdown"
                 },
                 {
                   "type": "file",
-                  "name": "INDIAN-CONSTITUTION-AT-WORK02-RIGHTS_IN_THE_INDIAN_CONSTITUTION-NOTES.md",
+                  "name": "📓 INDIAN-CONSTITUTION-AT-WORK02-RIGHTS_IN_THE_INDIAN_CONSTITUTION-NOTES.md",
                   "path": "AI-NOTES/INDIAN-CONSTITUTION-AT-WORK/INDIAN-CONSTITUTION-AT-WORK02-RIGHTS_IN_THE_INDIAN_CONSTITUTION/INDIAN-CONSTITUTION-AT-WORK02-RIGHTS_IN_THE_INDIAN_CONSTITUTION-NOTES.md",
                   "sha": "4ea82bb04a57d95b8ef5f048c63b40024c65b08e",
+                  "mime": "text/markdown"
+                },
+                {
+                  "type": "file",
+                  "name": "📔 INDIAN-CONSTITUTION-AT-WORK02-RIGHTS_IN_THE_INDIAN_CONSTITUTION-CNOTES.md",
+                  "path": "AI-NOTES/INDIAN-CONSTITUTION-AT-WORK/INDIAN-CONSTITUTION-AT-WORK02-RIGHTS_IN_THE_INDIAN_CONSTITUTION/INDIAN-CONSTITUTION-AT-WORK02-RIGHTS_IN_THE_INDIAN_CONSTITUTION-CNOTES.md",
+                  "sha": "134bf9edd907b09b581da311e271edc8f553eabe",
                   "mime": "text/markdown"
                 }
               ]
@@ -77,23 +84,23 @@
               "children": [
                 {
                   "type": "file",
-                  "name": "INDIAN-CONSTITUTION-AT-WORK03-ELECTION_AND_REPRESENTATION-CNOTES.md",
-                  "path": "AI-NOTES/INDIAN-CONSTITUTION-AT-WORK/INDIAN-CONSTITUTION-AT-WORK03-ELECTION_AND_REPRESENTATION/INDIAN-CONSTITUTION-AT-WORK03-ELECTION_AND_REPRESENTATION-CNOTES.md",
-                  "sha": "4e356df633a1be044d01f943ce1cf1ba881cf889",
-                  "mime": "text/markdown"
-                },
-                {
-                  "type": "file",
-                  "name": "INDIAN-CONSTITUTION-AT-WORK03-ELECTION_AND_REPRESENTATION-GLOSSARY.md",
+                  "name": "📒 INDIAN-CONSTITUTION-AT-WORK03-ELECTION_AND_REPRESENTATION-GLOSSARY.md",
                   "path": "AI-NOTES/INDIAN-CONSTITUTION-AT-WORK/INDIAN-CONSTITUTION-AT-WORK03-ELECTION_AND_REPRESENTATION/INDIAN-CONSTITUTION-AT-WORK03-ELECTION_AND_REPRESENTATION-GLOSSARY.md",
                   "sha": "046afbddb42bfee52558f6140cfe2b0b09356a7e",
                   "mime": "text/markdown"
                 },
                 {
                   "type": "file",
-                  "name": "INDIAN-CONSTITUTION-AT-WORK03-ELECTION_AND_REPRESENTATION-NOTES.md",
+                  "name": "📓 INDIAN-CONSTITUTION-AT-WORK03-ELECTION_AND_REPRESENTATION-NOTES.md",
                   "path": "AI-NOTES/INDIAN-CONSTITUTION-AT-WORK/INDIAN-CONSTITUTION-AT-WORK03-ELECTION_AND_REPRESENTATION/INDIAN-CONSTITUTION-AT-WORK03-ELECTION_AND_REPRESENTATION-NOTES.md",
                   "sha": "e645e5716ca8012be0ce517e3525db0f791bde9f",
+                  "mime": "text/markdown"
+                },
+                {
+                  "type": "file",
+                  "name": "📔 INDIAN-CONSTITUTION-AT-WORK03-ELECTION_AND_REPRESENTATION-CNOTES.md",
+                  "path": "AI-NOTES/INDIAN-CONSTITUTION-AT-WORK/INDIAN-CONSTITUTION-AT-WORK03-ELECTION_AND_REPRESENTATION/INDIAN-CONSTITUTION-AT-WORK03-ELECTION_AND_REPRESENTATION-CNOTES.md",
+                  "sha": "4e356df633a1be044d01f943ce1cf1ba881cf889",
                   "mime": "text/markdown"
                 }
               ]
@@ -104,23 +111,23 @@
               "children": [
                 {
                   "type": "file",
-                  "name": "INDIAN-CONSTITUTION-AT-WORK04-EXECUTIVE-CNOTES.md",
-                  "path": "AI-NOTES/INDIAN-CONSTITUTION-AT-WORK/INDIAN-CONSTITUTION-AT-WORK04-EXECUTIVE/INDIAN-CONSTITUTION-AT-WORK04-EXECUTIVE-CNOTES.md",
-                  "sha": "12ad4b4d085775686a7f247452a772e995498252",
-                  "mime": "text/markdown"
-                },
-                {
-                  "type": "file",
-                  "name": "INDIAN-CONSTITUTION-AT-WORK04-EXECUTIVE-GLOSSARY.md",
+                  "name": "📒 INDIAN-CONSTITUTION-AT-WORK04-EXECUTIVE-GLOSSARY.md",
                   "path": "AI-NOTES/INDIAN-CONSTITUTION-AT-WORK/INDIAN-CONSTITUTION-AT-WORK04-EXECUTIVE/INDIAN-CONSTITUTION-AT-WORK04-EXECUTIVE-GLOSSARY.md",
                   "sha": "bc42b3e1e655bf5b9c6fdf0cad141c49bef507bb",
                   "mime": "text/markdown"
                 },
                 {
                   "type": "file",
-                  "name": "INDIAN-CONSTITUTION-AT-WORK04-EXECUTIVE-NOTES.md",
+                  "name": "📓 INDIAN-CONSTITUTION-AT-WORK04-EXECUTIVE-NOTES.md",
                   "path": "AI-NOTES/INDIAN-CONSTITUTION-AT-WORK/INDIAN-CONSTITUTION-AT-WORK04-EXECUTIVE/INDIAN-CONSTITUTION-AT-WORK04-EXECUTIVE-NOTES.md",
                   "sha": "05b033852ec0458cdd7534fd3faa25070acc53b3",
+                  "mime": "text/markdown"
+                },
+                {
+                  "type": "file",
+                  "name": "📔 INDIAN-CONSTITUTION-AT-WORK04-EXECUTIVE-CNOTES.md",
+                  "path": "AI-NOTES/INDIAN-CONSTITUTION-AT-WORK/INDIAN-CONSTITUTION-AT-WORK04-EXECUTIVE/INDIAN-CONSTITUTION-AT-WORK04-EXECUTIVE-CNOTES.md",
+                  "sha": "12ad4b4d085775686a7f247452a772e995498252",
                   "mime": "text/markdown"
                 }
               ]
@@ -131,23 +138,23 @@
               "children": [
                 {
                   "type": "file",
-                  "name": "INDIAN-CONSTITUTION-AT-WORK05-LEGISLATURE-CNOTES.md",
-                  "path": "AI-NOTES/INDIAN-CONSTITUTION-AT-WORK/INDIAN-CONSTITUTION-AT-WORK05-LEGISLATURE/INDIAN-CONSTITUTION-AT-WORK05-LEGISLATURE-CNOTES.md",
-                  "sha": "59e9db98fe6203d915e4a858153561b0d80cd525",
-                  "mime": "text/markdown"
-                },
-                {
-                  "type": "file",
-                  "name": "INDIAN-CONSTITUTION-AT-WORK05-LEGISLATURE-GLOSSARY.md",
+                  "name": "📒 INDIAN-CONSTITUTION-AT-WORK05-LEGISLATURE-GLOSSARY.md",
                   "path": "AI-NOTES/INDIAN-CONSTITUTION-AT-WORK/INDIAN-CONSTITUTION-AT-WORK05-LEGISLATURE/INDIAN-CONSTITUTION-AT-WORK05-LEGISLATURE-GLOSSARY.md",
                   "sha": "8ccf9d8235289318cc5a8a707966fbad677eee60",
                   "mime": "text/markdown"
                 },
                 {
                   "type": "file",
-                  "name": "INDIAN-CONSTITUTION-AT-WORK05-LEGISLATURE-NOTES.md",
+                  "name": "📓 INDIAN-CONSTITUTION-AT-WORK05-LEGISLATURE-NOTES.md",
                   "path": "AI-NOTES/INDIAN-CONSTITUTION-AT-WORK/INDIAN-CONSTITUTION-AT-WORK05-LEGISLATURE/INDIAN-CONSTITUTION-AT-WORK05-LEGISLATURE-NOTES.md",
                   "sha": "414ce3b6fa3f12b1d28bd07f746fe64f2593a3e7",
+                  "mime": "text/markdown"
+                },
+                {
+                  "type": "file",
+                  "name": "📔 INDIAN-CONSTITUTION-AT-WORK05-LEGISLATURE-CNOTES.md",
+                  "path": "AI-NOTES/INDIAN-CONSTITUTION-AT-WORK/INDIAN-CONSTITUTION-AT-WORK05-LEGISLATURE/INDIAN-CONSTITUTION-AT-WORK05-LEGISLATURE-CNOTES.md",
+                  "sha": "59e9db98fe6203d915e4a858153561b0d80cd525",
                   "mime": "text/markdown"
                 }
               ]
@@ -158,23 +165,23 @@
               "children": [
                 {
                   "type": "file",
-                  "name": "INDIAN-CONSTITUTION-AT-WORK06-JUDICIARY-CNOTES.md",
-                  "path": "AI-NOTES/INDIAN-CONSTITUTION-AT-WORK/INDIAN-CONSTITUTION-AT-WORK06-JUDICIARY/INDIAN-CONSTITUTION-AT-WORK06-JUDICIARY-CNOTES.md",
-                  "sha": "e7f930c89824c702d7d6faf63cd3b89e4d7b0685",
-                  "mime": "text/markdown"
-                },
-                {
-                  "type": "file",
-                  "name": "INDIAN-CONSTITUTION-AT-WORK06-JUDICIARY-GLOSSARY.md",
+                  "name": "📒 INDIAN-CONSTITUTION-AT-WORK06-JUDICIARY-GLOSSARY.md",
                   "path": "AI-NOTES/INDIAN-CONSTITUTION-AT-WORK/INDIAN-CONSTITUTION-AT-WORK06-JUDICIARY/INDIAN-CONSTITUTION-AT-WORK06-JUDICIARY-GLOSSARY.md",
                   "sha": "810861242b2594094bf0921c58ccef204bf9bdcb",
                   "mime": "text/markdown"
                 },
                 {
                   "type": "file",
-                  "name": "INDIAN-CONSTITUTION-AT-WORK06-JUDICIARY-NOTES.md",
+                  "name": "📓 INDIAN-CONSTITUTION-AT-WORK06-JUDICIARY-NOTES.md",
                   "path": "AI-NOTES/INDIAN-CONSTITUTION-AT-WORK/INDIAN-CONSTITUTION-AT-WORK06-JUDICIARY/INDIAN-CONSTITUTION-AT-WORK06-JUDICIARY-NOTES.md",
                   "sha": "2951be11d7af963e65b193fd356b23e4e58aea26",
+                  "mime": "text/markdown"
+                },
+                {
+                  "type": "file",
+                  "name": "📔 INDIAN-CONSTITUTION-AT-WORK06-JUDICIARY-CNOTES.md",
+                  "path": "AI-NOTES/INDIAN-CONSTITUTION-AT-WORK/INDIAN-CONSTITUTION-AT-WORK06-JUDICIARY/INDIAN-CONSTITUTION-AT-WORK06-JUDICIARY-CNOTES.md",
+                  "sha": "e7f930c89824c702d7d6faf63cd3b89e4d7b0685",
                   "mime": "text/markdown"
                 }
               ]
@@ -185,23 +192,23 @@
               "children": [
                 {
                   "type": "file",
-                  "name": "INDIAN-CONSTITUTION-AT-WORK07-FEDERALISM-CNOTES.md",
-                  "path": "AI-NOTES/INDIAN-CONSTITUTION-AT-WORK/INDIAN-CONSTITUTION-AT-WORK07-FEDERALISM/INDIAN-CONSTITUTION-AT-WORK07-FEDERALISM-CNOTES.md",
-                  "sha": "76b3a5675d6d7a6c2b30e407b2c296fb330d7ce1",
-                  "mime": "text/markdown"
-                },
-                {
-                  "type": "file",
-                  "name": "INDIAN-CONSTITUTION-AT-WORK07-FEDERALISM-GLOSSARY.md",
+                  "name": "📒 INDIAN-CONSTITUTION-AT-WORK07-FEDERALISM-GLOSSARY.md",
                   "path": "AI-NOTES/INDIAN-CONSTITUTION-AT-WORK/INDIAN-CONSTITUTION-AT-WORK07-FEDERALISM/INDIAN-CONSTITUTION-AT-WORK07-FEDERALISM-GLOSSARY.md",
                   "sha": "0b42091e0fdd9e963db72a034be85847630d0bac",
                   "mime": "text/markdown"
                 },
                 {
                   "type": "file",
-                  "name": "INDIAN-CONSTITUTION-AT-WORK07-FEDERALISM-NOTES.md",
+                  "name": "📓 INDIAN-CONSTITUTION-AT-WORK07-FEDERALISM-NOTES.md",
                   "path": "AI-NOTES/INDIAN-CONSTITUTION-AT-WORK/INDIAN-CONSTITUTION-AT-WORK07-FEDERALISM/INDIAN-CONSTITUTION-AT-WORK07-FEDERALISM-NOTES.md",
                   "sha": "2c484d7c19530eb70344837475a2e1810e73077b",
+                  "mime": "text/markdown"
+                },
+                {
+                  "type": "file",
+                  "name": "📔 INDIAN-CONSTITUTION-AT-WORK07-FEDERALISM-CNOTES.md",
+                  "path": "AI-NOTES/INDIAN-CONSTITUTION-AT-WORK/INDIAN-CONSTITUTION-AT-WORK07-FEDERALISM/INDIAN-CONSTITUTION-AT-WORK07-FEDERALISM-CNOTES.md",
+                  "sha": "76b3a5675d6d7a6c2b30e407b2c296fb330d7ce1",
                   "mime": "text/markdown"
                 }
               ]
@@ -212,23 +219,23 @@
               "children": [
                 {
                   "type": "file",
-                  "name": "INDIAN-CONSTITUTION-AT-WORK08-LOCAL_GOVERNMENTS-CNOTES.md",
-                  "path": "AI-NOTES/INDIAN-CONSTITUTION-AT-WORK/INDIAN-CONSTITUTION-AT-WORK08-LOCAL_GOVERNMENTS/INDIAN-CONSTITUTION-AT-WORK08-LOCAL_GOVERNMENTS-CNOTES.md",
-                  "sha": "ac81634a6fa90dbab92c966bbfcb9036b722877e",
-                  "mime": "text/markdown"
-                },
-                {
-                  "type": "file",
-                  "name": "INDIAN-CONSTITUTION-AT-WORK08-LOCAL_GOVERNMENTS-GLOSSARY.md",
+                  "name": "📒 INDIAN-CONSTITUTION-AT-WORK08-LOCAL_GOVERNMENTS-GLOSSARY.md",
                   "path": "AI-NOTES/INDIAN-CONSTITUTION-AT-WORK/INDIAN-CONSTITUTION-AT-WORK08-LOCAL_GOVERNMENTS/INDIAN-CONSTITUTION-AT-WORK08-LOCAL_GOVERNMENTS-GLOSSARY.md",
                   "sha": "29698524e77577ef63e385515ff420dc5fe4278e",
                   "mime": "text/markdown"
                 },
                 {
                   "type": "file",
-                  "name": "INDIAN-CONSTITUTION-AT-WORK08-LOCAL_GOVERNMENTS-NOTES.md",
+                  "name": "📓 INDIAN-CONSTITUTION-AT-WORK08-LOCAL_GOVERNMENTS-NOTES.md",
                   "path": "AI-NOTES/INDIAN-CONSTITUTION-AT-WORK/INDIAN-CONSTITUTION-AT-WORK08-LOCAL_GOVERNMENTS/INDIAN-CONSTITUTION-AT-WORK08-LOCAL_GOVERNMENTS-NOTES.md",
                   "sha": "bd31a337dcefbfef6aab8042edd7b39196562a8a",
+                  "mime": "text/markdown"
+                },
+                {
+                  "type": "file",
+                  "name": "📔 INDIAN-CONSTITUTION-AT-WORK08-LOCAL_GOVERNMENTS-CNOTES.md",
+                  "path": "AI-NOTES/INDIAN-CONSTITUTION-AT-WORK/INDIAN-CONSTITUTION-AT-WORK08-LOCAL_GOVERNMENTS/INDIAN-CONSTITUTION-AT-WORK08-LOCAL_GOVERNMENTS-CNOTES.md",
+                  "sha": "ac81634a6fa90dbab92c966bbfcb9036b722877e",
                   "mime": "text/markdown"
                 }
               ]
@@ -239,23 +246,23 @@
               "children": [
                 {
                   "type": "file",
-                  "name": "INDIAN-CONSTITUTION-AT-WORK09-CONSTITUTION_AS_A_LIVING_DOCUMENT-CNOTES.md",
-                  "path": "AI-NOTES/INDIAN-CONSTITUTION-AT-WORK/INDIAN-CONSTITUTION-AT-WORK09-CONSTITUTION_AS_A_LIVING_DOCUMENT/INDIAN-CONSTITUTION-AT-WORK09-CONSTITUTION_AS_A_LIVING_DOCUMENT-CNOTES.md",
-                  "sha": "725ffca8035450a9141db63d5dedb6a592710a6d",
-                  "mime": "text/markdown"
-                },
-                {
-                  "type": "file",
-                  "name": "INDIAN-CONSTITUTION-AT-WORK09-CONSTITUTION_AS_A_LIVING_DOCUMENT-GLOSSARY.md",
+                  "name": "📒 INDIAN-CONSTITUTION-AT-WORK09-CONSTITUTION_AS_A_LIVING_DOCUMENT-GLOSSARY.md",
                   "path": "AI-NOTES/INDIAN-CONSTITUTION-AT-WORK/INDIAN-CONSTITUTION-AT-WORK09-CONSTITUTION_AS_A_LIVING_DOCUMENT/INDIAN-CONSTITUTION-AT-WORK09-CONSTITUTION_AS_A_LIVING_DOCUMENT-GLOSSARY.md",
                   "sha": "ad0030766621e3dda3f37ef46dd75b6f089df9d1",
                   "mime": "text/markdown"
                 },
                 {
                   "type": "file",
-                  "name": "INDIAN-CONSTITUTION-AT-WORK09-CONSTITUTION_AS_A_LIVING_DOCUMENT-NOTES.md",
+                  "name": "📓 INDIAN-CONSTITUTION-AT-WORK09-CONSTITUTION_AS_A_LIVING_DOCUMENT-NOTES.md",
                   "path": "AI-NOTES/INDIAN-CONSTITUTION-AT-WORK/INDIAN-CONSTITUTION-AT-WORK09-CONSTITUTION_AS_A_LIVING_DOCUMENT/INDIAN-CONSTITUTION-AT-WORK09-CONSTITUTION_AS_A_LIVING_DOCUMENT-NOTES.md",
                   "sha": "15ba9240b3b0f57548d118db1cc4eda7630b4a45",
+                  "mime": "text/markdown"
+                },
+                {
+                  "type": "file",
+                  "name": "📔 INDIAN-CONSTITUTION-AT-WORK09-CONSTITUTION_AS_A_LIVING_DOCUMENT-CNOTES.md",
+                  "path": "AI-NOTES/INDIAN-CONSTITUTION-AT-WORK/INDIAN-CONSTITUTION-AT-WORK09-CONSTITUTION_AS_A_LIVING_DOCUMENT/INDIAN-CONSTITUTION-AT-WORK09-CONSTITUTION_AS_A_LIVING_DOCUMENT-CNOTES.md",
+                  "sha": "725ffca8035450a9141db63d5dedb6a592710a6d",
                   "mime": "text/markdown"
                 }
               ]
@@ -266,23 +273,23 @@
               "children": [
                 {
                   "type": "file",
-                  "name": "INDIAN-CONSTITUTION-AT-WORK10-THE_PHILOSOPHY_OF_THE_CONSTITUTION-CNOTES.md",
-                  "path": "AI-NOTES/INDIAN-CONSTITUTION-AT-WORK/INDIAN-CONSTITUTION-AT-WORK10-THE_PHILOSOPHY_OF_THE_CONSTITUTION/INDIAN-CONSTITUTION-AT-WORK10-THE_PHILOSOPHY_OF_THE_CONSTITUTION-CNOTES.md",
-                  "sha": "aa76b1ebef026d9374887c35ff89f554c565f389",
-                  "mime": "text/markdown"
-                },
-                {
-                  "type": "file",
-                  "name": "INDIAN-CONSTITUTION-AT-WORK10-THE_PHILOSOPHY_OF_THE_CONSTITUTION-GLOSSARY.md",
+                  "name": "📒 INDIAN-CONSTITUTION-AT-WORK10-THE_PHILOSOPHY_OF_THE_CONSTITUTION-GLOSSARY.md",
                   "path": "AI-NOTES/INDIAN-CONSTITUTION-AT-WORK/INDIAN-CONSTITUTION-AT-WORK10-THE_PHILOSOPHY_OF_THE_CONSTITUTION/INDIAN-CONSTITUTION-AT-WORK10-THE_PHILOSOPHY_OF_THE_CONSTITUTION-GLOSSARY.md",
                   "sha": "08f62d6ce9daa5141655c0de7109b50d1428bdec",
                   "mime": "text/markdown"
                 },
                 {
                   "type": "file",
-                  "name": "INDIAN-CONSTITUTION-AT-WORK10-THE_PHILOSOPHY_OF_THE_CONSTITUTION-NOTES.md",
+                  "name": "📓 INDIAN-CONSTITUTION-AT-WORK10-THE_PHILOSOPHY_OF_THE_CONSTITUTION-NOTES.md",
                   "path": "AI-NOTES/INDIAN-CONSTITUTION-AT-WORK/INDIAN-CONSTITUTION-AT-WORK10-THE_PHILOSOPHY_OF_THE_CONSTITUTION/INDIAN-CONSTITUTION-AT-WORK10-THE_PHILOSOPHY_OF_THE_CONSTITUTION-NOTES.md",
                   "sha": "a7e8b6d21ceba70ee5b6e34886b8abeaf887aacc",
+                  "mime": "text/markdown"
+                },
+                {
+                  "type": "file",
+                  "name": "📔 INDIAN-CONSTITUTION-AT-WORK10-THE_PHILOSOPHY_OF_THE_CONSTITUTION-CNOTES.md",
+                  "path": "AI-NOTES/INDIAN-CONSTITUTION-AT-WORK/INDIAN-CONSTITUTION-AT-WORK10-THE_PHILOSOPHY_OF_THE_CONSTITUTION/INDIAN-CONSTITUTION-AT-WORK10-THE_PHILOSOPHY_OF_THE_CONSTITUTION-CNOTES.md",
+                  "sha": "aa76b1ebef026d9374887c35ff89f554c565f389",
                   "mime": "text/markdown"
                 }
               ]
@@ -299,23 +306,23 @@
               "children": [
                 {
                   "type": "file",
-                  "name": "INTRODUCING-SOCIOLOGY01-SOCIETY_AND_SOCIOLOGY-CNOTES.md",
-                  "path": "AI-NOTES/INTRODUCING-SOCIOLOGY/INTRODUCING-SOCIOLOGY01-SOCIETY_AND_SOCIOLOGY/INTRODUCING-SOCIOLOGY01-SOCIETY_AND_SOCIOLOGY-CNOTES.md",
-                  "sha": "3cbf985f86bacb941e956cf29c9d3affa32c6647",
-                  "mime": "text/markdown"
-                },
-                {
-                  "type": "file",
-                  "name": "INTRODUCING-SOCIOLOGY01-SOCIETY_AND_SOCIOLOGY-GLOSSARY.md",
+                  "name": "📒 INTRODUCING-SOCIOLOGY01-SOCIETY_AND_SOCIOLOGY-GLOSSARY.md",
                   "path": "AI-NOTES/INTRODUCING-SOCIOLOGY/INTRODUCING-SOCIOLOGY01-SOCIETY_AND_SOCIOLOGY/INTRODUCING-SOCIOLOGY01-SOCIETY_AND_SOCIOLOGY-GLOSSARY.md",
                   "sha": "67ce5cc227333cf4a57ecca9d1b2a6119eccfc33",
                   "mime": "text/markdown"
                 },
                 {
                   "type": "file",
-                  "name": "INTRODUCING-SOCIOLOGY01-SOCIETY_AND_SOCIOLOGY-NOTES.md",
+                  "name": "📓 INTRODUCING-SOCIOLOGY01-SOCIETY_AND_SOCIOLOGY-NOTES.md",
                   "path": "AI-NOTES/INTRODUCING-SOCIOLOGY/INTRODUCING-SOCIOLOGY01-SOCIETY_AND_SOCIOLOGY/INTRODUCING-SOCIOLOGY01-SOCIETY_AND_SOCIOLOGY-NOTES.md",
                   "sha": "2bb8541cd986aeadf54b9432e2ffcf14d017c9b6",
+                  "mime": "text/markdown"
+                },
+                {
+                  "type": "file",
+                  "name": "📔 INTRODUCING-SOCIOLOGY01-SOCIETY_AND_SOCIOLOGY-CNOTES.md",
+                  "path": "AI-NOTES/INTRODUCING-SOCIOLOGY/INTRODUCING-SOCIOLOGY01-SOCIETY_AND_SOCIOLOGY/INTRODUCING-SOCIOLOGY01-SOCIETY_AND_SOCIOLOGY-CNOTES.md",
+                  "sha": "3cbf985f86bacb941e956cf29c9d3affa32c6647",
                   "mime": "text/markdown"
                 }
               ]
@@ -326,23 +333,23 @@
               "children": [
                 {
                   "type": "file",
-                  "name": "INTRODUCING-SOCIOLOGY02-SOCIAL_CHANGE_AND_SOCIAL_ORDER-CNOTES.md",
-                  "path": "AI-NOTES/INTRODUCING-SOCIOLOGY/INTRODUCING-SOCIOLOGY02-SOCIAL_CHANGE_AND_SOCIAL_ORDER/INTRODUCING-SOCIOLOGY02-SOCIAL_CHANGE_AND_SOCIAL_ORDER-CNOTES.md",
-                  "sha": "ee799abd0a967b8d8528daa80b7172301108896b",
-                  "mime": "text/markdown"
-                },
-                {
-                  "type": "file",
-                  "name": "INTRODUCING-SOCIOLOGY02-SOCIAL_CHANGE_AND_SOCIAL_ORDER-GLOSSARY.md",
+                  "name": "📒 INTRODUCING-SOCIOLOGY02-SOCIAL_CHANGE_AND_SOCIAL_ORDER-GLOSSARY.md",
                   "path": "AI-NOTES/INTRODUCING-SOCIOLOGY/INTRODUCING-SOCIOLOGY02-SOCIAL_CHANGE_AND_SOCIAL_ORDER/INTRODUCING-SOCIOLOGY02-SOCIAL_CHANGE_AND_SOCIAL_ORDER-GLOSSARY.md",
                   "sha": "0bab28f020115bf64b53e36bb728abcb1ac839ef",
                   "mime": "text/markdown"
                 },
                 {
                   "type": "file",
-                  "name": "INTRODUCING-SOCIOLOGY02-SOCIAL_CHANGE_AND_SOCIAL_ORDER-NOTES.md",
+                  "name": "📓 INTRODUCING-SOCIOLOGY02-SOCIAL_CHANGE_AND_SOCIAL_ORDER-NOTES.md",
                   "path": "AI-NOTES/INTRODUCING-SOCIOLOGY/INTRODUCING-SOCIOLOGY02-SOCIAL_CHANGE_AND_SOCIAL_ORDER/INTRODUCING-SOCIOLOGY02-SOCIAL_CHANGE_AND_SOCIAL_ORDER-NOTES.md",
                   "sha": "8a6fc05117b9f01039204cbe20c62fb770839c44",
+                  "mime": "text/markdown"
+                },
+                {
+                  "type": "file",
+                  "name": "📔 INTRODUCING-SOCIOLOGY02-SOCIAL_CHANGE_AND_SOCIAL_ORDER-CNOTES.md",
+                  "path": "AI-NOTES/INTRODUCING-SOCIOLOGY/INTRODUCING-SOCIOLOGY02-SOCIAL_CHANGE_AND_SOCIAL_ORDER/INTRODUCING-SOCIOLOGY02-SOCIAL_CHANGE_AND_SOCIAL_ORDER-CNOTES.md",
+                  "sha": "ee799abd0a967b8d8528daa80b7172301108896b",
                   "mime": "text/markdown"
                 }
               ]
@@ -353,23 +360,23 @@
               "children": [
                 {
                   "type": "file",
-                  "name": "INTRODUCING-SOCIOLOGY03-ENVIRONMENT_AND_SOCIETY-CNOTES.md",
-                  "path": "AI-NOTES/INTRODUCING-SOCIOLOGY/INTRODUCING-SOCIOLOGY03-ENVIRONMENT_AND_SOCIETY/INTRODUCING-SOCIOLOGY03-ENVIRONMENT_AND_SOCIETY-CNOTES.md",
-                  "sha": "8dc200b78e256b065fe58e905a54d511b2265340",
-                  "mime": "text/markdown"
-                },
-                {
-                  "type": "file",
-                  "name": "INTRODUCING-SOCIOLOGY03-ENVIRONMENT_AND_SOCIETY-GLOSSARY.md",
+                  "name": "📒 INTRODUCING-SOCIOLOGY03-ENVIRONMENT_AND_SOCIETY-GLOSSARY.md",
                   "path": "AI-NOTES/INTRODUCING-SOCIOLOGY/INTRODUCING-SOCIOLOGY03-ENVIRONMENT_AND_SOCIETY/INTRODUCING-SOCIOLOGY03-ENVIRONMENT_AND_SOCIETY-GLOSSARY.md",
                   "sha": "c21ce5bed172bc7c1a0b6f0557a6d000ddcb86a5",
                   "mime": "text/markdown"
                 },
                 {
                   "type": "file",
-                  "name": "INTRODUCING-SOCIOLOGY03-ENVIRONMENT_AND_SOCIETY-NOTES.md",
+                  "name": "📓 INTRODUCING-SOCIOLOGY03-ENVIRONMENT_AND_SOCIETY-NOTES.md",
                   "path": "AI-NOTES/INTRODUCING-SOCIOLOGY/INTRODUCING-SOCIOLOGY03-ENVIRONMENT_AND_SOCIETY/INTRODUCING-SOCIOLOGY03-ENVIRONMENT_AND_SOCIETY-NOTES.md",
                   "sha": "0ee1df655a58aefc6865ed8f956aeb5058c79c72",
+                  "mime": "text/markdown"
+                },
+                {
+                  "type": "file",
+                  "name": "📔 INTRODUCING-SOCIOLOGY03-ENVIRONMENT_AND_SOCIETY-CNOTES.md",
+                  "path": "AI-NOTES/INTRODUCING-SOCIOLOGY/INTRODUCING-SOCIOLOGY03-ENVIRONMENT_AND_SOCIETY/INTRODUCING-SOCIOLOGY03-ENVIRONMENT_AND_SOCIETY-CNOTES.md",
+                  "sha": "8dc200b78e256b065fe58e905a54d511b2265340",
                   "mime": "text/markdown"
                 }
               ]
@@ -380,23 +387,23 @@
               "children": [
                 {
                   "type": "file",
-                  "name": "INTRODUCING-SOCIOLOGY04-INTRODUCING_WESTERN_SOCIOLOGISTS-CNOTES.md",
-                  "path": "AI-NOTES/INTRODUCING-SOCIOLOGY/INTRODUCING-SOCIOLOGY04-INTRODUCING_WESTERN_SOCIOLOGISTS/INTRODUCING-SOCIOLOGY04-INTRODUCING_WESTERN_SOCIOLOGISTS-CNOTES.md",
-                  "sha": "a6f1c3c484957ec17836f5068176d47671b017b9",
-                  "mime": "text/markdown"
-                },
-                {
-                  "type": "file",
-                  "name": "INTRODUCING-SOCIOLOGY04-INTRODUCING_WESTERN_SOCIOLOGISTS-GLOSSARY.md",
+                  "name": "📒 INTRODUCING-SOCIOLOGY04-INTRODUCING_WESTERN_SOCIOLOGISTS-GLOSSARY.md",
                   "path": "AI-NOTES/INTRODUCING-SOCIOLOGY/INTRODUCING-SOCIOLOGY04-INTRODUCING_WESTERN_SOCIOLOGISTS/INTRODUCING-SOCIOLOGY04-INTRODUCING_WESTERN_SOCIOLOGISTS-GLOSSARY.md",
                   "sha": "c9413e9db93436e2ffacdb353ab9d7d09c9ac44d",
                   "mime": "text/markdown"
                 },
                 {
                   "type": "file",
-                  "name": "INTRODUCING-SOCIOLOGY04-INTRODUCING_WESTERN_SOCIOLOGISTS-NOTES.md",
+                  "name": "📓 INTRODUCING-SOCIOLOGY04-INTRODUCING_WESTERN_SOCIOLOGISTS-NOTES.md",
                   "path": "AI-NOTES/INTRODUCING-SOCIOLOGY/INTRODUCING-SOCIOLOGY04-INTRODUCING_WESTERN_SOCIOLOGISTS/INTRODUCING-SOCIOLOGY04-INTRODUCING_WESTERN_SOCIOLOGISTS-NOTES.md",
                   "sha": "eb7dee3bb47bb76a2653eac785c9ea94a16c93d7",
+                  "mime": "text/markdown"
+                },
+                {
+                  "type": "file",
+                  "name": "📔 INTRODUCING-SOCIOLOGY04-INTRODUCING_WESTERN_SOCIOLOGISTS-CNOTES.md",
+                  "path": "AI-NOTES/INTRODUCING-SOCIOLOGY/INTRODUCING-SOCIOLOGY04-INTRODUCING_WESTERN_SOCIOLOGISTS/INTRODUCING-SOCIOLOGY04-INTRODUCING_WESTERN_SOCIOLOGISTS-CNOTES.md",
+                  "sha": "a6f1c3c484957ec17836f5068176d47671b017b9",
                   "mime": "text/markdown"
                 }
               ]
@@ -407,23 +414,23 @@
               "children": [
                 {
                   "type": "file",
-                  "name": "INTRODUCING-SOCIOLOGY05-INDIAN_SOCIOLOGISTS-CNOTES.md",
-                  "path": "AI-NOTES/INTRODUCING-SOCIOLOGY/INTRODUCING-SOCIOLOGY05-INDIAN_SOCIOLOGISTS/INTRODUCING-SOCIOLOGY05-INDIAN_SOCIOLOGISTS-CNOTES.md",
-                  "sha": "df95142dad896ea8cce7f08c1a76b9e96d35c9c8",
-                  "mime": "text/markdown"
-                },
-                {
-                  "type": "file",
-                  "name": "INTRODUCING-SOCIOLOGY05-INDIAN_SOCIOLOGISTS-GLOSSARY.md",
+                  "name": "📒 INTRODUCING-SOCIOLOGY05-INDIAN_SOCIOLOGISTS-GLOSSARY.md",
                   "path": "AI-NOTES/INTRODUCING-SOCIOLOGY/INTRODUCING-SOCIOLOGY05-INDIAN_SOCIOLOGISTS/INTRODUCING-SOCIOLOGY05-INDIAN_SOCIOLOGISTS-GLOSSARY.md",
                   "sha": "4ed82f0b1650daf54e8567fb082fcef678fb46b8",
                   "mime": "text/markdown"
                 },
                 {
                   "type": "file",
-                  "name": "INTRODUCING-SOCIOLOGY05-INDIAN_SOCIOLOGISTS-NOTES.md",
+                  "name": "📓 INTRODUCING-SOCIOLOGY05-INDIAN_SOCIOLOGISTS-NOTES.md",
                   "path": "AI-NOTES/INTRODUCING-SOCIOLOGY/INTRODUCING-SOCIOLOGY05-INDIAN_SOCIOLOGISTS/INTRODUCING-SOCIOLOGY05-INDIAN_SOCIOLOGISTS-NOTES.md",
                   "sha": "0d91a893af59fb3257717a4d06df34e72273ea28",
+                  "mime": "text/markdown"
+                },
+                {
+                  "type": "file",
+                  "name": "📔 INTRODUCING-SOCIOLOGY05-INDIAN_SOCIOLOGISTS-CNOTES.md",
+                  "path": "AI-NOTES/INTRODUCING-SOCIOLOGY/INTRODUCING-SOCIOLOGY05-INDIAN_SOCIOLOGISTS/INTRODUCING-SOCIOLOGY05-INDIAN_SOCIOLOGISTS-CNOTES.md",
+                  "sha": "df95142dad896ea8cce7f08c1a76b9e96d35c9c8",
                   "mime": "text/markdown"
                 }
               ]
@@ -440,23 +447,23 @@
               "children": [
                 {
                   "type": "file",
-                  "name": "MICROECONOMICS01-INTRODUCTION-CNOTES.md",
-                  "path": "AI-NOTES/MICROECONOMICS/MICROECONOMICS01-INTRODUCTION/MICROECONOMICS01-INTRODUCTION-CNOTES.md",
-                  "sha": "21b32921f92d663ad616f89a664b2cb9edae5ac5",
-                  "mime": "text/markdown"
-                },
-                {
-                  "type": "file",
-                  "name": "MICROECONOMICS01-INTRODUCTION-GLOSSARY.md",
+                  "name": "📒 MICROECONOMICS01-INTRODUCTION-GLOSSARY.md",
                   "path": "AI-NOTES/MICROECONOMICS/MICROECONOMICS01-INTRODUCTION/MICROECONOMICS01-INTRODUCTION-GLOSSARY.md",
                   "sha": "bbbcedb736461259b1208390dd87b091ef5b3381",
                   "mime": "text/markdown"
                 },
                 {
                   "type": "file",
-                  "name": "MICROECONOMICS01-INTRODUCTION-NOTES.md",
+                  "name": "📓 MICROECONOMICS01-INTRODUCTION-NOTES.md",
                   "path": "AI-NOTES/MICROECONOMICS/MICROECONOMICS01-INTRODUCTION/MICROECONOMICS01-INTRODUCTION-NOTES.md",
                   "sha": "c2d52b7f0d1771caf553598b5dc0339540c93765",
+                  "mime": "text/markdown"
+                },
+                {
+                  "type": "file",
+                  "name": "📔 MICROECONOMICS01-INTRODUCTION-CNOTES.md",
+                  "path": "AI-NOTES/MICROECONOMICS/MICROECONOMICS01-INTRODUCTION/MICROECONOMICS01-INTRODUCTION-CNOTES.md",
+                  "sha": "21b32921f92d663ad616f89a664b2cb9edae5ac5",
                   "mime": "text/markdown"
                 }
               ]
@@ -467,23 +474,23 @@
               "children": [
                 {
                   "type": "file",
-                  "name": "MICROECONOMICS02-THEORY_OF_CONSUMER_BEHAVIOUR-CNOTES.md",
-                  "path": "AI-NOTES/MICROECONOMICS/MICROECONOMICS02-THEORY_OF_CONSUMER_BEHAVIOUR/MICROECONOMICS02-THEORY_OF_CONSUMER_BEHAVIOUR-CNOTES.md",
-                  "sha": "e065d3eebfb312781ceb49b43a758de790995720",
-                  "mime": "text/markdown"
-                },
-                {
-                  "type": "file",
-                  "name": "MICROECONOMICS02-THEORY_OF_CONSUMER_BEHAVIOUR-GLOSSARY.md",
+                  "name": "📒 MICROECONOMICS02-THEORY_OF_CONSUMER_BEHAVIOUR-GLOSSARY.md",
                   "path": "AI-NOTES/MICROECONOMICS/MICROECONOMICS02-THEORY_OF_CONSUMER_BEHAVIOUR/MICROECONOMICS02-THEORY_OF_CONSUMER_BEHAVIOUR-GLOSSARY.md",
                   "sha": "ac11dd625567918d3d89900b05979a10c560467b",
                   "mime": "text/markdown"
                 },
                 {
                   "type": "file",
-                  "name": "MICROECONOMICS02-THEORY_OF_CONSUMER_BEHAVIOUR-NOTES.md",
+                  "name": "📓 MICROECONOMICS02-THEORY_OF_CONSUMER_BEHAVIOUR-NOTES.md",
                   "path": "AI-NOTES/MICROECONOMICS/MICROECONOMICS02-THEORY_OF_CONSUMER_BEHAVIOUR/MICROECONOMICS02-THEORY_OF_CONSUMER_BEHAVIOUR-NOTES.md",
                   "sha": "6325e01a43f5694eaca08221eb0a8b11084a8617",
+                  "mime": "text/markdown"
+                },
+                {
+                  "type": "file",
+                  "name": "📔 MICROECONOMICS02-THEORY_OF_CONSUMER_BEHAVIOUR-CNOTES.md",
+                  "path": "AI-NOTES/MICROECONOMICS/MICROECONOMICS02-THEORY_OF_CONSUMER_BEHAVIOUR/MICROECONOMICS02-THEORY_OF_CONSUMER_BEHAVIOUR-CNOTES.md",
+                  "sha": "e065d3eebfb312781ceb49b43a758de790995720",
                   "mime": "text/markdown"
                 }
               ]
@@ -494,23 +501,23 @@
               "children": [
                 {
                   "type": "file",
-                  "name": "MICROECONOMICS03-PRODUCTION_AND_COSTS-CNOTES.md",
-                  "path": "AI-NOTES/MICROECONOMICS/MICROECONOMICS03-PRODUCTION_AND_COSTS/MICROECONOMICS03-PRODUCTION_AND_COSTS-CNOTES.md",
-                  "sha": "3b09373395a9b3fef9dae08cf32e08df61c8dc3c",
-                  "mime": "text/markdown"
-                },
-                {
-                  "type": "file",
-                  "name": "MICROECONOMICS03-PRODUCTION_AND_COSTS-GLOSSARY.md",
+                  "name": "📒 MICROECONOMICS03-PRODUCTION_AND_COSTS-GLOSSARY.md",
                   "path": "AI-NOTES/MICROECONOMICS/MICROECONOMICS03-PRODUCTION_AND_COSTS/MICROECONOMICS03-PRODUCTION_AND_COSTS-GLOSSARY.md",
                   "sha": "fd6d28333cf47a01d0c7ef6dd9a3ad160f086d66",
                   "mime": "text/markdown"
                 },
                 {
                   "type": "file",
-                  "name": "MICROECONOMICS03-PRODUCTION_AND_COSTS-NOTES.md",
+                  "name": "📓 MICROECONOMICS03-PRODUCTION_AND_COSTS-NOTES.md",
                   "path": "AI-NOTES/MICROECONOMICS/MICROECONOMICS03-PRODUCTION_AND_COSTS/MICROECONOMICS03-PRODUCTION_AND_COSTS-NOTES.md",
                   "sha": "fdcd130cea64bd396da318c496e465fc89f0a7a3",
+                  "mime": "text/markdown"
+                },
+                {
+                  "type": "file",
+                  "name": "📔 MICROECONOMICS03-PRODUCTION_AND_COSTS-CNOTES.md",
+                  "path": "AI-NOTES/MICROECONOMICS/MICROECONOMICS03-PRODUCTION_AND_COSTS/MICROECONOMICS03-PRODUCTION_AND_COSTS-CNOTES.md",
+                  "sha": "3b09373395a9b3fef9dae08cf32e08df61c8dc3c",
                   "mime": "text/markdown"
                 }
               ]
@@ -521,23 +528,23 @@
               "children": [
                 {
                   "type": "file",
-                  "name": "MICROECONOMICS04-THE_THEORY_OF_THE_FIRM_UNDER_PERFECT_COMPETITION-CNOTES.md",
-                  "path": "AI-NOTES/MICROECONOMICS/MICROECONOMICS04-THE_THEORY_OF_THE_FIRM_UNDER_PERFECT_COMPETITION/MICROECONOMICS04-THE_THEORY_OF_THE_FIRM_UNDER_PERFECT_COMPETITION-CNOTES.md",
-                  "sha": "77fd94bf75bef875671f1831347ab874b17d2b63",
-                  "mime": "text/markdown"
-                },
-                {
-                  "type": "file",
-                  "name": "MICROECONOMICS04-THE_THEORY_OF_THE_FIRM_UNDER_PERFECT_COMPETITION-GLOSSARY.md",
+                  "name": "📒 MICROECONOMICS04-THE_THEORY_OF_THE_FIRM_UNDER_PERFECT_COMPETITION-GLOSSARY.md",
                   "path": "AI-NOTES/MICROECONOMICS/MICROECONOMICS04-THE_THEORY_OF_THE_FIRM_UNDER_PERFECT_COMPETITION/MICROECONOMICS04-THE_THEORY_OF_THE_FIRM_UNDER_PERFECT_COMPETITION-GLOSSARY.md",
                   "sha": "8baae9066dd8e593ae6f5ca787dfda96ce1e97d8",
                   "mime": "text/markdown"
                 },
                 {
                   "type": "file",
-                  "name": "MICROECONOMICS04-THE_THEORY_OF_THE_FIRM_UNDER_PERFECT_COMPETITION-NOTES.md",
+                  "name": "📓 MICROECONOMICS04-THE_THEORY_OF_THE_FIRM_UNDER_PERFECT_COMPETITION-NOTES.md",
                   "path": "AI-NOTES/MICROECONOMICS/MICROECONOMICS04-THE_THEORY_OF_THE_FIRM_UNDER_PERFECT_COMPETITION/MICROECONOMICS04-THE_THEORY_OF_THE_FIRM_UNDER_PERFECT_COMPETITION-NOTES.md",
                   "sha": "f7dfa45d2f0f53767162dbf8dbab9fa3939d9eec",
+                  "mime": "text/markdown"
+                },
+                {
+                  "type": "file",
+                  "name": "📔 MICROECONOMICS04-THE_THEORY_OF_THE_FIRM_UNDER_PERFECT_COMPETITION-CNOTES.md",
+                  "path": "AI-NOTES/MICROECONOMICS/MICROECONOMICS04-THE_THEORY_OF_THE_FIRM_UNDER_PERFECT_COMPETITION/MICROECONOMICS04-THE_THEORY_OF_THE_FIRM_UNDER_PERFECT_COMPETITION-CNOTES.md",
+                  "sha": "77fd94bf75bef875671f1831347ab874b17d2b63",
                   "mime": "text/markdown"
                 }
               ]
@@ -548,23 +555,23 @@
               "children": [
                 {
                   "type": "file",
-                  "name": "MICROECONOMICS05-MARKET_EQUILIBRIUM-CNOTES.md",
-                  "path": "AI-NOTES/MICROECONOMICS/MICROECONOMICS05-MARKET_EQUILIBRIUM/MICROECONOMICS05-MARKET_EQUILIBRIUM-CNOTES.md",
-                  "sha": "e3fed9f073cff2e8f5d53f433fe4f0f305d5f2b0",
-                  "mime": "text/markdown"
-                },
-                {
-                  "type": "file",
-                  "name": "MICROECONOMICS05-MARKET_EQUILIBRIUM-GLOSSARY.md",
+                  "name": "📒 MICROECONOMICS05-MARKET_EQUILIBRIUM-GLOSSARY.md",
                   "path": "AI-NOTES/MICROECONOMICS/MICROECONOMICS05-MARKET_EQUILIBRIUM/MICROECONOMICS05-MARKET_EQUILIBRIUM-GLOSSARY.md",
                   "sha": "762889a5043bb800e0a3bbac87fc5962911f6088",
                   "mime": "text/markdown"
                 },
                 {
                   "type": "file",
-                  "name": "MICROECONOMICS05-MARKET_EQUILIBRIUM-NOTES.md",
+                  "name": "📓 MICROECONOMICS05-MARKET_EQUILIBRIUM-NOTES.md",
                   "path": "AI-NOTES/MICROECONOMICS/MICROECONOMICS05-MARKET_EQUILIBRIUM/MICROECONOMICS05-MARKET_EQUILIBRIUM-NOTES.md",
                   "sha": "79163b9cf2b8420cf8090e82182c76aecb2e3221",
+                  "mime": "text/markdown"
+                },
+                {
+                  "type": "file",
+                  "name": "📔 MICROECONOMICS05-MARKET_EQUILIBRIUM-CNOTES.md",
+                  "path": "AI-NOTES/MICROECONOMICS/MICROECONOMICS05-MARKET_EQUILIBRIUM/MICROECONOMICS05-MARKET_EQUILIBRIUM-CNOTES.md",
+                  "sha": "e3fed9f073cff2e8f5d53f433fe4f0f305d5f2b0",
                   "mime": "text/markdown"
                 }
               ]
@@ -579,13 +586,6 @@
           "mime": "text/markdown"
         },
         {
-          "type": "file",
-          "name": "NOTES.md",
-          "path": "AI-NOTES/NOTES.md",
-          "sha": "66a4f25b0abc2dc9aed055438e3f5c3b8f50fbc7",
-          "mime": "text/markdown"
-        },
-        {
           "type": "folder",
           "name": "POLITICAL-THEORY",
           "children": [
@@ -595,23 +595,23 @@
               "children": [
                 {
                   "type": "file",
-                  "name": "POLITICAL-THEORY01-POLITICAL_THEORY_AN_INTRODUCTION-CNOTES.md",
-                  "path": "AI-NOTES/POLITICAL-THEORY/POLITICAL-THEORY01-POLITICAL_THEORY_AN_INTRODUCTION/POLITICAL-THEORY01-POLITICAL_THEORY_AN_INTRODUCTION-CNOTES.md",
-                  "sha": "8fecddc40c185a46b9057a7d369b774d0e62ed5d",
-                  "mime": "text/markdown"
-                },
-                {
-                  "type": "file",
-                  "name": "POLITICAL-THEORY01-POLITICAL_THEORY_AN_INTRODUCTION-GLOSSARY.md",
+                  "name": "📒 POLITICAL-THEORY01-POLITICAL_THEORY_AN_INTRODUCTION-GLOSSARY.md",
                   "path": "AI-NOTES/POLITICAL-THEORY/POLITICAL-THEORY01-POLITICAL_THEORY_AN_INTRODUCTION/POLITICAL-THEORY01-POLITICAL_THEORY_AN_INTRODUCTION-GLOSSARY.md",
                   "sha": "aecfce05733afba403f25d8bf6c05281374ccac8",
                   "mime": "text/markdown"
                 },
                 {
                   "type": "file",
-                  "name": "POLITICAL-THEORY01-POLITICAL_THEORY_AN_INTRODUCTION-NOTES.md",
+                  "name": "📓 POLITICAL-THEORY01-POLITICAL_THEORY_AN_INTRODUCTION-NOTES.md",
                   "path": "AI-NOTES/POLITICAL-THEORY/POLITICAL-THEORY01-POLITICAL_THEORY_AN_INTRODUCTION/POLITICAL-THEORY01-POLITICAL_THEORY_AN_INTRODUCTION-NOTES.md",
                   "sha": "003f0d76f9939acaf50790f70b43680ad0fab7fd",
+                  "mime": "text/markdown"
+                },
+                {
+                  "type": "file",
+                  "name": "📔 POLITICAL-THEORY01-POLITICAL_THEORY_AN_INTRODUCTION-CNOTES.md",
+                  "path": "AI-NOTES/POLITICAL-THEORY/POLITICAL-THEORY01-POLITICAL_THEORY_AN_INTRODUCTION/POLITICAL-THEORY01-POLITICAL_THEORY_AN_INTRODUCTION-CNOTES.md",
+                  "sha": "8fecddc40c185a46b9057a7d369b774d0e62ed5d",
                   "mime": "text/markdown"
                 }
               ]
@@ -622,23 +622,23 @@
               "children": [
                 {
                   "type": "file",
-                  "name": "POLITICAL-THEORY02-FREEDOM-CNOTES.md",
-                  "path": "AI-NOTES/POLITICAL-THEORY/POLITICAL-THEORY02-FREEDOM/POLITICAL-THEORY02-FREEDOM-CNOTES.md",
-                  "sha": "1c3ed68dec9343ed97a6a7d21c04d89c9a893b8d",
-                  "mime": "text/markdown"
-                },
-                {
-                  "type": "file",
-                  "name": "POLITICAL-THEORY02-FREEDOM-GLOSSARY.md",
+                  "name": "📒 POLITICAL-THEORY02-FREEDOM-GLOSSARY.md",
                   "path": "AI-NOTES/POLITICAL-THEORY/POLITICAL-THEORY02-FREEDOM/POLITICAL-THEORY02-FREEDOM-GLOSSARY.md",
                   "sha": "1aba492ecc2ac37cb0c5ef6bd2fc408de31000e7",
                   "mime": "text/markdown"
                 },
                 {
                   "type": "file",
-                  "name": "POLITICAL-THEORY02-FREEDOM-NOTES.md",
+                  "name": "📓 POLITICAL-THEORY02-FREEDOM-NOTES.md",
                   "path": "AI-NOTES/POLITICAL-THEORY/POLITICAL-THEORY02-FREEDOM/POLITICAL-THEORY02-FREEDOM-NOTES.md",
                   "sha": "9580fc1ed45e4e62a1c273c8428ed1d09f342d63",
+                  "mime": "text/markdown"
+                },
+                {
+                  "type": "file",
+                  "name": "📔 POLITICAL-THEORY02-FREEDOM-CNOTES.md",
+                  "path": "AI-NOTES/POLITICAL-THEORY/POLITICAL-THEORY02-FREEDOM/POLITICAL-THEORY02-FREEDOM-CNOTES.md",
+                  "sha": "1c3ed68dec9343ed97a6a7d21c04d89c9a893b8d",
                   "mime": "text/markdown"
                 }
               ]
@@ -649,23 +649,23 @@
               "children": [
                 {
                   "type": "file",
-                  "name": "POLITICAL-THEORY03-EQUALITY-CNOTES.md",
-                  "path": "AI-NOTES/POLITICAL-THEORY/POLITICAL-THEORY03-EQUALITY/POLITICAL-THEORY03-EQUALITY-CNOTES.md",
-                  "sha": "aedf0b969af86682cd6dbfe7efd28050b447ddb9",
-                  "mime": "text/markdown"
-                },
-                {
-                  "type": "file",
-                  "name": "POLITICAL-THEORY03-EQUALITY-GLOSSARY.md",
+                  "name": "📒 POLITICAL-THEORY03-EQUALITY-GLOSSARY.md",
                   "path": "AI-NOTES/POLITICAL-THEORY/POLITICAL-THEORY03-EQUALITY/POLITICAL-THEORY03-EQUALITY-GLOSSARY.md",
                   "sha": "814e7a903fed1ca9dd4febc40ba48cfc948bc1f4",
                   "mime": "text/markdown"
                 },
                 {
                   "type": "file",
-                  "name": "POLITICAL-THEORY03-EQUALITY-NOTES.md",
+                  "name": "📓 POLITICAL-THEORY03-EQUALITY-NOTES.md",
                   "path": "AI-NOTES/POLITICAL-THEORY/POLITICAL-THEORY03-EQUALITY/POLITICAL-THEORY03-EQUALITY-NOTES.md",
                   "sha": "8de4d3e469aac0b6cd5a837b4bc51e759a33e011",
+                  "mime": "text/markdown"
+                },
+                {
+                  "type": "file",
+                  "name": "📔 POLITICAL-THEORY03-EQUALITY-CNOTES.md",
+                  "path": "AI-NOTES/POLITICAL-THEORY/POLITICAL-THEORY03-EQUALITY/POLITICAL-THEORY03-EQUALITY-CNOTES.md",
+                  "sha": "aedf0b969af86682cd6dbfe7efd28050b447ddb9",
                   "mime": "text/markdown"
                 }
               ]
@@ -676,23 +676,23 @@
               "children": [
                 {
                   "type": "file",
-                  "name": "POLITICAL-THEORY04-SOCIAL_JUSTICE-CNOTES.md",
-                  "path": "AI-NOTES/POLITICAL-THEORY/POLITICAL-THEORY04-SOCIAL_JUSTICE/POLITICAL-THEORY04-SOCIAL_JUSTICE-CNOTES.md",
-                  "sha": "73cd2ad4fb85c947a2ac9248f077d389eac38799",
-                  "mime": "text/markdown"
-                },
-                {
-                  "type": "file",
-                  "name": "POLITICAL-THEORY04-SOCIAL_JUSTICE-GLOSSARY.md",
+                  "name": "📒 POLITICAL-THEORY04-SOCIAL_JUSTICE-GLOSSARY.md",
                   "path": "AI-NOTES/POLITICAL-THEORY/POLITICAL-THEORY04-SOCIAL_JUSTICE/POLITICAL-THEORY04-SOCIAL_JUSTICE-GLOSSARY.md",
                   "sha": "8db5c7d59391bf615d3aa3111b2954897f4cd7bb",
                   "mime": "text/markdown"
                 },
                 {
                   "type": "file",
-                  "name": "POLITICAL-THEORY04-SOCIAL_JUSTICE-NOTES.md",
+                  "name": "📓 POLITICAL-THEORY04-SOCIAL_JUSTICE-NOTES.md",
                   "path": "AI-NOTES/POLITICAL-THEORY/POLITICAL-THEORY04-SOCIAL_JUSTICE/POLITICAL-THEORY04-SOCIAL_JUSTICE-NOTES.md",
                   "sha": "48b541472b5d90b7dc9fb061c5174bcf8d9c219b",
+                  "mime": "text/markdown"
+                },
+                {
+                  "type": "file",
+                  "name": "📔 POLITICAL-THEORY04-SOCIAL_JUSTICE-CNOTES.md",
+                  "path": "AI-NOTES/POLITICAL-THEORY/POLITICAL-THEORY04-SOCIAL_JUSTICE/POLITICAL-THEORY04-SOCIAL_JUSTICE-CNOTES.md",
+                  "sha": "73cd2ad4fb85c947a2ac9248f077d389eac38799",
                   "mime": "text/markdown"
                 }
               ]
@@ -703,23 +703,23 @@
               "children": [
                 {
                   "type": "file",
-                  "name": "POLITICAL-THEORY05-RIGHTS-CNOTES.md",
-                  "path": "AI-NOTES/POLITICAL-THEORY/POLITICAL-THEORY05-RIGHTS/POLITICAL-THEORY05-RIGHTS-CNOTES.md",
-                  "sha": "b42d64e87bf26d7104d16fb67bcccf230d922914",
-                  "mime": "text/markdown"
-                },
-                {
-                  "type": "file",
-                  "name": "POLITICAL-THEORY05-RIGHTS-GLOSSARY.md",
+                  "name": "📒 POLITICAL-THEORY05-RIGHTS-GLOSSARY.md",
                   "path": "AI-NOTES/POLITICAL-THEORY/POLITICAL-THEORY05-RIGHTS/POLITICAL-THEORY05-RIGHTS-GLOSSARY.md",
                   "sha": "ed390eab9a58d54a7bb4fe20bb06df6d411dddcd",
                   "mime": "text/markdown"
                 },
                 {
                   "type": "file",
-                  "name": "POLITICAL-THEORY05-RIGHTS-NOTES.md",
+                  "name": "📓 POLITICAL-THEORY05-RIGHTS-NOTES.md",
                   "path": "AI-NOTES/POLITICAL-THEORY/POLITICAL-THEORY05-RIGHTS/POLITICAL-THEORY05-RIGHTS-NOTES.md",
                   "sha": "f60e9ef4c1dd1d919c3d302b4d20dda8ca6a2b4d",
+                  "mime": "text/markdown"
+                },
+                {
+                  "type": "file",
+                  "name": "📔 POLITICAL-THEORY05-RIGHTS-CNOTES.md",
+                  "path": "AI-NOTES/POLITICAL-THEORY/POLITICAL-THEORY05-RIGHTS/POLITICAL-THEORY05-RIGHTS-CNOTES.md",
+                  "sha": "b42d64e87bf26d7104d16fb67bcccf230d922914",
                   "mime": "text/markdown"
                 }
               ]
@@ -730,23 +730,23 @@
               "children": [
                 {
                   "type": "file",
-                  "name": "POLITICAL-THEORY06-CITIZENSHIP-CNOTES.md",
-                  "path": "AI-NOTES/POLITICAL-THEORY/POLITICAL-THEORY06-CITIZENSHIP/POLITICAL-THEORY06-CITIZENSHIP-CNOTES.md",
-                  "sha": "f13c59fb51537644c6812b3c6c6f05e5d80a5ee1",
-                  "mime": "text/markdown"
-                },
-                {
-                  "type": "file",
-                  "name": "POLITICAL-THEORY06-CITIZENSHIP-GLOSSARY.md",
+                  "name": "📒 POLITICAL-THEORY06-CITIZENSHIP-GLOSSARY.md",
                   "path": "AI-NOTES/POLITICAL-THEORY/POLITICAL-THEORY06-CITIZENSHIP/POLITICAL-THEORY06-CITIZENSHIP-GLOSSARY.md",
                   "sha": "777c5f914adc39d4db70dfbf12b5deec34c4853e",
                   "mime": "text/markdown"
                 },
                 {
                   "type": "file",
-                  "name": "POLITICAL-THEORY06-CITIZENSHIP-NOTES.md",
+                  "name": "📓 POLITICAL-THEORY06-CITIZENSHIP-NOTES.md",
                   "path": "AI-NOTES/POLITICAL-THEORY/POLITICAL-THEORY06-CITIZENSHIP/POLITICAL-THEORY06-CITIZENSHIP-NOTES.md",
                   "sha": "6beebf8e925b4e38d50be31e7202a3c9bb532936",
+                  "mime": "text/markdown"
+                },
+                {
+                  "type": "file",
+                  "name": "📔 POLITICAL-THEORY06-CITIZENSHIP-CNOTES.md",
+                  "path": "AI-NOTES/POLITICAL-THEORY/POLITICAL-THEORY06-CITIZENSHIP/POLITICAL-THEORY06-CITIZENSHIP-CNOTES.md",
+                  "sha": "f13c59fb51537644c6812b3c6c6f05e5d80a5ee1",
                   "mime": "text/markdown"
                 }
               ]
@@ -757,23 +757,23 @@
               "children": [
                 {
                   "type": "file",
-                  "name": "POLITICAL-THEORY07-NATIONALISM-CNOTES.md",
-                  "path": "AI-NOTES/POLITICAL-THEORY/POLITICAL-THEORY07-NATIONALISM/POLITICAL-THEORY07-NATIONALISM-CNOTES.md",
-                  "sha": "0bb272d7ea6351196e9fcd1eb2303e148fcce8df",
-                  "mime": "text/markdown"
-                },
-                {
-                  "type": "file",
-                  "name": "POLITICAL-THEORY07-NATIONALISM-GLOSSARY.md",
+                  "name": "📒 POLITICAL-THEORY07-NATIONALISM-GLOSSARY.md",
                   "path": "AI-NOTES/POLITICAL-THEORY/POLITICAL-THEORY07-NATIONALISM/POLITICAL-THEORY07-NATIONALISM-GLOSSARY.md",
                   "sha": "cf6f3245adba35a7e6551412db143b65aec577ef",
                   "mime": "text/markdown"
                 },
                 {
                   "type": "file",
-                  "name": "POLITICAL-THEORY07-NATIONALISM-NOTES.md",
+                  "name": "📓 POLITICAL-THEORY07-NATIONALISM-NOTES.md",
                   "path": "AI-NOTES/POLITICAL-THEORY/POLITICAL-THEORY07-NATIONALISM/POLITICAL-THEORY07-NATIONALISM-NOTES.md",
                   "sha": "ab9df0a20c57ffa5ded2af8254c61a76a431c40d",
+                  "mime": "text/markdown"
+                },
+                {
+                  "type": "file",
+                  "name": "📔 POLITICAL-THEORY07-NATIONALISM-CNOTES.md",
+                  "path": "AI-NOTES/POLITICAL-THEORY/POLITICAL-THEORY07-NATIONALISM/POLITICAL-THEORY07-NATIONALISM-CNOTES.md",
+                  "sha": "0bb272d7ea6351196e9fcd1eb2303e148fcce8df",
                   "mime": "text/markdown"
                 }
               ]
@@ -784,23 +784,23 @@
               "children": [
                 {
                   "type": "file",
-                  "name": "POLITICAL-THEORY08-SECULARISM-CNOTES.md",
-                  "path": "AI-NOTES/POLITICAL-THEORY/POLITICAL-THEORY08-SECULARISM/POLITICAL-THEORY08-SECULARISM-CNOTES.md",
-                  "sha": "77a937552ba512e8aaff11203b4ff61c37afa4de",
-                  "mime": "text/markdown"
-                },
-                {
-                  "type": "file",
-                  "name": "POLITICAL-THEORY08-SECULARISM-GLOSSARY.md",
+                  "name": "📒 POLITICAL-THEORY08-SECULARISM-GLOSSARY.md",
                   "path": "AI-NOTES/POLITICAL-THEORY/POLITICAL-THEORY08-SECULARISM/POLITICAL-THEORY08-SECULARISM-GLOSSARY.md",
                   "sha": "dab348ed1dbb224d6c16c10e9f75a2922e1d2ed6",
                   "mime": "text/markdown"
                 },
                 {
                   "type": "file",
-                  "name": "POLITICAL-THEORY08-SECULARISM-NOTES.md",
+                  "name": "📓 POLITICAL-THEORY08-SECULARISM-NOTES.md",
                   "path": "AI-NOTES/POLITICAL-THEORY/POLITICAL-THEORY08-SECULARISM/POLITICAL-THEORY08-SECULARISM-NOTES.md",
                   "sha": "fd07d06030b754764779443a91e91c87fc95d23e",
+                  "mime": "text/markdown"
+                },
+                {
+                  "type": "file",
+                  "name": "📔 POLITICAL-THEORY08-SECULARISM-CNOTES.md",
+                  "path": "AI-NOTES/POLITICAL-THEORY/POLITICAL-THEORY08-SECULARISM/POLITICAL-THEORY08-SECULARISM-CNOTES.md",
+                  "sha": "77a937552ba512e8aaff11203b4ff61c37afa4de",
                   "mime": "text/markdown"
                 }
               ]
@@ -817,23 +817,23 @@
               "children": [
                 {
                   "type": "file",
-                  "name": "STATISTICS01-INTRODUCTION-CNOTES.md",
-                  "path": "AI-NOTES/STATISTICS/STATISTICS01-INTRODUCTION/STATISTICS01-INTRODUCTION-CNOTES.md",
-                  "sha": "21b32921f92d663ad616f89a664b2cb9edae5ac5",
-                  "mime": "text/markdown"
-                },
-                {
-                  "type": "file",
-                  "name": "STATISTICS01-INTRODUCTION-GLOSSARY.md",
+                  "name": "📒 STATISTICS01-INTRODUCTION-GLOSSARY.md",
                   "path": "AI-NOTES/STATISTICS/STATISTICS01-INTRODUCTION/STATISTICS01-INTRODUCTION-GLOSSARY.md",
                   "sha": "bbbcedb736461259b1208390dd87b091ef5b3381",
                   "mime": "text/markdown"
                 },
                 {
                   "type": "file",
-                  "name": "STATISTICS01-INTRODUCTION-NOTES.md",
+                  "name": "📓 STATISTICS01-INTRODUCTION-NOTES.md",
                   "path": "AI-NOTES/STATISTICS/STATISTICS01-INTRODUCTION/STATISTICS01-INTRODUCTION-NOTES.md",
                   "sha": "c2d52b7f0d1771caf553598b5dc0339540c93765",
+                  "mime": "text/markdown"
+                },
+                {
+                  "type": "file",
+                  "name": "📔 STATISTICS01-INTRODUCTION-CNOTES.md",
+                  "path": "AI-NOTES/STATISTICS/STATISTICS01-INTRODUCTION/STATISTICS01-INTRODUCTION-CNOTES.md",
+                  "sha": "21b32921f92d663ad616f89a664b2cb9edae5ac5",
                   "mime": "text/markdown"
                 }
               ]
@@ -844,23 +844,23 @@
               "children": [
                 {
                   "type": "file",
-                  "name": "STATISTICS02-COLLECTION_OF_DATA-CNOTES.md",
-                  "path": "AI-NOTES/STATISTICS/STATISTICS02-COLLECTION_OF_DATA/STATISTICS02-COLLECTION_OF_DATA-CNOTES.md",
-                  "sha": "0b4b290a1b03f1ff6d2e2e5cd132f1111b1ab252",
-                  "mime": "text/markdown"
-                },
-                {
-                  "type": "file",
-                  "name": "STATISTICS02-COLLECTION_OF_DATA-GLOSSARY.md",
+                  "name": "📒 STATISTICS02-COLLECTION_OF_DATA-GLOSSARY.md",
                   "path": "AI-NOTES/STATISTICS/STATISTICS02-COLLECTION_OF_DATA/STATISTICS02-COLLECTION_OF_DATA-GLOSSARY.md",
                   "sha": "dc9f5c414620aac8059ba2fd3f7c5b6aa36d24a2",
                   "mime": "text/markdown"
                 },
                 {
                   "type": "file",
-                  "name": "STATISTICS02-COLLECTION_OF_DATA-NOTES.md",
+                  "name": "📓 STATISTICS02-COLLECTION_OF_DATA-NOTES.md",
                   "path": "AI-NOTES/STATISTICS/STATISTICS02-COLLECTION_OF_DATA/STATISTICS02-COLLECTION_OF_DATA-NOTES.md",
                   "sha": "1e81b2de815c2247c6dde0d8a268af899b54cdfe",
+                  "mime": "text/markdown"
+                },
+                {
+                  "type": "file",
+                  "name": "📔 STATISTICS02-COLLECTION_OF_DATA-CNOTES.md",
+                  "path": "AI-NOTES/STATISTICS/STATISTICS02-COLLECTION_OF_DATA/STATISTICS02-COLLECTION_OF_DATA-CNOTES.md",
+                  "sha": "0b4b290a1b03f1ff6d2e2e5cd132f1111b1ab252",
                   "mime": "text/markdown"
                 }
               ]
@@ -871,23 +871,23 @@
               "children": [
                 {
                   "type": "file",
-                  "name": "STATISTICS03-ORGANISATION_OF_DATA-CNOTES.md",
-                  "path": "AI-NOTES/STATISTICS/STATISTICS03-ORGANISATION_OF_DATA/STATISTICS03-ORGANISATION_OF_DATA-CNOTES.md",
-                  "sha": "8f9ae73e3b7ac99411aedd8dd0d7214a2f23c0ce",
-                  "mime": "text/markdown"
-                },
-                {
-                  "type": "file",
-                  "name": "STATISTICS03-ORGANISATION_OF_DATA-GLOSSARY.md",
+                  "name": "📒 STATISTICS03-ORGANISATION_OF_DATA-GLOSSARY.md",
                   "path": "AI-NOTES/STATISTICS/STATISTICS03-ORGANISATION_OF_DATA/STATISTICS03-ORGANISATION_OF_DATA-GLOSSARY.md",
                   "sha": "5e4a835203c824781f1138d9642353e03d98128e",
                   "mime": "text/markdown"
                 },
                 {
                   "type": "file",
-                  "name": "STATISTICS03-ORGANISATION_OF_DATA-NOTES.md",
+                  "name": "📓 STATISTICS03-ORGANISATION_OF_DATA-NOTES.md",
                   "path": "AI-NOTES/STATISTICS/STATISTICS03-ORGANISATION_OF_DATA/STATISTICS03-ORGANISATION_OF_DATA-NOTES.md",
                   "sha": "0700d8f050a66bb7450c437221dfd3c877d75797",
+                  "mime": "text/markdown"
+                },
+                {
+                  "type": "file",
+                  "name": "📔 STATISTICS03-ORGANISATION_OF_DATA-CNOTES.md",
+                  "path": "AI-NOTES/STATISTICS/STATISTICS03-ORGANISATION_OF_DATA/STATISTICS03-ORGANISATION_OF_DATA-CNOTES.md",
+                  "sha": "8f9ae73e3b7ac99411aedd8dd0d7214a2f23c0ce",
                   "mime": "text/markdown"
                 }
               ]
@@ -898,23 +898,23 @@
               "children": [
                 {
                   "type": "file",
-                  "name": "STATISTICS04-PRESENTATION_OF_DATA-CNOTES.md",
-                  "path": "AI-NOTES/STATISTICS/STATISTICS04-PRESENTATION_OF_DATA/STATISTICS04-PRESENTATION_OF_DATA-CNOTES.md",
-                  "sha": "25100837914b76e8ef639b882aeb79e80163bc79",
-                  "mime": "text/markdown"
-                },
-                {
-                  "type": "file",
-                  "name": "STATISTICS04-PRESENTATION_OF_DATA-GLOSSARY.md",
+                  "name": "📒 STATISTICS04-PRESENTATION_OF_DATA-GLOSSARY.md",
                   "path": "AI-NOTES/STATISTICS/STATISTICS04-PRESENTATION_OF_DATA/STATISTICS04-PRESENTATION_OF_DATA-GLOSSARY.md",
                   "sha": "b01026b483ec08fd5b2daa6634ba393884f941b6",
                   "mime": "text/markdown"
                 },
                 {
                   "type": "file",
-                  "name": "STATISTICS04-PRESENTATION_OF_DATA-NOTES.md",
+                  "name": "📓 STATISTICS04-PRESENTATION_OF_DATA-NOTES.md",
                   "path": "AI-NOTES/STATISTICS/STATISTICS04-PRESENTATION_OF_DATA/STATISTICS04-PRESENTATION_OF_DATA-NOTES.md",
                   "sha": "2facf6d8a8e2efccea358a6cfc245013d4e66a24",
+                  "mime": "text/markdown"
+                },
+                {
+                  "type": "file",
+                  "name": "📔 STATISTICS04-PRESENTATION_OF_DATA-CNOTES.md",
+                  "path": "AI-NOTES/STATISTICS/STATISTICS04-PRESENTATION_OF_DATA/STATISTICS04-PRESENTATION_OF_DATA-CNOTES.md",
+                  "sha": "25100837914b76e8ef639b882aeb79e80163bc79",
                   "mime": "text/markdown"
                 }
               ]
@@ -925,23 +925,23 @@
               "children": [
                 {
                   "type": "file",
-                  "name": "STATISTICS05-MEASURES_OF_CENTRAL_TENDENCY-CNOTES.md",
-                  "path": "AI-NOTES/STATISTICS/STATISTICS05-MEASURES_OF_CENTRAL_TENDENCY/STATISTICS05-MEASURES_OF_CENTRAL_TENDENCY-CNOTES.md",
-                  "sha": "4f93cc2974a4b1c601b3042ab160a9fbeaeb6f4b",
-                  "mime": "text/markdown"
-                },
-                {
-                  "type": "file",
-                  "name": "STATISTICS05-MEASURES_OF_CENTRAL_TENDENCY-GLOSSARY.md",
+                  "name": "📒 STATISTICS05-MEASURES_OF_CENTRAL_TENDENCY-GLOSSARY.md",
                   "path": "AI-NOTES/STATISTICS/STATISTICS05-MEASURES_OF_CENTRAL_TENDENCY/STATISTICS05-MEASURES_OF_CENTRAL_TENDENCY-GLOSSARY.md",
                   "sha": "217165832f58041202326de8d25c5da56ce76a10",
                   "mime": "text/markdown"
                 },
                 {
                   "type": "file",
-                  "name": "STATISTICS05-MEASURES_OF_CENTRAL_TENDENCY-NOTES.md",
+                  "name": "📓 STATISTICS05-MEASURES_OF_CENTRAL_TENDENCY-NOTES.md",
                   "path": "AI-NOTES/STATISTICS/STATISTICS05-MEASURES_OF_CENTRAL_TENDENCY/STATISTICS05-MEASURES_OF_CENTRAL_TENDENCY-NOTES.md",
                   "sha": "b04a2699991007b78d6bd0d7f3dc9329d33ee9c3",
+                  "mime": "text/markdown"
+                },
+                {
+                  "type": "file",
+                  "name": "📔 STATISTICS05-MEASURES_OF_CENTRAL_TENDENCY-CNOTES.md",
+                  "path": "AI-NOTES/STATISTICS/STATISTICS05-MEASURES_OF_CENTRAL_TENDENCY/STATISTICS05-MEASURES_OF_CENTRAL_TENDENCY-CNOTES.md",
+                  "sha": "4f93cc2974a4b1c601b3042ab160a9fbeaeb6f4b",
                   "mime": "text/markdown"
                 }
               ]
@@ -952,23 +952,23 @@
               "children": [
                 {
                   "type": "file",
-                  "name": "STATISTICS06-MEASURES_OF_DISPERSION-CNOTES.md",
-                  "path": "AI-NOTES/STATISTICS/STATISTICS06-MEASURES_OF_DISPERSION/STATISTICS06-MEASURES_OF_DISPERSION-CNOTES.md",
-                  "sha": "0e1ca28273c4425140f437417aec3d6acf704a47",
-                  "mime": "text/markdown"
-                },
-                {
-                  "type": "file",
-                  "name": "STATISTICS06-MEASURES_OF_DISPERSION-GLOSSARY.md",
+                  "name": "📒 STATISTICS06-MEASURES_OF_DISPERSION-GLOSSARY.md",
                   "path": "AI-NOTES/STATISTICS/STATISTICS06-MEASURES_OF_DISPERSION/STATISTICS06-MEASURES_OF_DISPERSION-GLOSSARY.md",
                   "sha": "2b9cd2ba197b2a2e56cf61d942aad5082dd842b1",
                   "mime": "text/markdown"
                 },
                 {
                   "type": "file",
-                  "name": "STATISTICS06-MEASURES_OF_DISPERSION-NOTES.md",
+                  "name": "📓 STATISTICS06-MEASURES_OF_DISPERSION-NOTES.md",
                   "path": "AI-NOTES/STATISTICS/STATISTICS06-MEASURES_OF_DISPERSION/STATISTICS06-MEASURES_OF_DISPERSION-NOTES.md",
                   "sha": "3b20b212a3c2f55fbbdfefcf483ff475a634ddfd",
+                  "mime": "text/markdown"
+                },
+                {
+                  "type": "file",
+                  "name": "📔 STATISTICS06-MEASURES_OF_DISPERSION-CNOTES.md",
+                  "path": "AI-NOTES/STATISTICS/STATISTICS06-MEASURES_OF_DISPERSION/STATISTICS06-MEASURES_OF_DISPERSION-CNOTES.md",
+                  "sha": "0e1ca28273c4425140f437417aec3d6acf704a47",
                   "mime": "text/markdown"
                 }
               ]
@@ -979,23 +979,23 @@
               "children": [
                 {
                   "type": "file",
-                  "name": "STATISTICS07-CORRELATION-CNOTES.md",
-                  "path": "AI-NOTES/STATISTICS/STATISTICS07-CORRELATION/STATISTICS07-CORRELATION-CNOTES.md",
-                  "sha": "a470905a71940deec156df920050db8ea123ffee",
-                  "mime": "text/markdown"
-                },
-                {
-                  "type": "file",
-                  "name": "STATISTICS07-CORRELATION-GLOSSARY.md",
+                  "name": "📒 STATISTICS07-CORRELATION-GLOSSARY.md",
                   "path": "AI-NOTES/STATISTICS/STATISTICS07-CORRELATION/STATISTICS07-CORRELATION-GLOSSARY.md",
                   "sha": "802ee9d9215181445d43a2dac47037d33db065f3",
                   "mime": "text/markdown"
                 },
                 {
                   "type": "file",
-                  "name": "STATISTICS07-CORRELATION-NOTES.md",
+                  "name": "📓 STATISTICS07-CORRELATION-NOTES.md",
                   "path": "AI-NOTES/STATISTICS/STATISTICS07-CORRELATION/STATISTICS07-CORRELATION-NOTES.md",
                   "sha": "5a71c586071362f08fd50ab34b2ce0718a1bafb7",
+                  "mime": "text/markdown"
+                },
+                {
+                  "type": "file",
+                  "name": "📔 STATISTICS07-CORRELATION-CNOTES.md",
+                  "path": "AI-NOTES/STATISTICS/STATISTICS07-CORRELATION/STATISTICS07-CORRELATION-CNOTES.md",
+                  "sha": "a470905a71940deec156df920050db8ea123ffee",
                   "mime": "text/markdown"
                 }
               ]
@@ -1006,23 +1006,23 @@
               "children": [
                 {
                   "type": "file",
-                  "name": "STATISTICS08-INDEX_NUMBERS-CNOTES.md",
-                  "path": "AI-NOTES/STATISTICS/STATISTICS08-INDEX_NUMBERS/STATISTICS08-INDEX_NUMBERS-CNOTES.md",
-                  "sha": "aba46d6615d0e006e70c81df6a883bc11fbdd68f",
-                  "mime": "text/markdown"
-                },
-                {
-                  "type": "file",
-                  "name": "STATISTICS08-INDEX_NUMBERS-GLOSSARY.md",
+                  "name": "📒 STATISTICS08-INDEX_NUMBERS-GLOSSARY.md",
                   "path": "AI-NOTES/STATISTICS/STATISTICS08-INDEX_NUMBERS/STATISTICS08-INDEX_NUMBERS-GLOSSARY.md",
                   "sha": "f3e64b15d8cfe33405d735c1bd78e7d3411aa664",
                   "mime": "text/markdown"
                 },
                 {
                   "type": "file",
-                  "name": "STATISTICS08-INDEX_NUMBERS-NOTES.md",
+                  "name": "📓 STATISTICS08-INDEX_NUMBERS-NOTES.md",
                   "path": "AI-NOTES/STATISTICS/STATISTICS08-INDEX_NUMBERS/STATISTICS08-INDEX_NUMBERS-NOTES.md",
                   "sha": "327b5d7742ed2f036adf915cef74da17eaca7c48",
+                  "mime": "text/markdown"
+                },
+                {
+                  "type": "file",
+                  "name": "📔 STATISTICS08-INDEX_NUMBERS-CNOTES.md",
+                  "path": "AI-NOTES/STATISTICS/STATISTICS08-INDEX_NUMBERS/STATISTICS08-INDEX_NUMBERS-CNOTES.md",
+                  "sha": "aba46d6615d0e006e70c81df6a883bc11fbdd68f",
                   "mime": "text/markdown"
                 }
               ]
@@ -1039,23 +1039,23 @@
               "children": [
                 {
                   "type": "file",
-                  "name": "THEMES-IN-WORLD-HISTORY01-FROM_THE_BEGINNING_OF_TIME-CNOTES.md",
-                  "path": "AI-NOTES/THEMES-IN-WORLD-HISTORY/THEMES-IN-WORLD-HISTORY01-FROM_THE_BEGINNING_OF_TIME/THEMES-IN-WORLD-HISTORY01-FROM_THE_BEGINNING_OF_TIME-CNOTES.md",
-                  "sha": "e8e3b2f66b95a22b0e93e8fb653414588b7a4835",
-                  "mime": "text/markdown"
-                },
-                {
-                  "type": "file",
-                  "name": "THEMES-IN-WORLD-HISTORY01-FROM_THE_BEGINNING_OF_TIME-GLOSSARY.md",
+                  "name": "📒 THEMES-IN-WORLD-HISTORY01-FROM_THE_BEGINNING_OF_TIME-GLOSSARY.md",
                   "path": "AI-NOTES/THEMES-IN-WORLD-HISTORY/THEMES-IN-WORLD-HISTORY01-FROM_THE_BEGINNING_OF_TIME/THEMES-IN-WORLD-HISTORY01-FROM_THE_BEGINNING_OF_TIME-GLOSSARY.md",
                   "sha": "35b4e291c64e1cf22d9ddb48bea3b9c1b663b46b",
                   "mime": "text/markdown"
                 },
                 {
                   "type": "file",
-                  "name": "THEMES-IN-WORLD-HISTORY01-FROM_THE_BEGINNING_OF_TIME-NOTES.md",
+                  "name": "📓 THEMES-IN-WORLD-HISTORY01-FROM_THE_BEGINNING_OF_TIME-NOTES.md",
                   "path": "AI-NOTES/THEMES-IN-WORLD-HISTORY/THEMES-IN-WORLD-HISTORY01-FROM_THE_BEGINNING_OF_TIME/THEMES-IN-WORLD-HISTORY01-FROM_THE_BEGINNING_OF_TIME-NOTES.md",
                   "sha": "a59212ae2339ba3035a997e3039cff026f9c31f9",
+                  "mime": "text/markdown"
+                },
+                {
+                  "type": "file",
+                  "name": "📔 THEMES-IN-WORLD-HISTORY01-FROM_THE_BEGINNING_OF_TIME-CNOTES.md",
+                  "path": "AI-NOTES/THEMES-IN-WORLD-HISTORY/THEMES-IN-WORLD-HISTORY01-FROM_THE_BEGINNING_OF_TIME/THEMES-IN-WORLD-HISTORY01-FROM_THE_BEGINNING_OF_TIME-CNOTES.md",
+                  "sha": "e8e3b2f66b95a22b0e93e8fb653414588b7a4835",
                   "mime": "text/markdown"
                 }
               ]
@@ -1066,23 +1066,23 @@
               "children": [
                 {
                   "type": "file",
-                  "name": "THEMES-IN-WORLD-HISTORY02-EARLY_SOCIETIES-CNOTES.md",
-                  "path": "AI-NOTES/THEMES-IN-WORLD-HISTORY/THEMES-IN-WORLD-HISTORY02-EARLY_SOCIETIES/THEMES-IN-WORLD-HISTORY02-EARLY_SOCIETIES-CNOTES.md",
-                  "sha": "07147eecadc91bec5ac0c37c9bb2fbb2f52534bf",
-                  "mime": "text/markdown"
-                },
-                {
-                  "type": "file",
-                  "name": "THEMES-IN-WORLD-HISTORY02-EARLY_SOCIETIES-GLOSSARY.md",
+                  "name": "📒 THEMES-IN-WORLD-HISTORY02-EARLY_SOCIETIES-GLOSSARY.md",
                   "path": "AI-NOTES/THEMES-IN-WORLD-HISTORY/THEMES-IN-WORLD-HISTORY02-EARLY_SOCIETIES/THEMES-IN-WORLD-HISTORY02-EARLY_SOCIETIES-GLOSSARY.md",
                   "sha": "6df3d3dad6337f96a901250d46cac5f19d17d8cc",
                   "mime": "text/markdown"
                 },
                 {
                   "type": "file",
-                  "name": "THEMES-IN-WORLD-HISTORY02-EARLY_SOCIETIES-NOTES.md",
+                  "name": "📓 THEMES-IN-WORLD-HISTORY02-EARLY_SOCIETIES-NOTES.md",
                   "path": "AI-NOTES/THEMES-IN-WORLD-HISTORY/THEMES-IN-WORLD-HISTORY02-EARLY_SOCIETIES/THEMES-IN-WORLD-HISTORY02-EARLY_SOCIETIES-NOTES.md",
                   "sha": "65df9c5aa6a8f24cccdddb2a99c5bcd5bf211491",
+                  "mime": "text/markdown"
+                },
+                {
+                  "type": "file",
+                  "name": "📔 THEMES-IN-WORLD-HISTORY02-EARLY_SOCIETIES-CNOTES.md",
+                  "path": "AI-NOTES/THEMES-IN-WORLD-HISTORY/THEMES-IN-WORLD-HISTORY02-EARLY_SOCIETIES/THEMES-IN-WORLD-HISTORY02-EARLY_SOCIETIES-CNOTES.md",
+                  "sha": "07147eecadc91bec5ac0c37c9bb2fbb2f52534bf",
                   "mime": "text/markdown"
                 }
               ]
@@ -1093,23 +1093,23 @@
               "children": [
                 {
                   "type": "file",
-                  "name": "THEMES-IN-WORLD-HISTORY03-AN_EMPIRE_ACROSS_THREE_CONTINENTS-CNOTES.md",
-                  "path": "AI-NOTES/THEMES-IN-WORLD-HISTORY/THEMES-IN-WORLD-HISTORY03-AN_EMPIRE_ACROSS_THREE_CONTINENTS/THEMES-IN-WORLD-HISTORY03-AN_EMPIRE_ACROSS_THREE_CONTINENTS-CNOTES.md",
-                  "sha": "6e4acbd468df3209ad4c52ab7e137df96081b699",
-                  "mime": "text/markdown"
-                },
-                {
-                  "type": "file",
-                  "name": "THEMES-IN-WORLD-HISTORY03-AN_EMPIRE_ACROSS_THREE_CONTINENTS-GLOSSARY.md",
+                  "name": "📒 THEMES-IN-WORLD-HISTORY03-AN_EMPIRE_ACROSS_THREE_CONTINENTS-GLOSSARY.md",
                   "path": "AI-NOTES/THEMES-IN-WORLD-HISTORY/THEMES-IN-WORLD-HISTORY03-AN_EMPIRE_ACROSS_THREE_CONTINENTS/THEMES-IN-WORLD-HISTORY03-AN_EMPIRE_ACROSS_THREE_CONTINENTS-GLOSSARY.md",
                   "sha": "e01b8a3d0f507352039ac6aa167feae24e12bbe2",
                   "mime": "text/markdown"
                 },
                 {
                   "type": "file",
-                  "name": "THEMES-IN-WORLD-HISTORY03-AN_EMPIRE_ACROSS_THREE_CONTINENTS-NOTES.md",
+                  "name": "📓 THEMES-IN-WORLD-HISTORY03-AN_EMPIRE_ACROSS_THREE_CONTINENTS-NOTES.md",
                   "path": "AI-NOTES/THEMES-IN-WORLD-HISTORY/THEMES-IN-WORLD-HISTORY03-AN_EMPIRE_ACROSS_THREE_CONTINENTS/THEMES-IN-WORLD-HISTORY03-AN_EMPIRE_ACROSS_THREE_CONTINENTS-NOTES.md",
                   "sha": "40ee51168337916f308fe2764c1762c28ff1b5c1",
+                  "mime": "text/markdown"
+                },
+                {
+                  "type": "file",
+                  "name": "📔 THEMES-IN-WORLD-HISTORY03-AN_EMPIRE_ACROSS_THREE_CONTINENTS-CNOTES.md",
+                  "path": "AI-NOTES/THEMES-IN-WORLD-HISTORY/THEMES-IN-WORLD-HISTORY03-AN_EMPIRE_ACROSS_THREE_CONTINENTS/THEMES-IN-WORLD-HISTORY03-AN_EMPIRE_ACROSS_THREE_CONTINENTS-CNOTES.md",
+                  "sha": "6e4acbd468df3209ad4c52ab7e137df96081b699",
                   "mime": "text/markdown"
                 }
               ]
@@ -1120,23 +1120,23 @@
               "children": [
                 {
                   "type": "file",
-                  "name": "THEMES-IN-WORLD-HISTORY04-THE_CENTRAL_ISLAMIC_LANDS-CNOTES.md",
-                  "path": "AI-NOTES/THEMES-IN-WORLD-HISTORY/THEMES-IN-WORLD-HISTORY04-THE_CENTRAL_ISLAMIC_LANDS/THEMES-IN-WORLD-HISTORY04-THE_CENTRAL_ISLAMIC_LANDS-CNOTES.md",
-                  "sha": "0a7e390a8027596996b9a5f4c54912b133b001d4",
-                  "mime": "text/markdown"
-                },
-                {
-                  "type": "file",
-                  "name": "THEMES-IN-WORLD-HISTORY04-THE_CENTRAL_ISLAMIC_LANDS-GLOSSARY.md",
+                  "name": "📒 THEMES-IN-WORLD-HISTORY04-THE_CENTRAL_ISLAMIC_LANDS-GLOSSARY.md",
                   "path": "AI-NOTES/THEMES-IN-WORLD-HISTORY/THEMES-IN-WORLD-HISTORY04-THE_CENTRAL_ISLAMIC_LANDS/THEMES-IN-WORLD-HISTORY04-THE_CENTRAL_ISLAMIC_LANDS-GLOSSARY.md",
                   "sha": "a40cdd5fb6b52efa6b30899588e734bff3c87ff1",
                   "mime": "text/markdown"
                 },
                 {
                   "type": "file",
-                  "name": "THEMES-IN-WORLD-HISTORY04-THE_CENTRAL_ISLAMIC_LANDS-NOTES.md",
+                  "name": "📓 THEMES-IN-WORLD-HISTORY04-THE_CENTRAL_ISLAMIC_LANDS-NOTES.md",
                   "path": "AI-NOTES/THEMES-IN-WORLD-HISTORY/THEMES-IN-WORLD-HISTORY04-THE_CENTRAL_ISLAMIC_LANDS/THEMES-IN-WORLD-HISTORY04-THE_CENTRAL_ISLAMIC_LANDS-NOTES.md",
                   "sha": "1b867e31e7aeb935d734e00120089bb3f9fe56d6",
+                  "mime": "text/markdown"
+                },
+                {
+                  "type": "file",
+                  "name": "📔 THEMES-IN-WORLD-HISTORY04-THE_CENTRAL_ISLAMIC_LANDS-CNOTES.md",
+                  "path": "AI-NOTES/THEMES-IN-WORLD-HISTORY/THEMES-IN-WORLD-HISTORY04-THE_CENTRAL_ISLAMIC_LANDS/THEMES-IN-WORLD-HISTORY04-THE_CENTRAL_ISLAMIC_LANDS-CNOTES.md",
+                  "sha": "0a7e390a8027596996b9a5f4c54912b133b001d4",
                   "mime": "text/markdown"
                 }
               ]
@@ -1147,23 +1147,23 @@
               "children": [
                 {
                   "type": "file",
-                  "name": "THEMES-IN-WORLD-HISTORY05-NOMADIC_EMPIRES-CNOTES.md",
-                  "path": "AI-NOTES/THEMES-IN-WORLD-HISTORY/THEMES-IN-WORLD-HISTORY05-NOMADIC_EMPIRES/THEMES-IN-WORLD-HISTORY05-NOMADIC_EMPIRES-CNOTES.md",
-                  "sha": "5a60c69541879f802d13a4536a3da23d07f6dce4",
-                  "mime": "text/markdown"
-                },
-                {
-                  "type": "file",
-                  "name": "THEMES-IN-WORLD-HISTORY05-NOMADIC_EMPIRES-GLOSSARY.md",
+                  "name": "📒 THEMES-IN-WORLD-HISTORY05-NOMADIC_EMPIRES-GLOSSARY.md",
                   "path": "AI-NOTES/THEMES-IN-WORLD-HISTORY/THEMES-IN-WORLD-HISTORY05-NOMADIC_EMPIRES/THEMES-IN-WORLD-HISTORY05-NOMADIC_EMPIRES-GLOSSARY.md",
                   "sha": "34aa35c0dfa89ea2e7140c1aa86c75b1c95b5d5f",
                   "mime": "text/markdown"
                 },
                 {
                   "type": "file",
-                  "name": "THEMES-IN-WORLD-HISTORY05-NOMADIC_EMPIRES-NOTES.md",
+                  "name": "📓 THEMES-IN-WORLD-HISTORY05-NOMADIC_EMPIRES-NOTES.md",
                   "path": "AI-NOTES/THEMES-IN-WORLD-HISTORY/THEMES-IN-WORLD-HISTORY05-NOMADIC_EMPIRES/THEMES-IN-WORLD-HISTORY05-NOMADIC_EMPIRES-NOTES.md",
                   "sha": "57f383b9833a0f17bad5173b2dff6efffc9eb830",
+                  "mime": "text/markdown"
+                },
+                {
+                  "type": "file",
+                  "name": "📔 THEMES-IN-WORLD-HISTORY05-NOMADIC_EMPIRES-CNOTES.md",
+                  "path": "AI-NOTES/THEMES-IN-WORLD-HISTORY/THEMES-IN-WORLD-HISTORY05-NOMADIC_EMPIRES/THEMES-IN-WORLD-HISTORY05-NOMADIC_EMPIRES-CNOTES.md",
+                  "sha": "5a60c69541879f802d13a4536a3da23d07f6dce4",
                   "mime": "text/markdown"
                 }
               ]
@@ -1174,23 +1174,23 @@
               "children": [
                 {
                   "type": "file",
-                  "name": "THEMES-IN-WORLD-HISTORY06-THE_THREE_ORDERS-CNOTES.md",
-                  "path": "AI-NOTES/THEMES-IN-WORLD-HISTORY/THEMES-IN-WORLD-HISTORY06-THE_THREE_ORDERS/THEMES-IN-WORLD-HISTORY06-THE_THREE_ORDERS-CNOTES.md",
-                  "sha": "afb58e0f26948f56d5b5b72d8d80460cc11a75c0",
-                  "mime": "text/markdown"
-                },
-                {
-                  "type": "file",
-                  "name": "THEMES-IN-WORLD-HISTORY06-THE_THREE_ORDERS-GLOSSARY.md",
+                  "name": "📒 THEMES-IN-WORLD-HISTORY06-THE_THREE_ORDERS-GLOSSARY.md",
                   "path": "AI-NOTES/THEMES-IN-WORLD-HISTORY/THEMES-IN-WORLD-HISTORY06-THE_THREE_ORDERS/THEMES-IN-WORLD-HISTORY06-THE_THREE_ORDERS-GLOSSARY.md",
                   "sha": "94e48cba0d3f342bbdccb83d6bce8fa79de0270c",
                   "mime": "text/markdown"
                 },
                 {
                   "type": "file",
-                  "name": "THEMES-IN-WORLD-HISTORY06-THE_THREE_ORDERS-NOTES.md",
+                  "name": "📓 THEMES-IN-WORLD-HISTORY06-THE_THREE_ORDERS-NOTES.md",
                   "path": "AI-NOTES/THEMES-IN-WORLD-HISTORY/THEMES-IN-WORLD-HISTORY06-THE_THREE_ORDERS/THEMES-IN-WORLD-HISTORY06-THE_THREE_ORDERS-NOTES.md",
                   "sha": "fe34222bfa8beb7552312c34830aad1519ee4a7d",
+                  "mime": "text/markdown"
+                },
+                {
+                  "type": "file",
+                  "name": "📔 THEMES-IN-WORLD-HISTORY06-THE_THREE_ORDERS-CNOTES.md",
+                  "path": "AI-NOTES/THEMES-IN-WORLD-HISTORY/THEMES-IN-WORLD-HISTORY06-THE_THREE_ORDERS/THEMES-IN-WORLD-HISTORY06-THE_THREE_ORDERS-CNOTES.md",
+                  "sha": "afb58e0f26948f56d5b5b72d8d80460cc11a75c0",
                   "mime": "text/markdown"
                 }
               ]
@@ -1201,23 +1201,23 @@
               "children": [
                 {
                   "type": "file",
-                  "name": "THEMES-IN-WORLD-HISTORY07-CHANGING_CULTURAL_TRADITIONS-CNOTES.md",
-                  "path": "AI-NOTES/THEMES-IN-WORLD-HISTORY/THEMES-IN-WORLD-HISTORY07-CHANGING_CULTURAL_TRADITIONS/THEMES-IN-WORLD-HISTORY07-CHANGING_CULTURAL_TRADITIONS-CNOTES.md",
-                  "sha": "d0aac660c0675c7599e740144a84b4422a159353",
-                  "mime": "text/markdown"
-                },
-                {
-                  "type": "file",
-                  "name": "THEMES-IN-WORLD-HISTORY07-CHANGING_CULTURAL_TRADITIONS-GLOSSARY.md",
+                  "name": "📒 THEMES-IN-WORLD-HISTORY07-CHANGING_CULTURAL_TRADITIONS-GLOSSARY.md",
                   "path": "AI-NOTES/THEMES-IN-WORLD-HISTORY/THEMES-IN-WORLD-HISTORY07-CHANGING_CULTURAL_TRADITIONS/THEMES-IN-WORLD-HISTORY07-CHANGING_CULTURAL_TRADITIONS-GLOSSARY.md",
                   "sha": "e43c3c6d0b2736f6b23a0fee16336433e40b2dae",
                   "mime": "text/markdown"
                 },
                 {
                   "type": "file",
-                  "name": "THEMES-IN-WORLD-HISTORY07-CHANGING_CULTURAL_TRADITIONS-NOTES.md",
+                  "name": "📓 THEMES-IN-WORLD-HISTORY07-CHANGING_CULTURAL_TRADITIONS-NOTES.md",
                   "path": "AI-NOTES/THEMES-IN-WORLD-HISTORY/THEMES-IN-WORLD-HISTORY07-CHANGING_CULTURAL_TRADITIONS/THEMES-IN-WORLD-HISTORY07-CHANGING_CULTURAL_TRADITIONS-NOTES.md",
                   "sha": "1a8379b8e1213b699a675b2253e1a089be5c1e95",
+                  "mime": "text/markdown"
+                },
+                {
+                  "type": "file",
+                  "name": "📔 THEMES-IN-WORLD-HISTORY07-CHANGING_CULTURAL_TRADITIONS-CNOTES.md",
+                  "path": "AI-NOTES/THEMES-IN-WORLD-HISTORY/THEMES-IN-WORLD-HISTORY07-CHANGING_CULTURAL_TRADITIONS/THEMES-IN-WORLD-HISTORY07-CHANGING_CULTURAL_TRADITIONS-CNOTES.md",
+                  "sha": "d0aac660c0675c7599e740144a84b4422a159353",
                   "mime": "text/markdown"
                 }
               ]
@@ -1234,23 +1234,23 @@
               "children": [
                 {
                   "type": "file",
-                  "name": "UNDERSTANDING-SOCIETY01-STRUCTURES_OF_SOCIETY-CNOTES.md",
-                  "path": "AI-NOTES/UNDERSTANDING-SOCIETY/UNDERSTANDING-SOCIETY01-STRUCTURES_OF_SOCIETY/UNDERSTANDING-SOCIETY01-STRUCTURES_OF_SOCIETY-CNOTES.md",
-                  "sha": "39159d6ea07854be39bb2bf7460b55c5677a3d91",
-                  "mime": "text/markdown"
-                },
-                {
-                  "type": "file",
-                  "name": "UNDERSTANDING-SOCIETY01-STRUCTURES_OF_SOCIETY-GLOSSARY.md",
+                  "name": "📒 UNDERSTANDING-SOCIETY01-STRUCTURES_OF_SOCIETY-GLOSSARY.md",
                   "path": "AI-NOTES/UNDERSTANDING-SOCIETY/UNDERSTANDING-SOCIETY01-STRUCTURES_OF_SOCIETY/UNDERSTANDING-SOCIETY01-STRUCTURES_OF_SOCIETY-GLOSSARY.md",
                   "sha": "12b8326fdd070c7ecc0b49ac7f3e164f197f209b",
                   "mime": "text/markdown"
                 },
                 {
                   "type": "file",
-                  "name": "UNDERSTANDING-SOCIETY01-STRUCTURES_OF_SOCIETY-NOTES.md",
+                  "name": "📓 UNDERSTANDING-SOCIETY01-STRUCTURES_OF_SOCIETY-NOTES.md",
                   "path": "AI-NOTES/UNDERSTANDING-SOCIETY/UNDERSTANDING-SOCIETY01-STRUCTURES_OF_SOCIETY/UNDERSTANDING-SOCIETY01-STRUCTURES_OF_SOCIETY-NOTES.md",
                   "sha": "decdbc26a80cfd27e41d4fc4e55205869ae5aa90",
+                  "mime": "text/markdown"
+                },
+                {
+                  "type": "file",
+                  "name": "📔 UNDERSTANDING-SOCIETY01-STRUCTURES_OF_SOCIETY-CNOTES.md",
+                  "path": "AI-NOTES/UNDERSTANDING-SOCIETY/UNDERSTANDING-SOCIETY01-STRUCTURES_OF_SOCIETY/UNDERSTANDING-SOCIETY01-STRUCTURES_OF_SOCIETY-CNOTES.md",
+                  "sha": "39159d6ea07854be39bb2bf7460b55c5677a3d91",
                   "mime": "text/markdown"
                 }
               ]
@@ -1261,23 +1261,23 @@
               "children": [
                 {
                   "type": "file",
-                  "name": "UNDERSTANDING-SOCIETY02-SOCIAL_INSTITUTIONS_CONTINUITY_AND_CHANGE-CNOTES.md",
-                  "path": "AI-NOTES/UNDERSTANDING-SOCIETY/UNDERSTANDING-SOCIETY02-SOCIAL_INSTITUTIONS_CONTINUITY_AND_CHANGE/UNDERSTANDING-SOCIETY02-SOCIAL_INSTITUTIONS_CONTINUITY_AND_CHANGE-CNOTES.md",
-                  "sha": "da89f7857c17368cfe37c968474acbf5991047fb",
-                  "mime": "text/markdown"
-                },
-                {
-                  "type": "file",
-                  "name": "UNDERSTANDING-SOCIETY02-SOCIAL_INSTITUTIONS_CONTINUITY_AND_CHANGE-GLOSSARY.md",
+                  "name": "📒 UNDERSTANDING-SOCIETY02-SOCIAL_INSTITUTIONS_CONTINUITY_AND_CHANGE-GLOSSARY.md",
                   "path": "AI-NOTES/UNDERSTANDING-SOCIETY/UNDERSTANDING-SOCIETY02-SOCIAL_INSTITUTIONS_CONTINUITY_AND_CHANGE/UNDERSTANDING-SOCIETY02-SOCIAL_INSTITUTIONS_CONTINUITY_AND_CHANGE-GLOSSARY.md",
                   "sha": "f49922afcb4572c99b7701b3de8e45cf49491d0f",
                   "mime": "text/markdown"
                 },
                 {
                   "type": "file",
-                  "name": "UNDERSTANDING-SOCIETY02-SOCIAL_INSTITUTIONS_CONTINUITY_AND_CHANGE-NOTES.md",
+                  "name": "📓 UNDERSTANDING-SOCIETY02-SOCIAL_INSTITUTIONS_CONTINUITY_AND_CHANGE-NOTES.md",
                   "path": "AI-NOTES/UNDERSTANDING-SOCIETY/UNDERSTANDING-SOCIETY02-SOCIAL_INSTITUTIONS_CONTINUITY_AND_CHANGE/UNDERSTANDING-SOCIETY02-SOCIAL_INSTITUTIONS_CONTINUITY_AND_CHANGE-NOTES.md",
                   "sha": "097e7cca197f29afe019cc8dd4d41c2c9e861016",
+                  "mime": "text/markdown"
+                },
+                {
+                  "type": "file",
+                  "name": "📔 UNDERSTANDING-SOCIETY02-SOCIAL_INSTITUTIONS_CONTINUITY_AND_CHANGE-CNOTES.md",
+                  "path": "AI-NOTES/UNDERSTANDING-SOCIETY/UNDERSTANDING-SOCIETY02-SOCIAL_INSTITUTIONS_CONTINUITY_AND_CHANGE/UNDERSTANDING-SOCIETY02-SOCIAL_INSTITUTIONS_CONTINUITY_AND_CHANGE-CNOTES.md",
+                  "sha": "da89f7857c17368cfe37c968474acbf5991047fb",
                   "mime": "text/markdown"
                 }
               ]
@@ -1288,23 +1288,23 @@
               "children": [
                 {
                   "type": "file",
-                  "name": "UNDERSTANDING-SOCIETY03-SOCIAL_INEQUALITY_AND_EXCLUSION-CNOTES.md",
-                  "path": "AI-NOTES/UNDERSTANDING-SOCIETY/UNDERSTANDING-SOCIETY03-SOCIAL_INEQUALITY_AND_EXCLUSION/UNDERSTANDING-SOCIETY03-SOCIAL_INEQUALITY_AND_EXCLUSION-CNOTES.md",
-                  "sha": "dd0b283fe44b4e9ef7fee2eceea24d2f36770e8d",
-                  "mime": "text/markdown"
-                },
-                {
-                  "type": "file",
-                  "name": "UNDERSTANDING-SOCIETY03-SOCIAL_INEQUALITY_AND_EXCLUSION-GLOSSARY.md",
+                  "name": "📒 UNDERSTANDING-SOCIETY03-SOCIAL_INEQUALITY_AND_EXCLUSION-GLOSSARY.md",
                   "path": "AI-NOTES/UNDERSTANDING-SOCIETY/UNDERSTANDING-SOCIETY03-SOCIAL_INEQUALITY_AND_EXCLUSION/UNDERSTANDING-SOCIETY03-SOCIAL_INEQUALITY_AND_EXCLUSION-GLOSSARY.md",
                   "sha": "fd987551a3e7b90fc3a7e05e06f7ea9a19eddbdc",
                   "mime": "text/markdown"
                 },
                 {
                   "type": "file",
-                  "name": "UNDERSTANDING-SOCIETY03-SOCIAL_INEQUALITY_AND_EXCLUSION-NOTES.md",
+                  "name": "📓 UNDERSTANDING-SOCIETY03-SOCIAL_INEQUALITY_AND_EXCLUSION-NOTES.md",
                   "path": "AI-NOTES/UNDERSTANDING-SOCIETY/UNDERSTANDING-SOCIETY03-SOCIAL_INEQUALITY_AND_EXCLUSION/UNDERSTANDING-SOCIETY03-SOCIAL_INEQUALITY_AND_EXCLUSION-NOTES.md",
                   "sha": "c95a049dfa7afde08cf77d50eac0e9135b95012b",
+                  "mime": "text/markdown"
+                },
+                {
+                  "type": "file",
+                  "name": "📔 UNDERSTANDING-SOCIETY03-SOCIAL_INEQUALITY_AND_EXCLUSION-CNOTES.md",
+                  "path": "AI-NOTES/UNDERSTANDING-SOCIETY/UNDERSTANDING-SOCIETY03-SOCIAL_INEQUALITY_AND_EXCLUSION/UNDERSTANDING-SOCIETY03-SOCIAL_INEQUALITY_AND_EXCLUSION-CNOTES.md",
+                  "sha": "dd0b283fe44b4e9ef7fee2eceea24d2f36770e8d",
                   "mime": "text/markdown"
                 }
               ]
@@ -1315,23 +1315,23 @@
               "children": [
                 {
                   "type": "file",
-                  "name": "UNDERSTANDING-SOCIETY04-THE_CHALLENGES_OF_CULTURAL_DIVERSITY-CNOTES.md",
-                  "path": "AI-NOTES/UNDERSTANDING-SOCIETY/UNDERSTANDING-SOCIETY04-THE_CHALLENGES_OF_CULTURAL_DIVERSITY/UNDERSTANDING-SOCIETY04-THE_CHALLENGES_OF_CULTURAL_DIVERSITY-CNOTES.md",
-                  "sha": "aca663ee6bb2071b0d3bd5498df930a6df608f80",
-                  "mime": "text/markdown"
-                },
-                {
-                  "type": "file",
-                  "name": "UNDERSTANDING-SOCIETY04-THE_CHALLENGES_OF_CULTURAL_DIVERSITY-GLOSSARY.md",
+                  "name": "📒 UNDERSTANDING-SOCIETY04-THE_CHALLENGES_OF_CULTURAL_DIVERSITY-GLOSSARY.md",
                   "path": "AI-NOTES/UNDERSTANDING-SOCIETY/UNDERSTANDING-SOCIETY04-THE_CHALLENGES_OF_CULTURAL_DIVERSITY/UNDERSTANDING-SOCIETY04-THE_CHALLENGES_OF_CULTURAL_DIVERSITY-GLOSSARY.md",
                   "sha": "641ab15ef0bf0bd9a26e9f60c7000ccc2d9994e0",
                   "mime": "text/markdown"
                 },
                 {
                   "type": "file",
-                  "name": "UNDERSTANDING-SOCIETY04-THE_CHALLENGES_OF_CULTURAL_DIVERSITY-NOTES.md",
+                  "name": "📓 UNDERSTANDING-SOCIETY04-THE_CHALLENGES_OF_CULTURAL_DIVERSITY-NOTES.md",
                   "path": "AI-NOTES/UNDERSTANDING-SOCIETY/UNDERSTANDING-SOCIETY04-THE_CHALLENGES_OF_CULTURAL_DIVERSITY/UNDERSTANDING-SOCIETY04-THE_CHALLENGES_OF_CULTURAL_DIVERSITY-NOTES.md",
                   "sha": "153c27609d7ce33024ddeb595b93d8f30bfa7896",
+                  "mime": "text/markdown"
+                },
+                {
+                  "type": "file",
+                  "name": "📔 UNDERSTANDING-SOCIETY04-THE_CHALLENGES_OF_CULTURAL_DIVERSITY-CNOTES.md",
+                  "path": "AI-NOTES/UNDERSTANDING-SOCIETY/UNDERSTANDING-SOCIETY04-THE_CHALLENGES_OF_CULTURAL_DIVERSITY/UNDERSTANDING-SOCIETY04-THE_CHALLENGES_OF_CULTURAL_DIVERSITY-CNOTES.md",
+                  "sha": "aca663ee6bb2071b0d3bd5498df930a6df608f80",
                   "mime": "text/markdown"
                 }
               ]
@@ -1342,23 +1342,23 @@
               "children": [
                 {
                   "type": "file",
-                  "name": "UNDERSTANDING-SOCIETY05-CHANGE_AND_DEVELOPMENT_IN_RURAL_SOCIETY-CNOTES.md",
-                  "path": "AI-NOTES/UNDERSTANDING-SOCIETY/UNDERSTANDING-SOCIETY05-CHANGE_AND_DEVELOPMENT_IN_RURAL_SOCIETY/UNDERSTANDING-SOCIETY05-CHANGE_AND_DEVELOPMENT_IN_RURAL_SOCIETY-CNOTES.md",
-                  "sha": "e2d0289bda657c17a7cac28e40188753496694f3",
-                  "mime": "text/markdown"
-                },
-                {
-                  "type": "file",
-                  "name": "UNDERSTANDING-SOCIETY05-CHANGE_AND_DEVELOPMENT_IN_RURAL_SOCIETY-GLOSSARY.md",
+                  "name": "📒 UNDERSTANDING-SOCIETY05-CHANGE_AND_DEVELOPMENT_IN_RURAL_SOCIETY-GLOSSARY.md",
                   "path": "AI-NOTES/UNDERSTANDING-SOCIETY/UNDERSTANDING-SOCIETY05-CHANGE_AND_DEVELOPMENT_IN_RURAL_SOCIETY/UNDERSTANDING-SOCIETY05-CHANGE_AND_DEVELOPMENT_IN_RURAL_SOCIETY-GLOSSARY.md",
                   "sha": "031870e1a7d704f9a11e556ade03b24b50a9afc3",
                   "mime": "text/markdown"
                 },
                 {
                   "type": "file",
-                  "name": "UNDERSTANDING-SOCIETY05-CHANGE_AND_DEVELOPMENT_IN_RURAL_SOCIETY-NOTES.md",
+                  "name": "📓 UNDERSTANDING-SOCIETY05-CHANGE_AND_DEVELOPMENT_IN_RURAL_SOCIETY-NOTES.md",
                   "path": "AI-NOTES/UNDERSTANDING-SOCIETY/UNDERSTANDING-SOCIETY05-CHANGE_AND_DEVELOPMENT_IN_RURAL_SOCIETY/UNDERSTANDING-SOCIETY05-CHANGE_AND_DEVELOPMENT_IN_RURAL_SOCIETY-NOTES.md",
                   "sha": "f42aac782e3a50fdef5fc291a6b6eb3f021c3326",
+                  "mime": "text/markdown"
+                },
+                {
+                  "type": "file",
+                  "name": "📔 UNDERSTANDING-SOCIETY05-CHANGE_AND_DEVELOPMENT_IN_RURAL_SOCIETY-CNOTES.md",
+                  "path": "AI-NOTES/UNDERSTANDING-SOCIETY/UNDERSTANDING-SOCIETY05-CHANGE_AND_DEVELOPMENT_IN_RURAL_SOCIETY/UNDERSTANDING-SOCIETY05-CHANGE_AND_DEVELOPMENT_IN_RURAL_SOCIETY-CNOTES.md",
+                  "sha": "e2d0289bda657c17a7cac28e40188753496694f3",
                   "mime": "text/markdown"
                 }
               ]
