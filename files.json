@@ -1369,11 +1369,6 @@
     },
     {
       "type": "folder",
-      "name": "NCERT-EXAMPLER",
-      "children": []
-    },
-    {
-      "type": "folder",
       "name": "NCERT-PDF",
       "children": [
         {
